@@ -1,0 +1,151 @@
+,EventTemplate,Occurrences
+0,generating core.<*>,721
+1,iar <*> dear <*>,208
+2,<*> floating point alignment exceptions,104
+3,"CE sym <*>, at <*>, mask <*>",92
+4,<*> double-hummer alignment exceptions,74
+5,"<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.",71
+6,data TLB error interrupt,60
+7,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable <*>.,50
+8,instruction cache parity error <*>,42
+9,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=<*> Source line=<*> Function=<*>,35
+10,ciod: generated <*> core files for program <*>,30
+11,<*> double-hummer alignment <*>,27
+12,data storage interrupt,24
+13,instruction address: <*>,21
+14,"ciod: Error loading <*>: invalid or missing program image, <*>",21
+15,"<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>",18
+16,ciod: Error loading <*>: <*>,18
+17,"ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>",16
+18,total of <*> ddr error(s) detected and corrected,13
+19,<*> floating point alignment <*>,13
+20,<*> <*> alignment exceptions,12
+21,ciod: LOGIN chdir(<*>) failed: <*>,10
+22,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed,9
+23,Lustre mount FAILED : <*> : point <*>,9
+24,data address: <*>,8
+25,program interrupt: illegal instruction......<*>,8
+26,"ciod: Error reading message prefix on CioStream socket to <*>, Link has been severed",8
+27,core configuration register: <*>,7
+28,"ciod: Error loading <*>: invalid or missing program image, No such file or directory",7
+29,ciod: LOGIN chdir(<*>) failed: No such file or directory,7
+30,"<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds",7
+31,data storage <*>,6
+32,exception syndrome register: <*>,6
+33,Node card is not fully functional,6
+34,Can not get assembly information for <*>,6
+35,rts: kernel terminated for reason <*>,6
+36,data cache search parity error detected. attempting to correct,6
+37,machine check: i-fetch......................<*>,5
+38,data store interrupt caused by dcbf.........<*>,5
+39,program interrupt: privileged instruction...<*>,5
+40,program interrupt: imprecise exception......<*>,5
+41,auxiliary processor.........................<*>,5
+42,floating pt ex mode <*> enable......<*>,5
+43,data address space................<*>,5
+44,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.,5
+45,"Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>",5
+46,MACHINE CHECK DCR read timeout (mc=<*> iar <*> lr <*>),5
+47,"Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*>",5
+48,machine state register: <*>,4
+49,data store interrupt caused by icbi.........<*>,4
+50,floating point instr. enabled.....<*>,4
+51,program interrupt: fp cr field .............<*>,4
+52,"ciod: Error reading message prefix on CioStream socket to <*>, Connection reset by peer",4
+53,total of <*> ddr error(s) detected and corrected over <*> seconds,4
+54,ciod: failed to read message prefix on control stream (CioStream socket to <*>,3
+55,"problem state (<*>=sup,<*>=usr).......<*>",3
+56,disable store gathering..................<*>,3
+57,program interrupt,3
+58,"Node card VPD check: U11 node in processor card slot <*> do not match. VPD ecid <*>, found <*>",3
+59,"Node card VPD check: U01 node in processor card slot <*> do not match. VPD ecid <*>, found <*>",3
+60,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected,3
+61,"ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory",3
+62,"Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*>",3
+63,force load/store alignment...............<*>,2
+64,store operation.............................<*>,2
+65,machine check enable..............<*>,2
+66,program interrupt: unimplemented operation..<*>,2
+67,byte ordering exception.....................<*>,2
+68,guaranteed instruction cache block touch.<*>,2
+69,icache prefetch threshold................<*>,2
+70,debug wait enable.................<*>,2
+71,ciod: Missing or invalid fields on line <*> of node map file <*>,2
+72,<*> torus receiver z+ input pipe error(s) (dcr <*>) detected and corrected,2
+73,rts panic! - stopping execution,2
+74,New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>,2
+75,ciod: LOGIN chdir(pwd) failed: <*>,2
+76,"NFS Mount failed on <*>, slept <*> seconds, retrying (<*>)",2
+77,ciod: pollControlDescriptors: Detected the debugger died.,2
+78,"ciod: Error loading <*>: invalid or missing program image, Permission denied",2
+79,"critical input interrupt (unit=<*> bit=<*>): warning for torus <*> wire, suppressing further interrupts of same type",2
+80,Lustre mount FAILED : <*> : <*> : <*>,2
+81,MACHINE CHECK DCR read timeout (mc=e08x iar <*> lr <*>),2
+82,"ciod: Error reading message prefix on CioStream socket to <*>, Connection timed out",2
+83,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected over <*> seconds,2
+84,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>,1
+85,ciod: Message code <*> is not <*> or <*>,1
+86,program interrupt: trap instruction.........<*>,1
+87,data store interrupt caused by <*>.........<*>,1
+88,debug interrupt enable............<*>,1
+89,program interrupt: fp cr update.............<*>,1
+90,guaranteed data cache block touch........<*>,1
+91,icache prefetch depth....................<*>,1
+92,wait state enable.................<*>,1
+93,critical input interrupt enable...<*>,1
+94,special purpose registers:,1
+95,lr:<*> cr:<*> xer:<*> ctr:<*>,1
+96,<*> internal error,1
+97,instruction address space.........<*>,1
+98,ciod: Error creating node map from file <*>: No child processes,1
+99,ciod: Error creating node map from file <*>: Bad file descriptor,1
+100,Ido chip status changed: FF:F2:9F:<*>:E2:<*>:0D:<*>:E9:1D:DC ip=<*> v=<*> t=<*> status=<*> Fri Jul <*> <*> PDT <*>,1
+101,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>,1
+102,ciod: Error creating node map from file <*>: Block device required,1
+103,ciod: Error creating node map from file <*>: Permission denied,1
+104,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>,1
+105,"rts: kernel terminated for reason <*>: bad message header: invalid cpu, type=<*>, cpu=<*>, index=<*>, total=<*>",1
+106,New ido chip inserted into the database: FF:F2:9F:<*>:1F:<*>:0D:<*>:EA:E0:8D ip=<*> v=<*> t=<*>,1
+107,NodeCard is not fully functional,1
+108,"Node card status: ALERT <*>, ALERT <*>, ALERT <*>, ALERT <*> is (are) active. Clock Mode is <*>. Clock Select is <*>. Phy JTAG Reset is <*>. ASIC JTAG Reset is <*>. Temperature Mask is <*>. No temperature error. Temperature Limit Error Latch is <*>. PGOOD is <*>. PGOOD error latch is <*>. MPGOOD is <*>. MPGOOD error latch is <*>. The <*> volt rail is OK. The <*> volt rail is OK.",1
+109,Ido chip status changed: FF:F2:9F:<*>:EB:<*>:0D:<*>:E9:<*>:D8 ip=<*> v=<*> t=<*> status=<*> <*>,1
+110,Ido chip status changed: FF:F2:9F:<*>:7E:6E:<*>:0D:<*>:EA:<*> ip=<*> v=<*> t=<*> status=<*> <*>,1
+111,"PrepareForService shutting down NodeCard(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>",1
+112,Ido chip status changed: <*> ip=<*> v=<*> t=<*> status=<*> <*>,1
+113,rts tree/torus link training failed: wanted: <*> <*> <*>+ <*>- <*>+ <*>- <*>+ <*>- got: <*> <*> <*>- <*>- <*>+ <*>-,1
+114,"ciod: Error loading <*>: invalid or missing program image, Exec format error",1
+115,<*> torus receiver x+ input pipe error(s) (dcr <*>) detected and corrected,1
+116,"ciod: In packet from node <*> (<*>), message code <*> is not <*> or <*> (softheader=<*>)",1
+117,<*> torus receiver y+ input pipe error(s) (dcr <*>) detected and corrected,1
+118,suppressing further interrupts of same type,1
+119,Ido chip status changed: FF:F2:9F:<*>:7B:E0:<*>:0D:<*>:EA:<*>:1F ip=<*> v=<*> t=<*> status=<*> Sat Sep <*> <*> PDT <*>,1
+120,"Node card VPD check: U11 node in processor card slot J17 do not match. VPD ecid <*>, found <*>",1
+121,"ciod: Error loading /home/yates//bandwidth.rts: invalid or missing program image, No such file or directory",1
+122,"ciod: Error loading /home/yates//broadcast.rts: invalid or missing program image, No such file or directory",1
+123,rts: bad message header: expecting type <*> instead of type <*> (softheader=<*> PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>,1
+124,"ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//bandwidth.rts: invalid or missing program image, No such file or directory",1
+125,"ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//torus-latency.rts: invalid or missing program image, No such file or directory",1
+126,critical input interrupt (unit=<*> bit=<*>): warning for torus <*> wire,1
+127,suppressing further interrupts of same <*>,1
+128,<*> complete,1
+129,critical input interrupt (unit=<*> bit=<*>): warning for torus <*>- wire,1
+130,<*> L3 EDRAM error(s) (dcr <*>) detected and corrected,1
+131,"Node card VPD check: U11 node in processor card slot J10 do not match. VPD ecid <*>, found <*>",1
+132,"ciod: Error loading <*>: <*>, <*>",1
+133,<*> torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over <*> seconds,1
+134,<*> torus sender z- retransmission error(s) (dcr <*>) detected and corrected over <*> seconds,1
+135,dbcr0=<*> dbsr=<*> ccr0=<*>,1
+136,r24=<*> r25=<*> r26=<*> r27=<*>,1
+137,"Node card VPD check: U01 node in processor card slot J05 do not match. VPD ecid <*>, found <*>",1
+138,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.,1
+139,"PrepareForService shutting down Node card(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>",1
+140,minus normalized number..................<*>,1
+141,fraction rounded.........................<*>,1
+142,"critical input interrupt (unit=<*> bit=<*>): warning for tree <*> wire, suppressing further interrupts of same type",1
+143,size of scratchpad portion of L3.........<*> (<*>),1
+144,"Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*>",1
+145,<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds,1
+146,ciod: pollControlDescriptors: Detected the debugger <*>.,1
+147,"ciod: Error loading <*>: program image too big, <*> > <*>",1
+148,fpr29=0xffffffff ffffffff ffffffff <*>,1
+149,Machine State Register: <*>,1

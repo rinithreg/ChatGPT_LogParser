@@ -1,0 +1,4062 @@
+``{component} cache parity error {action}``
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+``{number} double-{vehicle} alignment {issue}```
+ =================== 
+``{timestamp} {event_type} alignment exceptions``
+ =================== 
+``{number} double-{vehicle} alignment exceptions``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``ciod: failed to read message prefix on control stream (CioStream socket to {ip_address}:{port}``
+ =================== 
+``ciod: failed to read message prefix on control stream (CioStream socket to {ip_address}:{port}``
+ =================== 
+``CE sym {value1}, at {address}, mask {mask}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating {core}.201``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{errorCode}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``force load/store alignment...............{alignment}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``CE sym {value1}, at {address}, mask {mask}``
+ =================== 
+`CE sym {symbol}, at {address}, mask {mask}`
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+``{component} cache {error_type} corrected``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+`{error_type} cache {error_description} corrected`
+ =================== 
+`{error_type} cache {error_description} corrected`
+ =================== 
+`{error_type} cache {error_description} corrected`
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+`{error_type} cache {error_description} corrected`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``ciod: cpu {cpu_number} at treeaddr {tree_address} sent unrecognized message {message}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{year}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{errorCode}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {error_type} interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {error_type} interrupt``
+ =================== 
+``data {error_type} interrupt``
+ =================== 
+``data {error_type} interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {type} error interrupt``
+ =================== 
+``data {process} error {type}``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {type} error interrupt``
+ =================== 
+``data {component} error {type}``
+ =================== 
+``data {component} error {type}``
+ =================== 
+``data {process} error {type}``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+`data {component} error {type}`
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {process} error {type}``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+`data {component} error {type}`
+ =================== 
+`data {component} error {type}`
+ =================== 
+`data {component} error {type}`
+ =================== 
+``data {1} error interrupt``
+ =================== 
+`data {component} error {type}`
+ =================== 
+``data {1} error interrupt``
+ =================== 
+`data {component} error {type}`
+ =================== 
+``data {1} error interrupt``
+ =================== 
+`data {component} error {type}`
+ =================== 
+`data {component} error {type}`
+ =================== 
+`data {component} error {type}`
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {error_type} interrupt``
+ =================== 
+`data {component} error {type}`
+ =================== 
+``data {1} error interrupt``
+ =================== 
+`data {component} error {type}`
+ =================== 
+``data {process} error {type}``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {process} error {type}``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``data {1} error interrupt``
+ =================== 
+``{type} TLB error interrupt``
+ =================== 
+`data {component} error {type}`
+ =================== 
+`data {component} error {type}`
+ =================== 
+``{type} TLB error interrupt``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+``ciod: Message code {code} is not {value1} or {value2}``
+ =================== 
+`{category} {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{data}` storage `{interrupt}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{category} {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{category} {action}`
+ =================== 
+``{type} storage {action}```
+ =================== 
+`{data}` storage `{interrupt}`
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+`{type} storage {action}`
+ =================== 
+``instruction address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``data address: {address}``
+ =================== 
+``data address: {address}``
+ =================== 
+``machine check: {component}......................{error_code}``
+ =================== 
+``machine check: {component}......................{error_code}``
+ =================== 
+``program interrupt: {cause}......{code}``
+ =================== 
+`{type} storage {action}`
+ =================== 
+``{type}` interrupt``
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+``instruction address: {address}``
+ =================== 
+`{type} storage {action}`
+ =================== 
+``instruction address: {address}``
+ =================== 
+`{type} storage {action}`
+ =================== 
+``data address: {address}``
+ =================== 
+`{type} storage {action}`
+ =================== 
+``data address: {address}``
+ =================== 
+``data address: {address}``
+ =================== 
+`{data}` storage `{interrupt}`
+ =================== 
+``data address: {address}``
+ =================== 
+``machine check: {error_type}......................{error_code}``
+ =================== 
+`{category} {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{type} storage {action}`
+ =================== 
+`{category} {action}`
+ =================== 
+``data address: {address}``
+ =================== 
+``instruction address: {address}``
+ =================== 
+``exception syndrome register: {register_value}``
+ =================== 
+``exception syndrome register: {exception_code}``
+ =================== 
+``exception syndrome register: {register_value}``
+ =================== 
+``exception syndrome register: {register_value}``
+ =================== 
+``program interrupt: {cause}......{code}``
+ =================== 
+``program interrupt: {cause}......{code}``
+ =================== 
+``data address: {address}``
+ =================== 
+``exception syndrome register: {register_value}``
+ =================== 
+``machine check: {component}......................{error_code}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``machine check: {component}......................{error_code}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``program interrupt: {cause}......{code}``
+ =================== 
+``program interrupt: {cause}......{code}``
+ =================== 
+``program interrupt: {cause}...{error_code}```
+ =================== 
+``program interrupt: {cause}...{code}``
+ =================== 
+``program interrupt: {cause} instruction.........{code}``
+ =================== 
+``program interrupt: {reason}......{code}``
+ =================== 
+``{operation} operation.............................{number}``
+ =================== 
+``{operation}.............................{count}``
+ =================== 
+``machine state register: {state}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``problem state ({state}=sup,{state}=usr).......0``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``{action}` point instr. enabled.....{value}`
+ =================== 
+``{action}` point instr. enabled.....{value}`
+ =================== 
+``{action}` point instr. enabled.....{value}`
+ =================== 
+``{component}.........................{value}``
+ =================== 
+``machine check {action}..............{status}``
+ =================== 
+``machine check {action}..............{status}``
+ =================== 
+``floating pt ex mode {mode} enable......{enable}``
+ =================== 
+``program interrupt: {error_message}.{error_code}``
+ =================== 
+``{log_level} interrupt enable............{value}``
+ =================== 
+``floating pt ex mode {mode} enable......{value}``
+ =================== 
+``{error_message}.....................{error_code}```
+ =================== 
+``{error_message}.....................{error_code}``
+ =================== 
+``data address space................{address}``
+ =================== 
+``data address space................{address}``
+ =================== 
+``program interrupt: {cause}......{code}``
+ =================== 
+``core configuration register: {register_value}``
+ =================== 
+``program interrupt: {reason}......{code}``
+ =================== 
+``program interrupt: {reason} update.............{code}``
+ =================== 
+``{action} instruction cache block touch.{number}``
+ =================== 
+``{action} instruction cache block touch.{number}``
+ =================== 
+``program interrupt: {reason} cr field {field_value}``
+ =================== 
+``program interrupt: {reason} cr field {field_value}``
+ =================== 
+`program interrupt: {reason} cr field {field_value}`
+ =================== 
+``guaranteed {data} cache block touch........{number}``
+ =================== 
+``program interrupt: {reason} cr field {field_value}``
+ =================== 
+``force load/store alignment...............{alignment}``
+ =================== 
+``icache prefetch depth....................{depth}``
+ =================== 
+``machine state register: {state}``
+ =================== 
+``machine state register: {state}``
+ =================== 
+``icache prefetch threshold................{threshold}``
+ =================== 
+``icache prefetch threshold................{threshold}``
+ =================== 
+``machine state register: {state}``
+ =================== 
+``{action} state enable.................{value}``
+ =================== 
+``{severity} input interrupt enable...{code}```
+ =================== 
+``problem state ({state}=sup,{state}=usr).......0``
+ =================== 
+``problem state ({state}=sup,{state}=usr).......0``
+ =================== 
+``{message}.....{value}``
+ =================== 
+``{description}``: `{registers}`
+ =================== 
+``lr:{lr_value} cr:{cr_value} xer:{xer_value} ctr:{ctr_value}``
+ =================== 
+`{module} internal error`
+ =================== 
+``floating pt ex mode {mode} enable......{enable}``
+ =================== 
+``floating pt ex mode {mode} enable......{enable}``
+ =================== 
+``debug {action} enable.................{value}``
+ =================== 
+``floating pt ex mode {mode} enable......{value}``
+ =================== 
+``instruction address space.........{address}``
+ =================== 
+``data address space................{address}``
+ =================== 
+``data address space................{address}``
+ =================== 
+``data address space................{address}``
+ =================== 
+``core configuration register: {register_value}``
+ =================== 
+``core configuration register: {register_value}``
+ =================== 
+``core configuration register: {register_value}``
+ =================== 
+``core configuration register: {register_value}``
+ =================== 
+``core configuration register: {register_value}``
+ =================== 
+``core configuration register: {register_value}``
+ =================== 
+``{action} store gathering..................{status}``
+ =================== 
+``{action} store gathering..................{status}```
+ =================== 
+``{action} store gathering..................{status}```
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{version}``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+`{error_type} cache parity error {correction_status}`
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+`{error_type} cache parity error {correction_status}`
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{version}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``ciod: failed to read message prefix on control stream (CioStream socket to {ip_address}:{port}``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error creating node map from file {file_path}: {error_message}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``generating core.{port}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+``{timestamp} {event_type} {description}``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`{number} double-hummer alignment exceptions`
+ =================== 
+``{number} double-{word} alignment exceptions``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+`{timestamp} {error_code} {error_description}`
+ =================== 
+`{timestamp} {error_code} {error_description}`
+ =================== 
+`{number} double-hummer alignment exceptions`
+ =================== 
+`{number} double-hummer alignment exceptions`
+ =================== 
+`{number} double-hummer alignment exceptions`
+ =================== 
+`CE sym {num1}, at {address}, mask {mask}`
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`{timestamp} double-hummer alignment exceptions`
+ =================== 
+`{timestamp} double-hummer alignment exceptions`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``ciod: Error loading {file_path}: invalid or missing program image, {error_message}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``{component} cache parity error {action}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`{program} interrupt`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``program interrupt: {cause}......{code}``
+ =================== 
+``program interrupt: {cause}......{error_code}``
+ =================== 
+``program interrupt: {cause}...{code}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``{component}.........................{value}``
+ =================== 
+``{component}.........................{value}``
+ =================== 
+``{component}.........................{value}``
+ =================== 
+``program interrupt: {error_message}.{error_code}``
+ =================== 
+``program interrupt: {reason}......{code}``
+ =================== 
+``program interrupt: {reason}......{code}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`{program} interrupt`
+ =================== 
+`{program} interrupt`
+ =================== 
+``instruction address: {address}``
+ =================== 
+``exception syndrome register: {register_value}``
+ =================== 
+``program interrupt: {cause}......{code}``
+ =================== 
+``program interrupt: {cause}...{code}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``data store interrupt caused by {cause}``
+ =================== 
+``{component}.........................{value}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``{Node}` card is not fully functional``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{port}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`CE sym {symbol}, at {memory_address}, mask {mask}`
+ =================== 
+``ciod: Error creating node map from file {file_path}: Bad file descriptor``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{port}``
+ =================== 
+``Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}``
+ =================== 
+``Can not get assembly information for {node}``
+ =================== 
+``{id} {type} alignment exceptions``
+ =================== 
+`{number} double-hummer alignment exceptions`
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`{number} double-{vehicle} alignment {issue}`
+ =================== 
+`{number} double-hummer alignment exceptions`
+ =================== 
+`{number} double-hummer alignment exceptions`
+ =================== 
+``{number} double-{string} alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{number} double-{string} alignment exceptions``
+ =================== 
+``{number} double-{string} alignment {string}```
+ =================== 
+``{number} double-{string} alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`{number} double-{vehicle} alignment exceptions`
+ =================== 
+``{number} double-{string} alignment {string}```
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} {type} alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-{vehicle} alignment {issue}```
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`{id} double-{vehicle_type} alignment {issue}`
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} {type} alignment {issue}``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{errorCode}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating {core}.404`
+ =================== 
+``ciod: Missing or invalid fields on line {line_number} of node map file {file_path}``
+ =================== 
+``{count} torus receiver {direction} input pipe error(s) (dcr {error_code}) detected and corrected``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+`generating core.{year}`
+ =================== 
+`{timestamp} double-hummer alignment exceptions`
+ =================== 
+``{timestamp} double-{vehicle_type} alignment {error_type}``
+ =================== 
+`{timestamp} double-hummer alignment exceptions`
+ =================== 
+`{timestamp} double-hummer alignment exceptions`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``{Node}` card is not fully functional``
+ =================== 
+``ciod: duplicate canonical-rank {canonical_rank} to logical-rank {logical_rank} mapping at line {line_number} of node map file {file_path}``
+ =================== 
+``ciod: Error creating node map from file {file_path}: Block device required``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{errorCode}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{pid}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{year}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``timestamp`` double-hummer alignment exceptions
+ =================== 
+``timestamp`` double-hummer alignment exceptions
+ =================== 
+``timestamp`` double-hummer alignment exceptions
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``{module} panic! - stopping execution``
+ =================== 
+``{module} panic! - stopping execution``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``total of {number} ddr error(s) detected and corrected``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} {event_type} {event_description}``
+ =================== 
+``{timestamp} {event_type} {description}``
+ =================== 
+``{timestamp} {request_id} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} {event_type} {description}``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} {event_type} {description}``
+ =================== 
+``{timestamp} {event_type} {description}``
+ =================== 
+``{timestamp} {event_type} alignment exceptions``
+ =================== 
+``{timestamp} {request_id} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} {event_type} {description}``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating {core}.2010`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{errorCode}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{pid}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``ciod: Error creating node map from file {file_path}: {error_message}``
+ =================== 
+``ciod: Z coordinate {z_coordinate} exceeds physical dimension {physical_dimension} at line {line_number} of node map file {file_path}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{version}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{pid}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``rts: kernel terminated for reason {reason}rts: bad message header: invalid cpu, type={type}, cpu={cpu}, index={index}, total={total}``
+ =================== 
+``debug {action} enable.................{value}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+`{count} floating point alignment exceptions`
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+`{count} floating point alignment exceptions`
+ =================== 
+`{count} floating point alignment exceptions`
+ =================== 
+`{count} floating point alignment exceptions`
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+`{count} floating point alignment exceptions`
+ =================== 
+`{count} floating point alignment exceptions`
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+`{count} floating point alignment exceptions`
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+`{count} floating point alignment exceptions`
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{pid}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count}` floating point alignment exceptions``
+ =================== 
+``{count} floating point alignment exceptions``
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+``{code} floating point alignment exceptions``
+ =================== 
+``{code} floating point alignment exceptions``
+ =================== 
+``{code} floating point alignment exceptions``
+ =================== 
+``{code} floating point alignment exceptions``
+ =================== 
+``{code}` floating point alignment exceptions
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{core_number}``
+ =================== 
+`generating core.{process_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_number}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+`generating core.{core_id}`
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{core_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{version}``
+ =================== 
+`generating core.{core_number}`
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``generating core.{process_id}``
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``New {device} inserted into the database: {id} ip={ip_address} v={version} t={type}``
+ =================== 
+``New ido chip inserted into the database: {chip_id} ip={ip_address} v={version} t={type}``
+ =================== 
+``{Component}` is not fully functional``
+ =================== 
+``Node card status: {status} 0, {status} 1, {status} 2, {status} 3 is (are) active. Clock Mode is {mode}. Clock Select is {select}. Phy JTAG Reset is {phy_reset}. ASIC JTAG Reset is {asic_reset}. Temperature Mask is {temp_mask}. No temperature error. Temperature Limit Error Latch is {temp_error_latch}. PGOOD is {pgood}. PGOOD error latch is {pgood_error_latch}. MPGOOD is {mpgood}. MPGOOD error latch is {mpgood_error_latch}. The 2.5 volt rail is {rail_2.5v}. The 1.5 volt rail is {rail_1.5v}.``
+ =================== 
+``Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}``
+ =================== 
+``Can not get assembly information for {node}``
+ =================== 
+``New ido chip inserted into the database: {chip_id} ip={ip_address} v={version} t={type}``
+ =================== 
+``Can not get assembly information for {node}``
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression=0 Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression=0 Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+```
+idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+``Node card status: {alertStatus}. Clock Mode is {clockMode}. Clock Select is {clockSelect}. Phy JTAG Reset is {phyJtagReset}. ASIC JTAG Reset is {asicJtagReset}. Temperature Mask is {temperatureMask}. Temperature error: {temperatureError}. Temperature Limit Error Latch is {temperatureLimitErrorLatch}. PGOOD IS {pgoodStatus}. PGOOD ERROR LATCH IS {pgoodErrorLatch}. MPGOOD IS {mpgoodStatus}. MPGOOD ERROR LATCH IS {mpgoodErrorLatch}. The 2.5 volt rail is {voltRail2_5}. The 1.5 volt rail is {voltRail1_5}.``
+ =================== 
+`Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found_ecid}`
+ =================== 
+`{Node}` card is not fully functional
+ =================== 
+``Node card status: {alertStatus}. Clock Mode is {clockMode}. Clock Select is {clockSelect}. Phy JTAG Reset is {phyJtagReset}. ASIC JTAG Reset is {asicJtagReset}. Temperature Mask is {temperatureMask}. Temperature error: {temperatureError}. Temperature Limit Error Latch is {temperatureLimitErrorLatch}. PGOOD IS {pgoodStatus}. PGOOD ERROR LATCH IS {pgoodErrorLatch}. MPGOOD IS {mpgoodStatus}. MPGOOD ERROR LATCH IS {mpgoodErrorLatch}. The 2.5 volt rail is {voltRail2_5}. The 1.5 volt rail is {voltRail1_5}.``
+ =================== 
+``Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}``
+ =================== 
+``Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``PrepareForService shutting down NodeCard({mLctn}, {mCardSernum}, {mLp}, {mIp}, {mType}) as part of Service Action 310``
+ =================== 
+``Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}``
+ =================== 
+``Can not get assembly information for {node}``
+ =================== 
+``Can not get assembly information for {node}``
+ =================== 
+`{Node}` card is not fully functional
+ =================== 
+``Can not get assembly information for {node}``
+ =================== 
+``{Node}` card is not fully functional``
+ =================== 
+``Node card status: {alertStatus}. Clock Mode is {clockMode}. Clock Select is {clockSelect}. Phy JTAG Reset is {phyJtagReset}. ASIC JTAG Reset is {asicJtagReset}. Temperature Mask is {temperatureMask}. Temperature error: {temperatureError}. Temperature Limit Error Latch is {temperatureLimitErrorLatch}. PGOOD IS {pgoodStatus}. PGOOD ERROR LATCH IS {pgoodErrorLatch}. MPGOOD IS {mpgoodStatus}. MPGOOD ERROR LATCH IS {mpgoodErrorLatch}. The 2.5 volt rail is {voltRail2_5}. The 1.5 volt rail is {voltRail1_5}.``
+ =================== 
+``rts {component} link training failed: wanted: {wanted} got: {got}``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+``{number} tree receiver {number} in re-synch state event(s) (dcr {hex_code}) detected``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: {ACTION} chdir(pwd) failed: {ERROR}``
+ =================== 
+``ciod: {ACTION} chdir(pwd) failed: {ERROR}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE}``
+ =================== 
+``ciod: Missing or invalid fields on line {line_number} of node map file {file_path}``
+ =================== 
+``rts: kernel terminated for reason {reason}``
+ =================== 
+``rts: kernel terminated for reason {reason_code}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {value1}, at {address}, mask {value2}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``{code} {severity} alignment exceptions``
+ =================== 
+``{timestamp} {severity} {error_type} {error_description}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``{timestamp} {event_type} alignment exceptions``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+`{id} double-hummer alignment exceptions`
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``{timestamp} {error_type} alignment exceptions``
+ =================== 
+``{timestamp} {event_type} {description}``
+ =================== 
+``{timestamp} {event_type} alignment exceptions``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+`iar {variable1} dear {variable2}`
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+`CE sym {symbol}, at {memory_address}, mask {mask}`
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``CE sym {number}, at {memory_address}, mask {mask}``
+ =================== 
+``Node card status: {alertStatus}. Clock Mode is {clockMode}. Clock Select is {clockSelect}. Phy JTAG Reset is {phyJtagReset}. ASIC JTAG Reset is {asicJtagReset}. Temperature Mask is {temperatureMask}. {temperatureError}. Temperature Limit Error Latch is {temperatureLimitErrorLatch}. PGOOD IS {pgoodStatus}. PGOOD ERROR LATCH IS {pgoodErrorLatch}. MPGOOD IS {mpgoodStatus}. MPGOOD ERROR LATCH IS {mpgoodErrorLatch}. The 2.5 volt rail is {2.5voltStatus}. The 1.5 volt rail is {1.5voltStatus}.``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+`{timestamp} double-hummer alignment exceptions`
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``{timestamp} {event_type} {event_description}``
+ =================== 
+``{timestamp} double-hummer alignment exceptions``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {device_id} dear {target_id}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``{timestamp} {error_code} {error_description}``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{number} double-{vehicle} alignment {issue}``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`{timestamp} double-hummer alignment exceptions`
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`{id} double-hummer alignment exceptions`
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+`{id} double-hummer alignment exceptions`
+ =================== 
+``{id} double-hummer alignment exceptions``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {device_id} dear {target_id}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {device_id} dear {target_id}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {device_id} dear {target_id}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``NFS Mount failed on {server}, slept {seconds} seconds, retrying ({retry_count})``
+ =================== 
+``NFS Mount failed on {server}, slept {seconds} seconds, retrying ({attempt})``
+ =================== 
+`CE sym {symbol}, at {memory_address}, mask {mask}`
+ =================== 
+``{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``ciod: generated {number} core files for program {program_name}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+`Lustre mount {status} : {server} : point {mount_point}`
+ =================== 
+`Lustre mount {status} : {server} : point {mount_point}`
+ =================== 
+``{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``Lustre mount FAILED : {server} : point {mount_point}``
+ =================== 
+``Lustre mount FAILED : {server} : point {mount_point}``
+ =================== 
+``Lustre mount FAILED : {server} : point {mount_point}``
+ =================== 
+`Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found_ecid}`
+ =================== 
+``{count}` torus receiver {direction} input pipe error(s) (dcr {code}) detected and corrected``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``Lustre mount FAILED : {server} : point {mount_point}``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``Lustre mount FAILED : {server} : point {mount_point}``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+``Lustre mount FAILED : {server} : point {mount_point}``
+ =================== 
+``ciod: {action}: Detected the {issue}.``
+ =================== 
+``ciod: In packet from node {node_id} ({node_type}:{node_code}-{module}-{submodule}:{unit}), message code {code} is not {expected_code} or {max_value} (softheader={header})``
+ =================== 
+``{count} torus receiver {direction} input pipe error(s) (dcr {error_code}) detected and corrected``
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+``ciod: Error loading {file_path}: invalid or missing program image, {error_message}``
+ =================== 
+``ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {ERROR_MESSAGE}``
+ =================== 
+``suppressing further interrupts of {same type}``
+ =================== 
+``ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {ERROR_MESSAGE}``
+ =================== 
+``ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE}``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``Lustre mount FAILED : {server} : point {mount_point}``
+ =================== 
+``ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {ERROR_MESSAGE}``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp}``
+ =================== 
+``Node card status: {alertStatus}. Clock Mode is {clockMode}. Clock Select is {clockSelect}. Phy JTAG Reset is {phyJtagReset}. ASIC JTAG Reset is {asicJtagReset}. Temperature Mask is {temperatureMask}. {temperatureError}. Temperature Limit Error Latch is {temperatureLimitErrorLatch}. PGOOD IS {pgoodStatus}. PGOOD ERROR LATCH IS {pgoodErrorLatch}. MPGOOD IS {mpgoodStatus}. MPGOOD ERROR LATCH IS {mpgoodErrorLatch}. The 2.5 volt rail is {voltRail2_5}. The 1.5 volt rail is {voltRail1_5}.``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {expected_ecid}, found {found_ecid}``
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression=0 Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+```
+idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={sourceFile} Source line={sourceLine} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+``idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}``
+ =================== 
+``idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}``
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={sourceFile} Source line={sourceLine} Function={function}
+```
+ =================== 
+``idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}``
+ =================== 
+```
+idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={sourceFile} Source line={sourceLine} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+``idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}``
+ =================== 
+```
+idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+``ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}``
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+``Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {expected_ecid}, found {found_ecid}``
+ =================== 
+``Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found_ecid}``
+ =================== 
+```
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+```
+ =================== 
+``idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: invalid or missing program image, {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: invalid or missing program image, {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: invalid or missing program image, {error_message}``
+ =================== 
+`ciod: Error loading {file_path}: invalid or missing program image, {error_message}`
+ =================== 
+``rts: bad message header: expecting type {expectedType} instead of type {actualType} (softheader={softHeader} PSR0={PSR0} PSR1={PSR1} PRXF={PRXF} PIXF={PIXF})``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: LOGIN chdir({directory}) failed: {error}``
+ =================== 
+``ciod: LOGIN chdir({directory}) failed: {error}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}```
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``CE sym {value1}, at {value2}, mask {value3}``
+ =================== 
+``ciod: Error reading message prefix after {action} on CioStream socket to {ip_address}:{port}: {error_message}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``{severity} input interrupt (unit={unit} bit={bit}): {message} for {component} {direction} wire``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+`CE sym {symbol}, at {memory_address}, mask {mask}`
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE}``
+ =================== 
+``total of {number} ddr error(s) detected and corrected``
+ =================== 
+``CE sym {value1}, at {address}, mask {value2}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``total of {number} ddr error(s) detected and corrected``
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {ERROR_MESSAGE}``
+ =================== 
+`CE sym {symbol}, at {memory_address}, mask {mask}`
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``suppressing further interrupts of {same type}``
+ =================== 
+``{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``{number} tree receiver {number} in re-synch state event(s) (dcr {hex}) detected``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {file_path}``
+ =================== 
+``ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {ERROR_MESSAGE}``
+ =================== 
+``{component} parity error detected. attempting to correct``
+ =================== 
+``{type}`` cache search parity error detected. attempting to correct
+ =================== 
+``{type}`` cache search parity error detected. attempting to correct
+ =================== 
+``{type}`` cache search parity error detected. attempting to correct
+ =================== 
+``{type}`` cache search parity error detected. attempting to correct
+ =================== 
+``{type}`` cache search parity error detected. attempting to correct
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {num}, at {address}, mask {mask}``
+ =================== 
+`{action} complete`
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``total of {count} ddr error(s) detected and corrected``
+ =================== 
+``{error_count} error(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``ciod: Error loading {file}: {error_message}``
+ =================== 
+``critical input interrupt (unit={unit} bit={bit}): warning for torus z- wire``
+ =================== 
+``{timestamp} tree receiver {receiver_id} in re-synch state event(s) (dcr {dcr_code}) detected``
+ =================== 
+``rts: kernel terminated for reason {reason}``
+ =================== 
+``Error receiving packet on {network_type} network, expecting type {expected_type} instead of type {received_type} (softheader={softheader_value} PSR0={PSR0_value} PSR1={PSR1_value} PRXF={PRXF_value} PIXF={PIXF_value})``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``ciod: Error loading {file_path}: invalid or missing program image, {error_message}``
+ =================== 
+``CE sym {value1}, at {address}, mask {mask}``
+ =================== 
+``{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+``CE sym {value1}, at {address}, mask {mask}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+`ciod: Error loading {file_path}: invalid or missing program image, {error_message}`
+ =================== 
+``ciod: Error loading {file_path}: invalid or missing program image, {error_message}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+`{timestamp} floating point alignment exceptions`
+ =================== 
+`{timestamp} floating point alignment exceptions`
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+`{timestamp} floating point alignment exceptions`
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+`iar {hex1} dear {hex2}`
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+`iar {hex1} dear {hex2}`
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {source} dear {destination}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``{code} floating point alignment exceptions``
+ =================== 
+``{code}` floating point alignment exceptions
+ =================== 
+`{timestamp} floating point alignment exceptions`
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+`{logID} floating point alignment exceptions`
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {device1} dear {device2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+`{number} floating point alignment exceptions`
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``{timestamp} floating point alignment exceptions``
+ =================== 
+`{log_id} floating point alignment exceptions`
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+`{logID} floating point alignment exceptions`
+ =================== 
+`iar {variable1} dear {variable2}`
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+`{timestamp} floating point alignment exceptions`
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+`{log_id} floating point alignment exceptions`
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+`{code} floating point alignment exceptions`
+ =================== 
+``{code} floating point alignment exceptions``
+ =================== 
+``{code} floating point alignment exceptions``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``CE sym {value1}, at {address}, mask {mask}``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``iar {hex_value} dear {hex_value}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``{date} floating point alignment exceptions``
+ =================== 
+``Error receiving packet on {network_type}, expecting type {expected_type} instead of type {received_type} (softheader={softheader_value} PSR0={PSR0_value} PSR1={PSR1_value} PRXF={PRXF_value} PIXF={PIXF_value})``
+ =================== 
+``program interrupt: {cause}...{code}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``iar {device1} dear {device2}``
+ =================== 
+``iar {hex1} dear {hex2}``
+ =================== 
+``{number} floating point alignment exceptions``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {variable1} dear {variable2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+`CE sym {symbol}, at {memory_address}, mask {mask}`
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+```
+iar {iar_number} dear {dear_code}
+```
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``iar {number} dear {hex}``
+ =================== 
+``{number} torus receiver {direction} input pipe error(s) (dcr {code}) detected and corrected``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``{count} L{level} EDRAM error(s) (dcr {address}) detected and corrected``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+`CE sym {num1}, at {address}, mask {mask}`
+ =================== 
+``rts: kernel terminated for reason {reason}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+``iar {code1} dear {code2}``
+ =================== 
+`{code} floating point alignment exceptions`
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``rts: kernel terminated for reason {reason_code}``
+ =================== 
+``Error receiving packet on {network_type}, expecting type {expected_type} instead of type {received_type} (softheader={softheader_value} PSR0={PSR0_value} PSR1={PSR1_value} PRXF={PRXF_value} PIXF={PIXF_value})``
+ =================== 
+``Error receiving packet on {network_type} network, expecting type {expected_type} instead of type {received_type} (softheader={softheader_value} PSR0={PSR0_value} PSR1={PSR1_value} PRXF={PRXF_value} PIXF={PIXF_value})``
+ =================== 
+``{severity} input interrupt (unit={unit} bit={bit}): warning for {component} z+ wire, suppressing further interrupts of same type``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {expected_ecid}, found {found_ecid}``
+ =================== 
+``Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found_ecid}``
+ =================== 
+``rts: kernel terminated for reason {reason}``
+ =================== 
+``Error receiving packet on {network_type} network, expecting type {expected_type} instead of type {received_type} (softheader={softheader}) PSR0={PSR0} PSR1={PSR1} PRXF={PRXF} PIXF={PIXF}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+`{message_id} torus sender {direction}- retransmission error(s) (dcr {error_code}) detected and corrected over {time} seconds`
+ =================== 
+`{log_id}` torus sender {sender_id} retransmission error(s) (dcr {error_code}) detected and corrected over {duration} seconds`
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 
+``Lustre mount {status} : {server} : {error_type} : {location}``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})``
+ =================== 
+``MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})``
+ =================== 
+``MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})``
+ =================== 
+``MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})``
+ =================== 
+``MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})``
+ =================== 
+``MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})``
+ =================== 
+``MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr})``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection timed out``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection reset by peer``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection reset by peer``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection reset by peer``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection timed out``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection reset by peer``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``dbcr0={dbcr0} dbsr={dbsr} ccr0={ccr0}``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed``
+ =================== 
+``r24={var1} r25={var2} r26={var3} r27={var4}``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``{count} tree receiver {receiver_number} in re-synch state event(s) (dcr {dcr_code}) detected over {duration} seconds``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {expected_ecid}, found {found_ecid}``
+ =================== 
+``ciod: Received signal {signal}, code={code}, errno={errno}, address={address}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{time}` microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type} ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{time} microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type} ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_time_critical_input_interrupts} microseconds total spent on critical input interrupts, {max_time_critical_input_interrupt} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{time}` microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type} ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{time}` microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type} ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{time} microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type}.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{time} microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type} ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{time} microseconds spent in the {signal} signal handler during {calls} calls. {time} microseconds was the maximum time for a single instance of a correctable {error_type}.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{time} microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type} ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{time}` microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type} ddr.``
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+`{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.`
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{microseconds}` spent in the rbs signal handler during `{calls}` calls. `{microseconds}` was the maximum time for a single instance of a correctable ddr.``
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+``{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``{num_errors} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds``
+ =================== 
+``PrepareForService shutting down Node card(mLctn({mLctn}), mCardSernum({mCardSernum}), mLp({mLp}), mIp({mIp}), mType({mType})) as part of Service Action {ServiceAction}``
+ =================== 
+```
+Kernel detected {count} integer alignment exceptions ({exception_count}) iar {iar_address}, dear {dear_address}
+```
+ =================== 
+``{number} tree receiver {number} in re-synch state event(s) (dcr {hex_code}) detected over {number} seconds``
+ =================== 
+``CE sym {num1}, at {address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {value1}, at {address}, mask {mask}``
+ =================== 
+``CE sym {symbol}, at {memory_address}, mask {mask}``
+ =================== 
+``CE sym {number}, at {memory_address}, mask {mask}``
+ =================== 
+``{num_errors} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds``
+ =================== 
+``CE sym {number}, at {address}, mask {mask}``
+ =================== 
+``total of {number} ddr error(s) detected and corrected over {time} seconds``
+ =================== 
+``minus normalized number..................{number}``
+ =================== 
+``Lustre mount {status} : {server} : {error_type} : {location}``
+ =================== 
+``fraction rounded.........................{value}``
+ =================== 
+``{Node}` card is not fully functional``
+ =================== 
+``{severity} input interrupt (unit={unit} bit={bit}): warning for tree {tree} wire, suppressing further interrupts of same type``
+ =================== 
+``size of scratchpad portion of L3.........{size} ({unit})``
+ =================== 
+``Kernel detected {integer_count} integer alignment exceptions ({exception_count}) iar {iar_address1}, dear {dear_address1} ({exception_count+1}) iar {iar_address2}, dear {dear_address2} ({exception_count+2}) iar {iar_address3}, dear {dear_address3} ({exception_count+3}) iar {iar_address4}, dear {dear_address4} ({exception_count+4}) iar {iar_address5}, dear {dear_address5} ({exception_count+5}) iar {iar_address6}, dear {dear_address6} ({exception_count+6}) iar {iar_address7}, dear {dear_address7} ({exception_count+7}) iar {iar_address8}, dear {dear_address8}``
+ =================== 
+``Kernel detected {integer} integer alignment exceptions ({exception_count}) iar {iar_address1}, dear {dear_address1} ({exception_count+1}) iar {iar_address2}, dear {dear_address2} ({exception_count+2}) iar {iar_address3}, dear {dear_address3} ({exception_count+3}) iar {iar_address4}, dear {dear_address4} ({exception_count+4}) iar {iar_address5}, dear {dear_address5} ({exception_count+5}) iar {iar_address6}, dear {dear_address6} ({exception_count+6}) iar {iar_address7}, dear {dear_address7} ({exception_count+7}) iar {iar_address8}, dear {dear_address8}``
+ =================== 
+``Kernel detected {integer alignment exceptions} (3747785) iar {iar1}, dear {dear1} (3747786) iar {iar2}, dear {dear2} (3747787) iar {iar3}, dear {dear3} (3747788) iar {iar4}, dear {dear4} (3747789) iar {iar5}, dear {dear5} (3747790) iar {iar6}, dear {dear6} (3747791) iar {iar7}, dear {dear7} (3747792) iar {iar8}, dear {dear8}``
+ =================== 
+``Kernel detected {integer_count} integer alignment exceptions ({exception_count}) iar {iar_address1}, dear {dear_address1} ({exception_count+1}) iar {iar_address2}, dear {dear_address2} ({exception_count+2}) iar {iar_address3}, dear {dear_address3} ({exception_count+3}) iar {iar_address4}, dear {dear_address4} ({exception_count+4}) iar {iar_address5}, dear {dear_address5} ({exception_count+5}) iar {iar_address6}, dear {dear_address6} ({exception_count+6}) iar {iar_address7}, dear {dear_address7} ({exception_count+7}) iar {iar_address8}, dear {dear_address8}``
+ =================== 
+``Kernel detected {integer_count} integer alignment exceptions ({exception_count}) iar {iar_address1}, dear {dear_address1} ({exception_count+1}) iar {iar_address2}, dear {dear_address2} ({exception_count+2}) iar {iar_address3}, dear {dear_address3} ({exception_count+3}) iar {iar_address4}, dear {dear_address4} ({exception_count+4}) iar {iar_address5}, dear {dear_address5} ({exception_count+5}) iar {iar_address6}, dear {dear_address6} ({exception_count+6}) iar {iar_address7}, dear {dear_address7} ({exception_count+7}) iar {iar_address8}, dear {dear_address8}``
+ =================== 
+``Kernel detected {integer} integer alignment exceptions ({exception_count}) iar {iar_address1}, dear {dear_address1} ({exception_count+1}) iar {iar_address2}, dear {dear_address2} ({exception_count+2}) iar {iar_address3}, dear {dear_address3} ({exception_count+3}) iar {iar_address4}, dear {dear_address4} ({exception_count+4}) iar {iar_address5}, dear {dear_address5} ({exception_count+5}) iar {iar_address6}, dear {dear_address6} ({exception_count+6}) iar {iar_address7}, dear {dear_address7} ({exception_count+7}) iar {iar_address8}, dear {dear_address8}``
+ =================== 
+`Kernel detected {integer_count} integer alignment exceptions ({exception_1}) iar {iar_1}, dear {dear_1} ({exception_2}) iar {iar_2}, dear {dear_2} ({exception_3}) iar {iar_3}, dear {dear_3} ({exception_4}) iar {iar_4}, dear {dear_4} ({exception_5}) iar {iar_5}, dear {dear_5} ({exception_6}) iar {iar_6}, dear {dear_6} ({exception_7}) iar {iar_7}, dear {dear_7} ({exception_8}) iar {iar_8}, dear {dear_8}`
+ =================== 
+``Kernel detected {integer} integer alignment exceptions ({count1}) iar {address1}, dear {address2} ({count2}) iar {address3}, dear {address4} ({count3}) iar {address5}, dear {address6} ({count4}) iar {address7}, dear {address8} ({count5}) iar {address9}, dear {address10} ({count6}) iar {address11}, dear {address12} ({count7}) iar {address13}, dear {address14}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``{num_errors} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds``
+ =================== 
+``total of {number} ddr error(s) detected and corrected over {time} seconds``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``ciod: Error loading {file_path}: invalid or missing program image, {error_message}``
+ =================== 
+``ciod: {ErrorType} loading {FilePath}: {ErrorMessage}``
+ =================== 
+``{num_errors} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds``
+ =================== 
+``ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR}``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed``
+ =================== 
+``{num_errors} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds``
+ =================== 
+``ciod: Error loading {file_path}: {error_message}``
+ =================== 
+``critical input interrupt (unit={unit} bit={bit}): warning for torus {direction} wire, suppressing further interrupts of same type``
+ =================== 
+``{num_errors} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds``
+ =================== 
+``{num_errors} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed``
+ =================== 
+``ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed``
+ =================== 
+``total of {number} ddr error(s) detected and corrected over {time} seconds``
+ =================== 
+``ciod: {action}: Detected the {issue}.``
+ =================== 
+``{num_errors} L{cache_level} EDRAM error(s) (dcr {dcr_address}) detected and corrected over {duration} seconds``
+ =================== 
+``total of {number} ddr error(s) detected and corrected over {time} seconds``
+ =================== 
+``ciod: {action}: Detected the {issue}.``
+ =================== 
+``ciod: generated {num_core_files} core files for program {program_path}``
+ =================== 
+``ciod: Error loading {file_path}: program image too big, {image_size} > {max_image_size}``
+ =================== 
+``fpr29={value} {value} {value} {value}``
+ =================== 
+``Machine State Register: {state}``
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+`{error_type} cache parity error {correction_status}`
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+`{component} cache parity error {action}`
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+``{error_type} cache {error_description} corrected``
+ =================== 
+``ciod: generated {number} core files for program {program_path}``
+ =================== 

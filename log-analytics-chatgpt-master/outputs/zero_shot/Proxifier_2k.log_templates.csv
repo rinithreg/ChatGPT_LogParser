@@ -1,0 +1,163 @@
+,EventTemplate,Occurrences
+0,{protocol},207
+1,{proxy},207
+2,"{host}:{port} close, {sent} bytes sent, {received} bytes received, lifetime {lifetime}",147
+3,"{host}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime <{lifetime} sec}",27
+4,"{host}:5070 close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime <{lifetime} sec>",7
+5,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime <{lifetime} sec>",16
+6,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",159
+7,"{host}:{port} close, {sent} bytes sent, {received} bytes received, lifetime <{lifetime} sec}",14
+8,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",49
+9,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime <{lifetime} sec",26
+10,"{host}:5070 close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime {lifetime}",14
+11,"{host}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime {lifetime}",27
+12,"{host}:{port} close, {sent} bytes sent, {received} bytes received, lifetime <{lifetime} sec>",10
+13,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime {duration}",5
+14,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime {duration}",19
+15,{source},58
+16,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime <{lifetime} sec>",15
+17,"{host}:5070 close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime <{lifetime} sec",7
+18,"{host}:{port} close, {sent} bytes sent, {received} bytes received, lifetime <{time} sec}",17
+19,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime <{lifetime} sec",3
+20,"{host}:5070 close, {sent} bytes sent, {received} bytes received, lifetime <{time} sec>",2
+21,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime <1 sec",6
+22,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime <{lifetime} sec}",1
+23,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {duration}",32
+24,"{host}:{port} close, {sent} bytes sent, {received} bytes received, lifetime {duration}",16
+25,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime {lifetime}",21
+26,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {duration}",3
+27,"{host}:5070 close, {sent} bytes sent, {received} bytes received, lifetime <{time} sec",2
+28,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime {lifetime}",43
+29,"{host}:5070 close, {sent} bytes sent, {received} bytes received, lifetime <{lifetime} sec",3
+30,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime <{lifetime} sec>",2
+31,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",68
+32,{source_ip}:{source_port} open through proxy {proxy_host}:{proxy_port} {proxy_type},2
+33,"{host}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime {duration}",8
+34,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime {lifetime}",13
+35,{source}:5070 open through proxy {proxy} HTTPS,9
+36,"{host}:5070 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_mb} MB) received, lifetime {lifetime}",3
+37,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime <{lifetime} sec>",4
+38,{host}:{port} error : {error_message},29
+39,"{host}:{port} close, {sent} bytes sent, {received} bytes received, lifetime <{time} sec>",11
+40,"{host}:{port} close, {sent} bytes sent, {received} bytes received, lifetime <{time} sec",2
+41,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {duration}",15
+42,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime <{lifetime} sec>",1
+43,"{host}:5070 close, {sent} bytes sent, {received} bytes received, lifetime {lifetime}",2
+44,"{ip_address}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {hours}:{minutes}",1
+45,{client_ip}:{client_port} open through proxy {proxy_host}:{proxy_port} {protocol},3
+46,{host}:{port} open through proxy {proxy_host}:{proxy_port} {protocol},304
+47,{connection},1
+48,{source_host}:{source_port} open through proxy {proxy_host}:{proxy_port} {protocol},84
+49,"{hostname}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime <{lifetime} sec>",1
+50,"{host}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime <{lifetime} sec>",2
+51,"{host}:5070 close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime {duration}",2
+52,"{website}:843 error : Could not connect through proxy {proxy_server} - Proxy server cannot establish a connection with the target, status code {status_code}",1
+53,"{ip_address}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime {duration}",1
+54,"{ip_address}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime {duration}",2
+55,"{source_ip}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime {duration}",1
+56,"{hostname}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",8
+57,"{ip_address}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime {lifetime}",1
+58,{client_ip}:{port} error : {error_message} - Proxy closed the connection unexpectedly.,1
+59,"{host}:5070 close, {sent} bytes sent, {received} bytes received, lifetime {time}",3
+60,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_mb} MB) received, lifetime {duration}",2
+61,{proxy_address},1
+62,{hostname}:{port} error : {error_message},4
+63,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime <{lifetime} sec}",4
+64,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime {duration}",5
+65,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime <{lifetime} sec",1
+66,"{ip_address}:{port} error : {error_message} - Proxy server cannot establish a connection with the target, status code {status_code}",3
+67,{service}.{port} open through proxy {proxy_host}:{proxy_port} {protocol},3
+68,{website}:{port} open through proxy {proxy_host}:{proxy_port} {protocol},3
+69,"{source}.{port} close, {sent} bytes sent, {received} bytes received, lifetime {duration}",1
+70,"{website}:{port} close, {sent} bytes sent, {received} bytes received, lifetime {lifetime}",1
+71,"{host}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes ({kb_received} KB) received, lifetime {duration}",1
+72,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_mb} MB) received, lifetime {lifetime}",2
+73,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime <{lifetime} sec>",1
+74,{host}:80 open through proxy {proxy_host}:5070 {protocol},9
+75,-lb.dropbox.com:{port} open through proxy {proxy}:{proxy_port} {protocol},2
+76,"{host}:{port} {action}, {sent} bytes sent, {received} bytes received, lifetime <{time} sec>",14
+77,{client},44
+78,"{host}:{port} close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime {lifetime}",6
+79,{source_ip}:{source_port} open through proxy {proxy_server}:{proxy_port} {protocol},1
+80,"{server}:{port} close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime {lifetime}",1
+81,"-channel.{domain}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {hours}:{minutes}:{seconds}",2
+82,{url}:{port} open through proxy {proxy_url}:{proxy_port} {protocol},3
+83,{origin_server}:{port} open through proxy {proxy_server}:{proxy_port} {protocol},2
+84,{app_name}:{app_port} open through proxy {proxy_host}:{proxy_port} {protocol},1
+85,"{server}:5228 error : Could not connect through proxy {proxy_server}:5070 - Proxy server cannot establish a connection with the target, status code {status_code}",3
+86,{website}:{port} open through proxy {proxy}:{proxy_port} {protocol},1
+87,{host}:443 open through proxy {proxy_host}:5070 {protocol},1
+88,"{host}:{port} close, {bytesSent} bytes sent, {bytesReceived} bytes received, lifetime {lifetime}",1
+89,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime <{lifetime} sec",3
+90,"{host}:{port} {action}, {sent} bytes sent, {received} bytes received, lifetime {duration}",2
+91,{website}:{port} open through proxy {proxy_address} {protocol},1
+92,{timestamp} client-channel.google.com:{port} open through proxy {proxy_host}:{proxy_port} {protocol},1
+93,-cf.dropbox.com:{port} open through proxy {proxy}:{proxy_port} {protocol},1
+94,{num}.{client}-{channel}.{domain}:{port} open through proxy {proxy_domain}:{proxy_port} {protocol},1
+95,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {connection_lifetime}",1
+96,"{host}:{port} {action}, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {duration}",3
+97,"{host}:{port} close, {sent} bytes sent, {received} bytes ({size}) received, lifetime {duration}",2
+98,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {connection_time}",4
+99,"-channel.{domain}:{port} close, {sent} bytes sent, {received} bytes ({received_kb}) received, lifetime <{lifetime} sec>",1
+100,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime {connection_time}",1
+101,"{host}:{port} {action}, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {duration}",2
+102,"-channel.{domain}:{port} close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime {lifetime}",1
+103,"{host}:{port} {action}, {sent} bytes sent, {received} bytes ({received_kb}) received, lifetime {duration}",2
+104,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {connection_lifetime}",1
+105,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {hours}:{minutes}:{seconds}",2
+106,"{host}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {hours}:{minutes}",1
+107,"{host}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes ({kilobytes_received} KB) received, lifetime {lifetime}",2
+108,"{host}:{port} {action}, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime {duration}",2
+109,"{hostname}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime {lifetime}",1
+110,{website}:80 open through proxy {proxy}:5070 {protocol},1
+111,"{host}:{port} {action}, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",2
+112,"{host}:{port} {action}, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime {lifetime}",2
+113,"{host}:{port} {action}, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",1
+114,{client_ip}:{client_port} error : Could not connect to proxy {proxy_host}:{proxy_port} - Could not resolve proxy {proxy_host} error {error_code},2
+115,{server}:5228 error : Could not connect to proxy {proxy}:5070 - Could not resolve {proxy} error 11001,1
+116,{website}:{port} error : Could not connect to proxy {proxy}:{proxy_port} - Could not resolve proxy {proxy} error {error_code},2
+117,{client_name}:{port} error : Could not connect to proxy {proxy_address} - Could not resolve {proxy_address} error {error_code},1
+118,{host}:{port} error : Could not connect to proxy {proxy_host}:{proxy_port} - Could not resolve proxy {proxy_host} error {error_code},2
+119,{source_host}:{source_port} error : Could not connect to proxy {proxy_host}:{proxy_port} - Could not resolve {proxy_host} error {error_code},4
+120,{host}:{port} error : Could not connect to proxy {proxy_host}:{proxy_port} - Could not resolve {proxy_host} error {error_code},1
+121,{client}:443 error : Could not connect to proxy {proxy} - Could not resolve proxy {proxy} error {error_code},2
+122,{service}:{port} error : Could not connect to proxy {proxy_host}:{proxy_port} - Could not resolve proxy {proxy_host} error {error_code},1
+123,{website}:{port} error : Could not connect to proxy {proxy_address} - Could not resolve proxy {proxy_address} error {error_code},1
+124,"{host}:{port} error : {error_message} - Proxy server cannot establish a connection with the target, status code {status_code}",7
+125,{interface},1
+126,"{host}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes received, lifetime {connection_lifetime}",1
+127,"{host}:{port} {action}, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes received, lifetime {duration}",1
+128,{client_ip}:{port} error : Could not connect to proxy {proxy_host}:{proxy_port} - Could not resolve {proxy_host} error {error_code},1
+129,{source}: {source_port} error : Could not connect to proxy {proxy_host}:{proxy_port} - Could not resolve {proxy_host} error {error_code},1
+130,{ip_address}:{port} error : Could not connect to proxy {proxy_address}:{proxy_port} - Could not resolve proxy {proxy_address} error {error_code},1
+131,"{hostname}:{port} close, {sent_bytes} bytes sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",3
+132,"{host}:{port} {action}, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime <{time} sec}",1
+133,{source_ip}:{source_port} open through proxy {proxy_host}:{proxy_port} {protocol},4
+134,"{connection_type}-{server}:{port} {action}, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime <{lifetime} sec}",1
+135,"{connection_name}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime {lifetime}",1
+136,"{server}:5228 error : Could not connect through proxy {proxy}:5070 - Proxy server cannot establish a connection with the target, status code 403",1
+137,{client_ip}---{server_ip}:{port} open through proxy {proxy_host}:{proxy_port} {protocol},2
+138,{host}:443 open through proxy {proxy_host}:{proxy_port} HTTPS,1
+139,"{host}:443 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",3
+140,"{host}:{port} close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime {duration}",1
+141,{timestamp} {source_host}:{source_port} open through proxy {proxy_host}:{proxy_port} {protocol},1
+142,"{hostname}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_mb} MB) received, lifetime {lifetime}",1
+143,":{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",1
+144,"{ip_address}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime <{time} sec}",1
+145," close, {sent} bytes sent, {received} bytes ({received_kb} KB) received, lifetime {lifetime}",1
+146,{service}:443 open through proxy {proxy_host}:{proxy_port} {protocol},1
+147,"{server}:{port} error : {error_message} - Proxy server cannot establish a connection with the target, status code {status_code}",2
+148,"-channel.{domain}:{port} close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_kb} KB) received, lifetime {lifetime}",1
+149,{host}:{port} error : Could not connect to proxy {proxy_host}:{proxy_port} - connection attempt failed with error {error_code},12
+150,{timestamp} client-channel.google.com:{port} error : Could not connect to proxy {proxy_host}:{proxy_port} - connection attempt failed with error {error_code},5
+151,{website}:{port} error : Could not connect to proxy {proxy_host}:{proxy_port} - connection attempt failed with error {error_code},1
+152,{website}:{port} error : Could not connect to proxy {proxy}:{proxy_port} - connection attempt failed with error {error_code},3
+153,{timestamp} client-channel{client_channel}.google.com:{port} error : Could not connect to proxy {proxy_host}:{proxy_port} - connection attempt failed with error {error_code},1
+154,{server}:5228 error : Could not connect to proxy {proxy_server}:5070 - connection attempt failed with error {error_code},1
+155,{timestamp} client-channel{client_channel} error : Could not connect to proxy {proxy_host}:{proxy_port} - connection attempt failed with error {error_code},1
+156,-lb.dropbox.com:{port} open through proxy {proxy_host}:{proxy_port} {protocol},1
+157,{client}:{port} open through proxy {proxy}:{proxy_port} {protocol},2
+158,{service}:{port} open through proxy {proxy_host}:{proxy_port} {protocol},1
+159,"{host}:{port} close, {sent} bytes sent, {received} bytes ({received_kb}) received, lifetime {lifetime}",1
+160,"{host}:443 close, {sent_bytes} bytes ({sent_kb} KB) sent, {received_bytes} bytes ({received_mb} MB) received, lifetime {lifetime}",1
+161,"{host}:{port} close, {bytes_sent} bytes sent, {bytes_received} bytes received, lifetime <{time} sec}",1

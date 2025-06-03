@@ -1,0 +1,4000 @@
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+[client %{client_ip}] Directory index forbidden by rule: %{directory_path}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child <child_pid> in scoreboard slot <slot_number>
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file}`
+ =================== 
+`{method}() {status} {file}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+`{method}() {status} {file_path}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`[client %client_ip%] Directory index forbidden by rule: %directory%`
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`{method}() {status} {file}`
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+`mod_jk child init %d %d`
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child init %d %d
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+`mod_jk child init %d %d`
+ =================== 
+jk2_init() Can't find child {child_id} in scoreboard
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+`mod_jk child init %d %d`
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state {error_state}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_id} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+`[client %client_ip%] Directory index forbidden by rule: %directory%`
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child %d in scoreboard slot %d
+ =================== 
+[client %client_ip%] Directory index forbidden by rule: %directory_path%
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+jk2_init() Found child {child_pid} in scoreboard slot {slot_number}
+ =================== 
+workerEnv.init() ok {file_path}
+ =================== 
+mod_jk child workerEnv in error state %d
+ =================== 

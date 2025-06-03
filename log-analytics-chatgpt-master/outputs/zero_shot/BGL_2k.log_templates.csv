@@ -1,0 +1,246 @@
+,EventTemplate,Occurrences
+0,{component} cache parity error {action},23
+1,{number} double-{vehicle} alignment {issue},3
+2,{timestamp} {event_type} alignment exceptions,4
+3,{number} double-{vehicle} alignment exceptions,2
+4,"CE sym {symbol}, at {memory_address}, mask {mask}",47
+5,ciod: failed to read message prefix on control stream (CioStream socket to {ip_address}:{port},3
+6,"CE sym {value1}, at {address}, mask {mask}",6
+7,generating core.{core_id},231
+8,generating core.{core_number},87
+9,generating core.{process_id},381
+10,generating {core}.201,1
+11,generating core.{errorCode},5
+12,force load/store alignment...............{alignment},2
+13,"CE sym {symbol}, at {address}, mask {mask}",1
+14,{component} cache {error_type} corrected,1
+15,{error_type} cache {error_description} corrected,15
+16,ciod: cpu {cpu_number} at treeaddr {tree_address} sent unrecognized message {message},1
+17,generating core.{year},3
+18,ciod: {ACTION} chdir({DIRECTORY}) failed: {ERROR},15
+19,"{count} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}",9
+20,data {1} error interrupt,31
+21,data {error_type} interrupt,5
+22,data {type} error interrupt,2
+23,data {process} error {type},5
+24,data {component} error {type},15
+25,{type} TLB error interrupt,2
+26,"CE sym {num}, at {address}, mask {mask}",10
+27,ciod: Message code {code} is not {value1} or {value2},1
+28,{category} {action},5
+29,{type} storage {action},21
+30,instruction address: {address},21
+31,{interrupt},3
+32,data address: {address},8
+33,machine check: {component}......................{error_code},4
+34,program interrupt: {cause}......{code},8
+35,{type},6
+36,machine check: {error_type}......................{error_code},1
+37,exception syndrome register: {register_value},5
+38,exception syndrome register: {exception_code},1
+39,data store interrupt caused by {cause},10
+40,program interrupt: {cause}...{error_code},1
+41,program interrupt: {cause}...{code},4
+42,program interrupt: {cause} instruction.........{code},1
+43,program interrupt: {reason}......{code},4
+44,{operation} operation.............................{number},1
+45,{operation}.............................{count},1
+46,machine state register: {state},4
+47,"problem state ({state}=sup,{state}=usr).......0",3
+48,{action},3
+49,{component}.........................{value},5
+50,machine check {action}..............{status},2
+51,floating pt ex mode {mode} enable......{enable},3
+52,program interrupt: {error_message}.{error_code},2
+53,{log_level} interrupt enable............{value},1
+54,floating pt ex mode {mode} enable......{value},2
+55,{error_message}.....................{error_code},2
+56,data address space................{address},5
+57,core configuration register: {register_value},7
+58,program interrupt: {reason} update.............{code},1
+59,{action} instruction cache block touch.{number},2
+60,program interrupt: {reason} cr field {field_value},4
+61,guaranteed {data} cache block touch........{number},1
+62,icache prefetch depth....................{depth},1
+63,icache prefetch threshold................{threshold},2
+64,{action} state enable.................{value},1
+65,{severity} input interrupt enable...{code},1
+66,{message}.....{value},1
+67,: ,1
+68,lr:{lr_value} cr:{cr_value} xer:{xer_value} ctr:{ctr_value},1
+69,{module} internal error,1
+70,debug {action} enable.................{value},2
+71,instruction address space.........{address},1
+72,{action} store gathering..................{status},3
+73,total of {count} ddr error(s) detected and corrected,10
+74,generating core.{version},4
+75,{error_type} cache parity error {correction_status},3
+76,"CE sym {num1}, at {address}, mask {mask}",13
+77,ciod: Error loading {file_path}: {error_message},45
+78,ciod: Error creating node map from file {file_path}: {error_message},2
+79,generating core.{port},3
+80,{timestamp} {event_type} {description},7
+81,{id} double-hummer alignment exceptions,42
+82,{number} double-hummer alignment exceptions,7
+83,{number} double-{word} alignment exceptions,1
+84,{timestamp} double-hummer alignment exceptions,19
+85,{timestamp} {error_code} {error_description},3
+86,"CE sym {number}, at {address}, mask {mask}",10
+87,"ciod: Error loading {file_path}: invalid or missing program image, {error_message}",10
+88,{program} interrupt,3
+89,program interrupt: {cause}......{error_code},1
+90,{Node},6
+91,ciod: Error creating node map from file {file_path}: Bad file descriptor,1
+92,Ido chip status changed: {chip_id} ip={ip_address} v={version} t={type} status={status} {timestamp},5
+93,Can not get assembly information for {node},6
+94,{id} {type} alignment exceptions,2
+95,{number} double-{string} alignment exceptions,3
+96,{number} double-{string} alignment {string},2
+97,{id} double-{vehicle} alignment {issue},1
+98,{id} double-{vehicle_type} alignment {issue},1
+99,{id} {type} alignment {issue},1
+100,generating {core}.404,1
+101,ciod: Missing or invalid fields on line {line_number} of node map file {file_path},2
+102,{count} torus receiver {direction} input pipe error(s) (dcr {error_code}) detected and corrected,2
+103,{timestamp} double-{vehicle_type} alignment {error_type},1
+104,ciod: duplicate canonical-rank {canonical_rank} to logical-rank {logical_rank} mapping at line {line_number} of node map file {file_path},1
+105,ciod: Error creating node map from file {file_path}: Block device required,1
+106,generating core.{pid},4
+107,timestamp,3
+108,{module} panic! - stopping execution,2
+109,total of {number} ddr error(s) detected and corrected,3
+110,{timestamp} {event_type} {event_description},2
+111,{timestamp} {request_id} double-hummer alignment exceptions,2
+112,generating {core}.2010,1
+113,ciod: Z coordinate {z_coordinate} exceeds physical dimension {physical_dimension} at line {line_number} of node map file {file_path},1
+114,"{num_errors} ddr errors(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}",8
+115,"rts: kernel terminated for reason {reason}rts: bad message header: invalid cpu, type={type}, cpu={cpu}, index={index}, total={total}",1
+116,{count},49
+117,{count} floating point alignment exceptions,25
+118,{number} floating point alignment exceptions,26
+119,{code} floating point alignment exceptions,9
+120,{code},2
+121,New {device} inserted into the database: {id} ip={ip_address} v={version} t={type},1
+122,New ido chip inserted into the database: {chip_id} ip={ip_address} v={version} t={type},2
+123,{Component},1
+124,"Node card status: {status} 0, {status} 1, {status} 2, {status} 3 is (are) active. Clock Mode is {mode}. Clock Select is {select}. Phy JTAG Reset is {phy_reset}. ASIC JTAG Reset is {asic_reset}. Temperature Mask is {temp_mask}. No temperature error. Temperature Limit Error Latch is {temp_error_latch}. PGOOD is {pgood}. PGOOD error latch is {pgood_error_latch}. MPGOOD is {mpgood}. MPGOOD error latch is {mpgood_error_latch}. The 2.5 volt rail is {rail_2.5v}. The 1.5 volt rail is {rail_1.5v}.",1
+125,"Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found}",1
+126,"
+{idoproxydb} hit ASSERT condition: ASSERT expression={0} Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+",8
+127,"
+{idoproxydb} hit ASSERT condition: ASSERT expression=0 Source file={idotransportmgr.cpp} Source line={1043} Function={int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)}
+",3
+128,"
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+",10
+129,"
+idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function}
+",5
+130,Node card status: {alertStatus}. Clock Mode is {clockMode}. Clock Select is {clockSelect}. Phy JTAG Reset is {phyJtagReset}. ASIC JTAG Reset is {asicJtagReset}. Temperature Mask is {temperatureMask}. Temperature error: {temperatureError}. Temperature Limit Error Latch is {temperatureLimitErrorLatch}. PGOOD IS {pgoodStatus}. PGOOD ERROR LATCH IS {pgoodErrorLatch}. MPGOOD IS {mpgoodStatus}. MPGOOD ERROR LATCH IS {mpgoodErrorLatch}. The 2.5 volt rail is {voltRail2_5}. The 1.5 volt rail is {voltRail1_5}.,3
+131,"Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {ecid}, found {found_ecid}",4
+132,"PrepareForService shutting down NodeCard({mLctn}, {mCardSernum}, {mLp}, {mIp}, {mType}) as part of Service Action 310",1
+133,rts {component} link training failed: wanted: {wanted} got: {got},1
+134,{number} tree receiver {number} in re-synch state event(s) (dcr {hex_code}) detected,1
+135,ciod: {ACTION} chdir(pwd) failed: {ERROR},2
+136,ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP_ADDRESS}:{PORT}: {ERROR_MESSAGE},3
+137,rts: kernel terminated for reason {reason},4
+138,rts: kernel terminated for reason {reason_code},2
+139,ciod: generated {number} core files for program {program_path},18
+140,"CE sym {value1}, at {address}, mask {value2}",2
+141,ciod: generated {num_core_files} core files for program {program_path},10
+142,iar {hex1} dear {hex2},77
+143,{code} {severity} alignment exceptions,1
+144,{timestamp} {severity} {error_type} {error_description},1
+145,iar {variable1} dear {variable2},60
+146,iar {hex_value} dear {hex_value},10
+147,{timestamp} {error_type} alignment exceptions,1
+148,"CE sym {number}, at {memory_address}, mask {mask}",2
+149,Node card status: {alertStatus}. Clock Mode is {clockMode}. Clock Select is {clockSelect}. Phy JTAG Reset is {phyJtagReset}. ASIC JTAG Reset is {asicJtagReset}. Temperature Mask is {temperatureMask}. {temperatureError}. Temperature Limit Error Latch is {temperatureLimitErrorLatch}. PGOOD IS {pgoodStatus}. PGOOD ERROR LATCH IS {pgoodErrorLatch}. MPGOOD IS {mpgoodStatus}. MPGOOD ERROR LATCH IS {mpgoodErrorLatch}. The 2.5 volt rail is {2.5voltStatus}. The 1.5 volt rail is {1.5voltStatus}.,1
+150,iar {device_id} dear {target_id},4
+151,"NFS Mount failed on {server}, slept {seconds} seconds, retrying ({retry_count})",1
+152,"NFS Mount failed on {server}, slept {seconds} seconds, retrying ({attempt})",1
+153,ciod: generated {number} core files for program {program_name},1
+154,Lustre mount {status} : {server} : point {mount_point},2
+155,Lustre mount FAILED : {server} : point {mount_point},7
+156,ciod: {action}: Detected the {issue}.,3
+157,"ciod: In packet from node {node_id} ({node_type}:{node_code}-{module}-{submodule}:{unit}), message code {code} is not {expected_code} or {max_value} (softheader={header})",1
+158,ciod: Error reading message prefix after {ACTION} on CioStream socket to {IP}:{PORT}: {ERROR_MESSAGE},5
+159,suppressing further interrupts of {same type},2
+160,Node card status: {alertStatus}. Clock Mode is {clockMode}. Clock Select is {clockSelect}. Phy JTAG Reset is {phyJtagReset}. ASIC JTAG Reset is {asicJtagReset}. Temperature Mask is {temperatureMask}. {temperatureError}. Temperature Limit Error Latch is {temperatureLimitErrorLatch}. PGOOD IS {pgoodStatus}. PGOOD ERROR LATCH IS {pgoodErrorLatch}. MPGOOD IS {mpgoodStatus}. MPGOOD ERROR LATCH IS {mpgoodErrorLatch}. The 2.5 volt rail is {voltRail2_5}. The 1.5 volt rail is {voltRail1_5}.,1
+161,"Node card VPD check: {node} node in processor card slot {slot} do not match. VPD ecid {expected_ecid}, found {found_ecid}",4
+162,"
+{idoproxydb} hit ASSERT condition: ASSERT expression={expression} Source file={sourceFile} Source line={sourceLine} Function={function}
+",3
+163,idoproxydb hit ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function},5
+164,ASSERT condition: ASSERT expression={expression} Source file={source_file} Source line={source_line} Function={function},1
+165,rts: bad message header: expecting type {expectedType} instead of type {actualType} (softheader={softHeader} PSR0={PSR0} PSR1={PSR1} PRXF={PRXF} PIXF={PIXF}),1
+166,ciod: LOGIN chdir({directory}) failed: {error},2
+167,"CE sym {value1}, at {value2}, mask {value3}",1
+168,ciod: Error reading message prefix after {action} on CioStream socket to {ip_address}:{port}: {error_message},1
+169,{severity} input interrupt (unit={unit} bit={bit}): {message} for {component} {direction} wire,1
+170,{number} tree receiver {number} in re-synch state event(s) (dcr {hex}) detected,1
+171,ciod: generated {number} core files for program {file_path},1
+172,{component} parity error detected. attempting to correct,1
+173,{action} complete,1
+174,"{error_count} error(s) detected and corrected on rank {rank}, symbol {symbol}, bit {bit}",1
+175,ciod: Error loading {file}: {error_message},1
+176,critical input interrupt (unit={unit} bit={bit}): warning for torus z- wire,1
+177,{timestamp} tree receiver {receiver_id} in re-synch state event(s) (dcr {dcr_code}) detected,1
+178,"Error receiving packet on {network_type} network, expecting type {expected_type} instead of type {received_type} (softheader={softheader_value} PSR0={PSR0_value} PSR1={PSR1_value} PRXF={PRXF_value} PIXF={PIXF_value})",2
+179,iar {code1} dear {code2},38
+180,{timestamp} floating point alignment exceptions,6
+181,iar {number} dear {hex},15
+182,iar {source} dear {destination},1
+183,{logID} floating point alignment exceptions,2
+184,iar {device1} dear {device2},2
+185,{log_id} floating point alignment exceptions,2
+186,{date} floating point alignment exceptions,1
+187,"Error receiving packet on {network_type}, expecting type {expected_type} instead of type {received_type} (softheader={softheader_value} PSR0={PSR0_value} PSR1={PSR1_value} PRXF={PRXF_value} PIXF={PIXF_value})",2
+188,"
+iar {iar_number} dear {dear_code}
+",1
+189,{number} torus receiver {direction} input pipe error(s) (dcr {code}) detected and corrected,1
+190,{count} L{level} EDRAM error(s) (dcr {address}) detected and corrected,1
+191,"{severity} input interrupt (unit={unit} bit={bit}): warning for {component} z+ wire, suppressing further interrupts of same type",1
+192,"Error receiving packet on {network_type} network, expecting type {expected_type} instead of type {received_type} (softheader={softheader}) PSR0={PSR0} PSR1={PSR1} PRXF={PRXF} PIXF={PIXF}",1
+193,{message_id} torus sender {direction}- retransmission error(s) (dcr {error_code}) detected and corrected over {time} seconds,1
+194,{log_id},1
+195,"ciod: Received signal {signal}, code={code}, errno={errno}, address={address}",16
+196,Lustre mount {status} : {server} : {error_type} : {location},2
+197,MACHINE CHECK DCR read timeout (mc={mc} iar {iar} lr {lr}),7
+198,"ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection timed out",2
+199,"ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Connection reset by peer",4
+200,dbcr0={dbcr0} dbsr={dbsr} ccr0={ccr0},1
+201,"ciod: Error reading message prefix on CioStream socket to {ip_address}:{port}, Link has been severed",8
+202,r24={var1} r25={var2} r26={var3} r27={var4},1
+203,{count} tree receiver {receiver_number} in re-synch state event(s) (dcr {dcr_code}) detected over {duration} seconds,1
+204,{microseconds},42
+205,"{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_microseconds} microseconds total spent on critical input interrupts, {max_microseconds} microseconds max time in a critical input interrupt.",70
+206,{time},4
+207,{time} microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type} ddr.,3
+208,"{total_interrupts} total interrupts. {critical_input_interrupts} critical input interrupts. {total_time_critical_input_interrupts} microseconds total spent on critical input interrupts, {max_time_critical_input_interrupt} microseconds max time in a critical input interrupt.",1
+209,{time} microseconds spent in the {signal} signal handler during {calls} calls. {max_time} microseconds was the maximum time for a single instance of a {type}.,1
+210,{time} microseconds spent in the {signal} signal handler during {calls} calls. {time} microseconds was the maximum time for a single instance of a correctable {error_type}.,1
+211,"{num_errors} ddr error(s) detected and corrected on rank {rank}, symbol {symbol} over {time} seconds",7
+212,"PrepareForService shutting down Node card(mLctn({mLctn}), mCardSernum({mCardSernum}), mLp({mLp}), mIp({mIp}), mType({mType})) as part of Service Action {ServiceAction}",1
+213,"
+Kernel detected {count} integer alignment exceptions ({exception_count}) iar {iar_address}, dear {dear_address}
+",1
+214,{number} tree receiver {number} in re-synch state event(s) (dcr {hex_code}) detected over {number} seconds,1
+215,total of {number} ddr error(s) detected and corrected over {time} seconds,4
+216,minus normalized number..................{number},1
+217,fraction rounded.........................{value},1
+218,"{severity} input interrupt (unit={unit} bit={bit}): warning for tree {tree} wire, suppressing further interrupts of same type",1
+219,size of scratchpad portion of L3.........{size} ({unit}),1
+220,"Kernel detected {integer_count} integer alignment exceptions ({exception_count}) iar {iar_address1}, dear {dear_address1} ({exception_count+1}) iar {iar_address2}, dear {dear_address2} ({exception_count+2}) iar {iar_address3}, dear {dear_address3} ({exception_count+3}) iar {iar_address4}, dear {dear_address4} ({exception_count+4}) iar {iar_address5}, dear {dear_address5} ({exception_count+5}) iar {iar_address6}, dear {dear_address6} ({exception_count+6}) iar {iar_address7}, dear {dear_address7} ({exception_count+7}) iar {iar_address8}, dear {dear_address8}",3
+221,"Kernel detected {integer} integer alignment exceptions ({exception_count}) iar {iar_address1}, dear {dear_address1} ({exception_count+1}) iar {iar_address2}, dear {dear_address2} ({exception_count+2}) iar {iar_address3}, dear {dear_address3} ({exception_count+3}) iar {iar_address4}, dear {dear_address4} ({exception_count+4}) iar {iar_address5}, dear {dear_address5} ({exception_count+5}) iar {iar_address6}, dear {dear_address6} ({exception_count+6}) iar {iar_address7}, dear {dear_address7} ({exception_count+7}) iar {iar_address8}, dear {dear_address8}",2
+222,"Kernel detected {integer alignment exceptions} (3747785) iar {iar1}, dear {dear1} (3747786) iar {iar2}, dear {dear2} (3747787) iar {iar3}, dear {dear3} (3747788) iar {iar4}, dear {dear4} (3747789) iar {iar5}, dear {dear5} (3747790) iar {iar6}, dear {dear6} (3747791) iar {iar7}, dear {dear7} (3747792) iar {iar8}, dear {dear8}",1
+223,"Kernel detected {integer_count} integer alignment exceptions ({exception_1}) iar {iar_1}, dear {dear_1} ({exception_2}) iar {iar_2}, dear {dear_2} ({exception_3}) iar {iar_3}, dear {dear_3} ({exception_4}) iar {iar_4}, dear {dear_4} ({exception_5}) iar {iar_5}, dear {dear_5} ({exception_6}) iar {iar_6}, dear {dear_6} ({exception_7}) iar {iar_7}, dear {dear_7} ({exception_8}) iar {iar_8}, dear {dear_8}",1
+224,"Kernel detected {integer} integer alignment exceptions ({count1}) iar {address1}, dear {address2} ({count2}) iar {address3}, dear {address4} ({count3}) iar {address5}, dear {address6} ({count4}) iar {address7}, dear {address8} ({count5}) iar {address9}, dear {address10} ({count6}) iar {address11}, dear {address12} ({count7}) iar {address13}, dear {address14}",1
+225,ciod: {ErrorType} loading {FilePath}: {ErrorMessage},1
+226,"critical input interrupt (unit={unit} bit={bit}): warning for torus {direction} wire, suppressing further interrupts of same type",1
+227,{num_errors} L{cache_level} EDRAM error(s) (dcr {dcr_address}) detected and corrected over {duration} seconds,1
+228,"ciod: Error loading {file_path}: program image too big, {image_size} > {max_image_size}",1
+229,fpr29={value} {value} {value} {value},1
+230,Machine State Register: {state},1

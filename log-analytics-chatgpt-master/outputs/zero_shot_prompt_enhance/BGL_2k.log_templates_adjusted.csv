@@ -1,0 +1,145 @@
+,EventTemplate,Occurrences
+0,generating core.<*>,721
+1,iar <*> dear <*>,208
+2,<*> floating point alignment exceptions,121
+3,<*> double-hummer alignment exceptions,105
+4,"CE sym <*>, at <*>, mask <*>",92
+5,data <*> interrupt,63
+6,"<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.",58
+7,"ciod: Error loading <*>: invalid or missing program image, <*>",41
+8,idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=<*> Source line=<*> Function=<*>,35
+9,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.,34
+10,ciod: generated <*> core files for program <*>,30
+11,<*> cache parity error <*>,27
+12,instruction address: <*>,21
+13,ciod: LOGIN chdir(<*>) failed: <*>,19
+14,<*> storage <*>,19
+15,<*> spent in the rbs signal handler during <*> calls. <*> was the maximum time for a single instance of a correctable ddr.,17
+16,"<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>",16
+17,"ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>",16
+18,instruction <*> parity error <*>,15
+19,ciod: Error loading <*>: <*>,15
+20,total of <*> ddr error(s) detected and corrected,13
+21,"total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.",13
+22,data store interrupt caused by <*>,10
+23,"Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*>, found <*>",9
+24,ciod: Error reading message prefix after <*> on CioStream socket to <*>: <*>,9
+25,Lustre mount FAILED : <*> : point <*>,9
+26,data address: <*>,8
+27,program interrupt: illegal instruction......<*>,8
+28,"ciod: Error reading message prefix on CioStream socket to <*>, Link has been severed",8
+29,core configuration register: <*>,7
+30,MACHINE CHECK DCR read timeout (mc=<*> iar <*> lr <*>),7
+31,<*>,6
+32,exception syndrome register: <*>,6
+33,Node <*> is not fully functional,6
+34,rts: kernel terminated for reason <*>,6
+35,machine check: i-fetch......................<*>,5
+36,program interrupt: privileged instruction...<*>,5
+37,auxiliary processor.........................<*>,5
+38,floating pt ex mode <*> enable......<*>,5
+39,data address space................<*>,5
+40,Ido chip status changed: <*> ip=<*> v=<*> t=<*> status=<*> <*>,5
+41,program interrupt: imprecise exception......<*>,4
+42,machine state register: <*>,4
+43,floating point instr. enabled.....<*>,4
+44,program interrupt: fp cr field <*>,4
+45,<*> torus receiver <*> input pipe error(s) (dcr <*>) detected and corrected,4
+46,"ciod: Error reading message prefix on CioStream socket to <*>, Connection reset by peer",4
+47,"$<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds",4
+48,total of <*> ddr error(s) detected and corrected over <*> seconds,4
+49,problem state (<*>).......<*>,3
+50,disable store gathering..................<*>,3
+51,<*> interrupt,3
+52,Can not get assembly information for node <*>,3
+53,<*> double-<*> alignment <*>,3
+54,New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>,3
+55,Can not get assembly information for <*>,3
+56,Node card status: <*>. Clock Mode is <*>. Clock Select is <*>. Phy JTAG Reset is <*>. ASIC JTAG Reset is <*>. Temperature Mask is <*>. Temperature error: <*>. Temperature Limit Error Latch is <*>. PGOOD IS <*>. PGOOD ERROR LATCH IS <*>. MPGOOD IS <*>. MPGOOD ERROR LATCH IS <*>. The <*> volt rail is <*>. The <*> volt rail is <*>.,3
+57,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected,3
+58,"<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds",3
+59,"Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> ({exception_count+<*>}) iar <*>, dear <*> ({exception_count+<*>}) iar <*>, dear <*> ({exception_count+<*>}) iar <*>, dear <*> ({exception_count+<*>}) iar <*>, dear <*> ({exception_count+<*>}) iar <*>, dear <*> ({exception_count+<*>}) iar <*>, dear <*> ({exception_count+<*>}) iar <*>, dear <*>",3
+60,ciod: failed to read message prefix on control stream (CioStream socket to <*>,2
+61,force load/store alignment...............<*>,2
+62,store <*>,2
+63,machine check enable..............<*>,2
+64,program interrupt: <*>..<*>,2
+65,guaranteed instruction cache block touch.<*>,2
+66,icache prefetch threshold................<*>,2
+67,debug wait enable.................<*>,2
+68,ciod: Missing or invalid fields on line <*> of node map file <*>,2
+69,rts panic! - stopping execution,2
+70,"NFS Mount failed on <*>, slept <*> seconds, retrying (<*>)",2
+71,"<*> errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>",2
+72,ciod: pollControlDescriptors: Detected the <*> died.,2
+73,suppressing further interrupts of <*>,2
+74,data cache <*> parity error detected. attempting to correct,2
+75,data cache <*> parity error detected. attempting to <*>,2
+76,"Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>",2
+77,"Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*> PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>)",2
+78,"critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type",2
+79,<*> torus sender z- retransmission error(s) (dcr <*>) detected and corrected over <*> seconds,2
+80,Lustre mount FAILED : <*> : <*> : <*>,2
+81,"ciod: Error reading message prefix on CioStream socket to <*>, Connection timed out",2
+82,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected over <*> seconds,2
+83,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>,1
+84,data <*> error <*>,1
+85,ciod: Message code <*> is not <*> or <*>,1
+86,<*> storage interrupt,1
+87,program interrupt: trap instruction.........<*>,1
+88,debug interrupt enable............<*>,1
+89,byte ordering exception.....................<*>,1
+90,byte ordering exception <*>,1
+91,program interrupt: <*> exception......<*>,1
+92,program interrupt: <*> update.............<*>,1
+93,guaranteed data cache block touch........<*>,1
+94,icache prefetch depth....................<*>,1
+95,wait state enable.................<*>,1
+96,critical input <*> enable...<*>,1
+97,special purpose registers: <*>,1
+98,lr:<*> cr:<*> xer:<*> ctr:<*>,1
+99,rts internal error,1
+100,instruction address space.........<*>,1
+101,ciod: failed to read message prefix on control stream (CioStream socket to <*>),1
+102,ciod: Error creating node map from file <*>: No child processes,1
+103,ciod: Error creating node map from file <*>: Bad file descriptor,1
+104,<*> double-hummer alignment <*>,1
+105,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>,1
+106,ciod: Error creating node map from file <*>: Block device required,1
+107,ciod: Error creating node map from file <*>: <*>,1
+108,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>,1
+109,"rts: kernel terminated for reason <*>: bad message header: invalid cpu, type=<*>, cpu=<*>, index=<*>, total=<*>",1
+110,<*> is not fully functional,1
+111,"Node card status: <*>, <*>, <*>, <*> is (are) active. Clock Mode is <*>. Clock Select is <*>. Phy JTAG Reset is <*>. ASIC JTAG Reset is <*>. Temperature Mask is <*>. No temperature error. Temperature Limit Error Latch is <*>. PGOOD is <*>. PGOOD error latch is <*>. MPGOOD is <*>. MPGOOD error latch is <*>. The <*> volt rail is <*>. The <*> volt rail is <*>.",1
+112,Node card status: <*>. Clock Mode is <*>. Clock Select is <*>. Phy JTAG Reset is <*>. ASIC JTAG Reset is <*>. Temperature Mask is <*>. <*>. Temperature Limit Error Latch is <*>. PGOOD IS <*>. PGOOD ERROR LATCH IS <*>. MPGOOD IS <*>. MPGOOD ERROR LATCH IS <*>. The <*> volt rail is <*>. The <*> volt rail is <*>.,1
+113,Node card status: <*>. Clock Mode is <*>. Clock Select is <*>. Phy JTAG Reset is <*>. ASIC JTAG Reset is <*>. Temperature Mask is <*>. Temperature Error: <*>. Temperature Limit Error Latch is <*>. PGOOD IS <*>. PGOOD ERROR LATCH IS <*>. MPGOOD IS <*>. MPGOOD ERROR LATCH IS <*>. The <*> volt rail is <*>. The <*> volt rail is <*>.,1
+114,"PrepareForService shutting down NodeCard(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>",1
+115,rts tree/torus link training failed: wanted: <*> <*> <*> {X+} <*> {Y+} <*> {Z+} <*> got: <*> <*> <*> <*> <*> {Z+} <*>,1
+116,"ciod: Error loading <*>: invalid or missing program image, Exec format error",1
+117,"ciod: In packet from node <*> (<*>-<*>-<*>), message code <*> is not <*> or <*> (softheader=<*>)",1
+118,rts: bad message header: expecting type <*> instead of type <*> (softheader=<*> PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>),1
+119,critical input interrupt (unit=<*> bit=<*>): warning for torus y+ wire,1
+120,data cache <*> error detected. attempting to <*>,1
+121,data cache <*> parity error detected. <*> to correct,1
+122,<*> complete,1
+123,critical input interrupt (unit=<*> bit=<*>): warning for torus z- wire,1
+124,"Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>",1
+125,<*> <*> EDRAM error(s) (dcr <*>) detected and corrected,1
+126,dbcr0=<*> dbsr=<*> ccr0=<*>,1
+127,r24=<*> r25=<*> r26=<*> r27=<*>,1
+128,"PrepareForService shutting down Node card(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>",1
+129,"Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*>",1
+130,minus normalized number..................<*>,1
+131,fraction rounded.........................<*>,1
+132,"critical input interrupt (unit=<*> bit=<*>): warning for tree <*> wire, suppressing further interrupts of same type",1
+133,size of scratchpad portion of L3.........<*> (<*>),1
+134,"Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*>",1
+135,"Static log template: Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*>",1
+136,"Kernel detected <*> exceptions (<*>) iar <*>, dear <*>",1
+137,"Kernel detected <*> (<*>) iar <*>, dear <*>",1
+138,"Static log template: Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*>",1
+139,<*> <*> EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds,1
+140,ciod: pollControlDescriptors: Detected the <*>.,1
+141,"ciod: Error loading <*>: program image too big, <*> > <*>",1
+142,fpr29=<*> <*> <*> <*>,1
+143,Machine State Register: <*>,1

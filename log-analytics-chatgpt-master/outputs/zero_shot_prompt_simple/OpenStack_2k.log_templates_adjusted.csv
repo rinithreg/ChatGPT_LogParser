@@ -1,0 +1,85 @@
+,EventTemplate,Occurrences
+0,"<*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",256
+1,"""<*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>""",225
+2,"<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",164
+3,[instance: <*>] <*>,139
+4,"""<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>""",124
+5,image <*> at (<*>): <*>,82
+6,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+7,Active base files: <*>,82
+8,"<*>,<*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",58
+9,"""<*> <*> \""<*> <*> <*>"" status: <*> len: <*> time: <*>""",56
+10,[instance: <*>] <*> (Lifecycle Event),45
+11,[instance: <*>] During sync_power_state the instance has a pending task (<*>). Skip.,30
+12,Unknown base file: <*>,30
+13,Removable base files: <*>,30
+14,"""<*> ""<*> <*> HTTP/<*>"" status: <*> len: <*> time: <*>""",27
+15,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.,22
+16,[instance: <*>] Took <*> seconds to build instance.,22
+17,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.,21
+18,[instance: <*>] Took <*> seconds to deallocate network for instance.,21
+19,Removing base or swap file: <*>,21
+20,HTTP exception thrown: <*>,21
+21,"[instance: <*>] Total memory: <*> MB, used: <*> MB",21
+22,"[instance: <*>] memory limit: <*> MB, free: <*> MB",21
+23,"[instance: <*>] Total disk: <*> GB, used: <*> GB",21
+24,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU",21
+25,"<*> <*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",21
+26,Creating event network-vif-plugged:<*> for instance <*>,20
+27,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",19
+28,<*>,18
+29,[instance: <*>] Deleting instance files <*>,17
+30,Auditing locally available compute resources for node <*>,15
+31,"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+32,Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=<*>,15
+33,[instance: <*>] Deletion of <*> complete,15
+34,Compute_service record updated for <*>,14
+35,[instance: <*>] <*> (<*>),14
+36,[instance: <*>] VM <*> (Lifecycle Event),12
+37,"[instance: <*>] vcpu limit not specified, defaulting to unlimited",11
+38,"IP: <*> Request: ""GET <*> HTTP/1.<*>"" Status: <*> Length: <*> Time: <*>",11
+39,IP: <*> Request: GET <*> HTTP/1.<*> Status: <*> Length: <*> Time: <*>,11
+40,[instance: <instance_id>] <message>,10
+41,[instance: <*>] VM Resumed (Lifecycle Event),10
+42,Base or swap file too young to remove: <*>,9
+43,[instance: <instance_id>] During sync_power_state the instance has a pending task (<task>). Skip.,8
+44,[instance: <instance_id>] Deletion of <file_path> complete,6
+45,"<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",6
+46,[instance: <*>] During sync_power_state the instance has a pending task (<*>). <*>,5
+47,The instance sync for host '<*>' did not match. Re-created its InstanceList.,5
+48,"[instance: <*>] disk limit not specified, defaulting to unlimited",4
+49,[instance: <instance_id>] Deleting instance files <file_path>,4
+50,"<*> ""DELETE <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",4
+51,"IP: <*>,<*> Request: ""GET <*> HTTP/1.<*>"" Status: <*> Length: <*> Time: <*>",4
+52,"<client_ip>,<server_ip> ""<request_method> <request_uri> <request_protocol>"" status: <status_code> len: <response_length> time: <response_time>",3
+53,"IP: <*>, <*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",3
+54,[instance: <*>] VM Started (Lifecycle Event),3
+55,[instance: <*>] VM Paused (Lifecycle Event),3
+56,"<*>,<*> ""<*>"" status: <*> len: <*> time: <*>",3
+57,[instance: <*>] VM <*> (<*>),3
+58,Successfully synced instances from host '<*>'.,2
+59,"IP: %s, %s ""GET %s HTTP/1.<*>"" status: %d len: %d time: %f",2
+60,"IP: %s, %s ""%s %s %s"" status: %d len: %d time: %f",2
+61,"<IP> ""<METHOD> <PATH> <PROTOCOL>"" status: <STATUS> len: <LENGTH> time: <TIME>",2
+62,"""<*>,<*> \""<*> <*> <*>"" status: <*> len: <*> time: <*>""",2
+63,"Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",2
+64,"<*>,<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",2
+65,"""<*> <*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>""",2
+66,[instance: <*>] <*> instance,2
+67,[instance: <*>] Terminating instance,2
+68,"<*>, <*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",2
+69,Creating event network-vif-plugged:$vif_id for instance $instance_id,1
+70,"""<*>,<*> \""<*>"" status: <*> len: <*> time: <*>""",1
+71,Running instance usage audit for host <*> from <*> to <*>. <*> instances.,1
+72,"<*> <*> ""<*> <*> HTTP/<*>"" status: <*> len: <*> time: <*>",1
+73,"""<*> <*> \""<*>"" status: <*> len: <*> time: <*>""",1
+74,"IP: <*>,<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",1
+75,"<*> <*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",1
+76,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+77,Compute_service record updated for <*>:@<*>,1
+78,Creating event network-vif-plugged:$instance_id for instance $instance_id,1
+79,"<*> ""<*> <*> HTTP/<*>"" status: <*> len: <*> time: <*>",1
+80,"<client_ip> ""<request_method> <request_url> <request_protocol>"" status: <status_code> len: <response_length> time: <response_time>",1
+81,[instance: <instance_id>] <event_description>,1
+82,"<*>, <*> ""<*>"" status: <*> len: <*> time: <*>",1
+83,"IP: <*>,<*> Request: ""GET /latest/meta-data/ HTTP/1.<*>"" Status: <*> Length: <*> Time: <*>",1

@@ -1,0 +1,7 @@
+Dataset,F1_measure,Accuracy
+BGL,0.999599,0.962500
+Linux,0.992437,0.690000
+Android,0.995913,0.911000
+Apache,1.000000,1.000000
+Proxifier,0.784886,0.526500
+OpenStack,0.992536,0.732500

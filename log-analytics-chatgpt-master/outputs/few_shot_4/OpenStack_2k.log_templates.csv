@@ -1,0 +1,153 @@
+,EventTemplate,Occurrences
+0,"10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",128
+1," {ip_address} ""GET {endpoint}"" status: {status} len: {len} time: {time}",298
+2,"{ip_address} ""GET {endpoint}"" status: {status} len: {len} time: {time}",307
+3,{instance}: VM Started (Lifecycle Event),6
+4,{instance}: {event} ({lifecycle}),14
+5,[instance: {instance}] During sync_power_state the instance has a pending task ({task}). Skip.,29
+6,image {instance} at ({path}): checking,82
+7,"image {instance} at ({path}): in use: on this node {count} local, {count} on other nodes sharing this instance storage",82
+8,Active base files: {path},82
+9,Creating event {event_type}:{event_id} for instance {instance_id},10
+10,"{ip_address} ""POST {endpoint}"" status: {status} len: {len} time: {time}",32
+11,{instance} VM Resumed (Lifecycle Event),1
+12,{instance}: Instance spawned successfully.,6
+13,{instance}: Took {time} seconds to spawn the instance on the hypervisor.,8
+14,{instance}: VM Resumed (Lifecycle Event),18
+15,{instance}: Took {time} seconds to build instance.,11
+16,Auditing locally available compute resources for node {node},15
+17,"Total usable vcpus: {usable_vcpus}, total allocated vcpus: {allocated_vcpus}",10
+18,Final resource view: name={name} phys_ram={phys_ram} used_ram={used_ram} phys_disk={phys_disk} used_disk={used_disk} total_vcpus={total_vcpus} used_vcpus={used_vcpus} pci_stats={pci_stats},13
+19,Compute_service record updated for {service},10
+20,"10.11.21.122,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",3
+21,"{ip_addresses} ""{method} {endpoint} {protocol}"" status: {status} len: {len} time: {time}",5
+22,"10.11.10.1 ""DELETE {endpoint}"" status: {status} len: {len} time: {time}",4
+23,{instance}: Terminating instance,17
+24,{instance}: Instance destroyed successfully.,5
+25,"{ip_addresses} ""GET {endpoint}"" status: {status} len: {len} time: {time}",56
+26,[instance: {instance}] Deleting instance files {path},21
+27,[instance: {instance}] Deletion of {path} complete,21
+28,[instance: {instance}] Took {time} seconds to destroy the instance on the hypervisor.,12
+29,{instance}: Took {time} seconds to deallocate network for instance.,2
+30,Unknown base file: {path},30
+31,Removable base files: {path},30
+32,Removing base or swap file: {path},21
+33,HTTP exception thrown: {error_message},21
+34," {ip_address} ""POST {endpoint}"" status: {status} len: {len} time: {time}",8
+35,"[instance: {instance}] Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU",18
+36,"[instance: {instance}] Total memory: {total_memory} MB, used: {used_memory} MB",17
+37,"[instance: {instance}] memory limit: {limit} MB, free: {free} MB",4
+38,"[instance: {instance}] Total disk: {total_disk} GB, used: {used_disk} GB",17
+39,"[instance: {instance}] disk limit not specified, defaulting to unlimited",9
+40,"[instance: {instance}] Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",11
+41,"{instance} vcpu limit not specified, defaulting to unlimited",4
+42,{instance}: Claim successful,6
+43,[instance: {instance}] Creating image,13
+44,[instance: {instance}] VM Stopped (Lifecycle Event),8
+45,{event_type} VM Started (Lifecycle Event),5
+46,[instance: {instance}] VM Paused (Lifecycle Event),6
+47,"""{ip_address} ""GET {endpoint}"" status: {status} len: {len} time: {time}""",2
+48,{instance} Instance spawned successfully.,11
+49,[instance: {instance}] VM Resumed (Lifecycle Event),13
+50,[instance: {instance}] Took {time} seconds to build instance.,11
+51,Successfully synced instances from host '{hostname}'.,2
+52,"10.11.21.123,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",5
+53,"10.11.21.123,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.0009170",1
+54,"{ip_address} ""DELETE {endpoint}"" status: {status} len: {len} time: {time}",18
+55,Running instance usage audit for host {host} from {start_time} to {end_time}. {instance_count} instances.,1
+56,{instance} Instance destroyed successfully.,12
+57,[instance: {instance}] Took {time} seconds to deallocate network for instance.,17
+58,"10.11.10.1 ""POST {endpoint} HTTP/1.1"" status: {status} len: {len} time: {time}",11
+59,"{instance}: Total disk: {total_disk} GB, used: {used_disk} GB",2
+60,"{instance}: Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",2
+61,"{instance}: vcpu limit not specified, defaulting to unlimited",12
+62,{instance}: {message},3
+63,"Total usable vcpus: {total_usable_vcpus}, total allocated vcpus: {total_allocated_vcpus}",5
+64,{instance}: Creating image,7
+65,{event_type} VM Stopped ({event_description}),1
+66,[instance: {instance}] VM Started (Lifecycle Event),6
+67,Creating event {event_type} for instance {instance_id},4
+68,[instance: {instance}] Took {time} seconds to spawn the instance on the hypervisor.,12
+69,{instance}: During sync_power_state the instance has a pending task ({task}). Skip.,8
+70,"10.11.21.124,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",4
+71,{instance}: Took {time} seconds to destroy the instance on the hypervisor.,5
+72,Base or swap file too young to remove: {path},9
+73,[instance: {instance}] Claim successful,13
+74,{instance}: VM Stopped (Lifecycle Event),4
+75,{event_type} VM Paused (Lifecycle Event),7
+76,"10.11.10.1 ""POST {endpoint}"" status: {status} len: {len} time: {time}",13
+77,[instance: {instance}] Instance spawned successfully.,4
+78,{event_type} VM Resumed (Lifecycle Event),9
+79,"10.11.21.125,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",2
+80,[instance: {instance}] Instance destroyed successfully.,5
+81,"[instance: {instance}] memory limit: {memory_limit} MB, free: {free_memory} MB",1
+82,"{instance}: disk limit not specified, defaulting to unlimited",7
+83,"{instance} Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",7
+84,Creating event {event_type}: {event_id} for instance {instance_id},8
+85,"10.11.21.126,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",8
+86,"{instance} memory limit: {limit} MB, free: {free} MB",8
+87,"[instance: {instance}] vcpu limit not specified, defaulting to unlimited",5
+88,{event_type} VM Stopped (Lifecycle Event),2
+89,{event_type} VM Started ({lifecycle_event}),1
+90,[instance: {instance_id}] During sync_power_state the instance has a pending task ({task}). Skip.,3
+91,"10.11.21.127,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",4
+92,"[instance: {instance}] memory limit: {memory_limit} MB, free: {memory_free} MB",4
+93,"{instance} disk limit not specified, defaulting to unlimited",3
+94,{instance} VM Stopped (Lifecycle Event),1
+95,Final resource view: name={name} phys_ram={ram}MB used_ram={used_ram}MB phys_disk={disk}GB used_disk={used_disk}GB total_vcpus={total_vcpus} used_vcpus={used_vcpus} pci_stats={pci_stats},2
+96,Compute_service record updated for {service_name}:{service_name},3
+97,"10.11.21.128,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",5
+98,"{instance} memory limit: {memory_limit} MB, free: {free_memory} MB",4
+99,"[instance: {instance_id}] Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",1
+100,"""{ip_address} ""{method} {endpoint}"" status: {status} len: {len} time: {time}""",2
+101, [instance: {instance}] VM Stopped (Lifecycle Event),1
+102,The instance sync for host '{hostname}' did not match. Re-created its InstanceList.,5
+103,[instance: {instance_id}] Instance spawned successfully.,1
+104,"10.11.21.129,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",7
+105,"10.11.21.129,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.3263230",1
+106,[instance: {instance_id}] {action},1
+107,"10.11.10.2 ""GET {endpoint}"" status: {status} len: {len} time: {time}",3
+108,Compute_service record updated for {service}: {service},2
+109,{event}: {description} ({lifecycle}),2
+110,{instance}: VM Paused (Lifecycle Event),2
+111,{instance_info} During sync_power_state the instance has a pending task ({task}). Skip.,3
+112,"10.11.21.130,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",4
+113,[instance: {instance}] Terminating instance,2
+114,{instance} Took {time} seconds to destroy the instance on the hypervisor.,4
+115,"{instance} Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU",2
+116,"{instance} Total disk: {total_disk} GB, used: {used_disk} GB",2
+117,"""{ip_address} ""{method} {endpoint} HTTP/1.1"" status: {status} len: {len} time: {time}""",2
+118,"10.11.21.131,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",5
+119,[instance: {instance_id}] Terminating instance,2
+120,"{ip_address} ""{method} {endpoint} {protocol}"" status: {status} len: {len} time: {time}",3
+121,{instance} Creating image,1
+122,"10.11.21.132,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",9
+123,"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/block-device-mapping/root HTTP/1.1"" status: {status} len: {len} time: {time}",1
+124,{instance} Took {time} seconds to spawn the instance on the hypervisor.,2
+125,"10.11.21.133,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",7
+126,"[instance: {instance_id}] Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU",1
+127,instance: {instance_id} Claim successful,1
+128,"10.11.21.134,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",2
+129,"[instance: {instance_id}] Total memory: {total_memory} MB, used: {used_memory} MB",1
+130,"10.11.21.135,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",6
+131,"10.11.21.135,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.0007021",1
+132,{instance} Took {time} seconds to deallocate network for instance.,2
+133,"While synchronizing instance power states, found {database_count} instances in the database and {hypervisor_count} instances on the hypervisor.",1
+134,"10.11.21.136,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",6
+135,"10.11.21.136,10.11.10.1 ""GET /latest/meta-data/block-device-mapping/ HTTP/1.1"" status: 200 len: 124 time: 0.2300491",1
+136,"10.11.21.137,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",7
+137,"10.11.21.138,10.11.10.1 ""GET /openstack/2012-08-10/meta_data.json HTTP/1.1"" status: {status} len: {len} time: {time}",1
+138,"10.11.21.138,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",2
+139,"{instance}: Total memory: {total_memory} MB, used: {used_memory} MB",2
+140,{event_type} VM Stopped ({lifecycle_event}),1
+141,"10.11.21.139,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",9
+142,"10.11.21.139,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.0009460",1
+143,"10.11.21.139,10.11.10.1 ""GET /latest/meta-data/block-device-mapping/ HTTP/1.1"" status: {status} len: {len} time: {time}",1
+144,"{instance} Total memory: {total_memory} MB, used: {used_memory} MB",1
+145,"10.11.21.140,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",3
+146,"10.11.21.141,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",4
+147,instance: {instance_id} VM Stopped (Lifecycle Event),1
+148,"10.11.21.142,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",5
+149,"10.11.21.142,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.2538400",1
+150,"10.11.21.143,10.11.10.1 ""GET {endpoint}"" status: {status} len: {len} time: {time}",8
+151,"10.11.21.143,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.2230601",1

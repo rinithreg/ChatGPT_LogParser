@@ -1,0 +1,4002 @@
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net` is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} ({hostname}) at {timestamp}`.
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} ({hostname}) at {timestamp}`.
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} ({hostname}) at {timestamp}`.
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`User unknown timed out after {timeout} seconds at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of the log message is `session closed for user {username}`.
+ =================== 
+The template of `cupsd shutdown succeeded` is `cupsd shutdown succeeded`.
+ =================== 
+The template of `cupsd startup succeeded` is `cupsd startup succeeded`.
+ =================== 
+The template of `restart.` is `{action}.`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`Received SNMP packet(s) from {source_ip}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of the log message is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({extra_info}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} () at {date}`.
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user cyrus` is `session closed for user {username}`.
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({extra_info}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of the log message is `cupsd shutdown succeeded`.
+ =================== 
+The template of `cupsd startup succeeded` is `{service} startup succeeded`.
+ =================== 
+The template of `restart.` is `restart.`.
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} () at {timestamp}`.
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} () at {timestamp}`.
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} () at {day} {month} {date} {time} {year}`.
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`connection from {ip} ({}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code`
+ =================== 
+`{authentication_type} authentication failed`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code`
+ =================== 
+`{authentication_type} authentication failed`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code`
+ =================== 
+`{authentication_type} authentication failed`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+`{authentication_type} authentication failed`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+`{authentication_type} authentication failed`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+`{authentication_type} authentication failed`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+`Authentication failed from {source_ip} ({source_ip}): {reason}`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`{authentication_type} authentication failed`
+ =================== 
+The template of `Kerberos authentication failed` is `{action} authentication failed`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of the log message is `session opened for user {username} by (uid={uid})`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of the log message is `session closed for user {username}`.
+ =================== 
+The template of `session closed for user test` is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `session opened for user {username} by (uid={uid})`.
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user test` is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user test` is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of the log message is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `session closed for user test` is `session closed for user {username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user test` is `session closed for user {username}`.
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of the log message is `cupsd shutdown succeeded`.
+ =================== 
+The template of `cupsd startup succeeded` is `{service} startup succeeded`.
+ =================== 
+The template of `restart.` is `{action}.`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of the log message is `connection from {ip_address} ({hostname}) at {timestamp}`.
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} ({hostname}) at {timestamp}`.
+ =================== 
+The template of the log message is `connection from {ip} ({hostname}) at {timestamp}`.
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} ({hostname}) at {timestamp}`.
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of the log message is `session closed for user {username}`.
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} ({hostname}) at {timestamp}`.
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is: 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is: `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+`connection from {ip} ({details}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} ({details}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} ({additional_info}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} ({}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} ({details}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} ({details}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} ({}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} ({}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({additional_info}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} ({additional_info}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `session closed for user test` is `session closed for user {username}`.
+ =================== 
+The template of `*** info [mice.c(1766)]:` is `*** info [{source}({line})]:`.
+ =================== 
+The template of `imps2: Auto-detected intellimouse PS/2` is `{device}: Auto-detected {description}`.
+ =================== 
+`session opened for user {username} by LOGIN(uid={uid})`
+ =================== 
+The template of `ROOT LOGIN ON tty2` is `{username} LOGIN ON {terminal}`.
+ =================== 
+`session closed for user {username}`
+ =================== 
+`removing device node '{device}'`
+ =================== 
+The template of the log message is `removing device node '{device}'`.
+ =================== 
+`creating device node '{device}'`
+ =================== 
+`creating device node '{device}'`
+ =================== 
+The template of the log message is `removing device node '{device}'`.
+ =================== 
+The template of `removing device node '/udev/vcsa2'` is `removing device node '{device}'`.
+ =================== 
+`creating device node '{device}'`
+ =================== 
+The template of `creating device node '/udev/vcsa2'` is `creating device node '{device}'`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of the log message is `connection from {ip} () at {day} {month} {date} {time} {year}`.
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({additional_info}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} ({additional_info}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} ({additional_info}) at {timestamp}`
+ =================== 
+`connection from {ip} ({}) at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `cupsd shutdown succeeded` is `{service} shutdown succeeded`.
+ =================== 
+`{service} startup succeeded`
+ =================== 
+The template of `restart.` is `{action}.`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({}) at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is: `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is: `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is: 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of the log message is `session closed for user {username}`.
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `Couldn't authenticate user` is `{message}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `cupsd shutdown succeeded` is `{service} shutdown succeeded`.
+ =================== 
+`{service} startup succeeded`
+ =================== 
+The template of `restart.` is `{action}.`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+The template of the log message is `connection from {ip} () at {day} {month} {date} {time} {year}`.
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user {status}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`.
+ =================== 
+The template of `check pass; user unknown` is `check pass; user unknown`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({additional_info}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {date}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of the log message is `session closed for user {username}`.
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({details}) at {date}`
+ =================== 
+`connection from {ip} ({details}) at {date}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+The template of `ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)` is `ANONYMOUS FTP LOGIN FROM {ip},  ({username})`.
+ =================== 
+The template of `ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)` is `ANONYMOUS FTP LOGIN FROM {ip},  ({username})`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `cupsd shutdown succeeded` is `{service} shutdown succeeded`.
+ =================== 
+The template of `cupsd startup succeeded` is `cupsd startup succeeded`.
+ =================== 
+`{action}.`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({extra_info}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} ({}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} ({extra}) at {date}`
+ =================== 
+The template of the log message is `connection from {ip} () at {day} {time} {year}`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`notify {action} section contains no {record_type}`
+ =================== 
+`notify {action} section contains no {type}`
+ =================== 
+`notify question section contains no SOA`
+ =================== 
+`notify question section contains no SOA`
+ =================== 
+The template of the log message is `notify {section} contains no SOA`.
+ =================== 
+`notify {action} section contains no {record_type}`
+ =================== 
+`notify {action} section contains no {record_type}`
+ =================== 
+`notify question section contains no SOA`
+ =================== 
+`notify {action} section contains no {record_type}`
+ =================== 
+`notify {action} section contains no {record_type}`
+ =================== 
+The template of the log message is `notify {section} contains no SOA`.
+ =================== 
+`notify {action} section contains no {record_type}`
+ =================== 
+`notify {action} section contains no {type}`
+ =================== 
+`notify question section contains no SOA`
+ =================== 
+The template of the log message is `notify {section} contains no SOA`.
+ =================== 
+The template of the log message is `notify {section} contains no SOA`.
+ =================== 
+`{function} ({service}): {error}`
+ =================== 
+`{function} ({service}): {error}`
+ =================== 
+`warning: can't get client address: {error_message}`
+ =================== 
+The template of `getpeername (ftpd): Transport endpoint is not connected` is `getpeername ({process}): {error_message}`.
+ =================== 
+The template of `warning: can't get client address: Connection reset by peer` is `warning: {reason}: {error}`.
+ =================== 
+The template of `getpeername (ftpd): Transport endpoint is not connected` is `getpeername ({process}): {error_message}`.
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+`connection from {ip_address} () at {day} {month} {date} {time} {year}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the given log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+The template of the log message is `authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`.
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username}`
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+`session closed for user {username}`
+ =================== 
+The template of `ALERT exited abnormally with [1]` is `ALERT exited abnormally with [{value}]`.
+ =================== 
+`session opened for user {username} by (uid={uid})`
+ =================== 
+The template of `session closed for user news` is `session closed for user {username}`.
+ =================== 
+`connection from {ip} () at {timestamp}`
+ =================== 
+The template of `restart.` is `restart.`.
+ =================== 
+The template of `syslogd startup succeeded` is `syslogd startup succeeded`.
+ =================== 
+`{program} {version}, log source = {source} started.`
+ =================== 
+`Linux version {version} ({compiler}) (gcc version {gcc_version}) #1 {timestamp}`
+ =================== 
+`{bios}-provided physical RAM map:`
+ =================== 
+The template of the log message is `BIOS-e820: {start} - {end} (usable)`.
+ =================== 
+`BIOS-e820: {start_address} - {end_address} (reserved)`
+ =================== 
+`BIOS-e820: {start_address} - {end_address} ({status})`
+ =================== 
+The template of `BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved)` is `BIOS-e820: {start_address} - {end_address} (reserved)`.
+ =================== 
+The template of the log message is `BIOS-e820: {start_address} - {end_address} (reserved)`.
+ =================== 
+The template of the log message is `0MB HIGHMEM available.`
+ =================== 
+`{size} LOWMEM available.`
+ =================== 
+The template of `zapping low mappings.` is `zapping low mappings.`.
+ =================== 
+`{process} startup succeeded`
+ =================== 
+`On node {node} totalpages: {totalpages}`
+ =================== 
+The template of `DMA zone: 4096 pages, LIFO batch:1` is `DMA zone: {pages} pages, LIFO batch:{batch}`.
+ =================== 
+The template of the log message is `Normal zone: {pages} pages, LIFO batch:{batch}`.
+ =================== 
+`{process} startup succeeded`
+ =================== 
+`{zone} zone: {pages} pages, LIFO batch:{batch}`
+ =================== 
+The template of `DMI 2.3 present.` is `{name} {version} present.`.
+ =================== 
+The template of `ACPI disabled because your bios is from 2000 and too old` is `{reason}`.
+ =================== 
+`You can enable it with {option}`
+ =================== 
+The template of the log message is `Built {number} zonelists`.
+ =================== 
+The template of `Kernel command line: ro root=LABEL=/ rhgb quiet` is `Kernel command line: {option1} {option2}={value1}/{value2} {option3} {option4}`.
+ =================== 
+The template of the log message is `mapped {size}/{total} trampoline to {address}.`
+ =================== 
+The template of the log message is `Initializing CPU#{cpu_number}`.
+ =================== 
+The template of `CPU 0 irqstacks, hard=02345000 soft=02344000` is `CPU {cpu_number} irqstacks, hard={hard_address} soft={soft_address}`.
+ =================== 
+`{service} startup succeeded`
+ =================== 
+The template of the log message is `PID hash table entries: {entries} (order {order}: {bytes} bytes)`.
+ =================== 
+The template of the log message is `Detected {frequency} MHz processor.`
+ =================== 
+`Version {major}.{minor}.{patch} Starting`
+ =================== 
+`Using {tool} for {purpose}`
+ =================== 
+`{process} startup succeeded`
+ =================== 
+`Console: colour {type} {resolution}`
+ =================== 
+`Memory: {available} available ({kernel_code} kernel code, {reserved} reserved, {data} data, {init} init, {highmem} highmem)`
+ =================== 
+The template of `Calibrating delay loop... 1445.88 BogoMIPS` is `Calibrating delay loop... {delay} BogoMIPS`.
+ =================== 
+`{component} v{version} initialized`
+ =================== 
+The template of `SELinux:  Initializing.` is `SELinux:  {action}.`
+ =================== 
+`SELinux:  Starting in permissive mode`
+ =================== 
+The template of the log message is: `There is already a {framework} initialized, {action}_security failed.`
+ =================== 
+`{action} registering capabilities with the kernel`
+ =================== 
+The template of the log message is `selinux_register_security:  Registering secondary module capability`.
+ =================== 
+The template of the log message is `Capability LSM initialized`.
+ =================== 
+`rpc.idmapd startup succeeded`
+ =================== 
+The template of the log message is `Dentry cache hash table entries: {entries} (order: {order}, {bytes} bytes)`.
+ =================== 
+The template of the log message is `Inode-cache hash table entries: {entries} (order: {order}, {bytes} bytes)`.
+ =================== 
+The template of the log message is `Mount-cache hash table entries: {entries} (order: {order}, {bytes} bytes)`.
+ =================== 
+`CPU: L1 I cache: {L1_I_cache}, L1 D cache: {L1_D_cache}`
+ =================== 
+`CPU: L2 cache: {size}`
+ =================== 
+The template of `Intel machine check architecture supported.` is `{vendor} machine check architecture supported.`
+ =================== 
+The template of `Intel machine check reporting enabled on CPU#0.` is `{description} machine check reporting enabled on {component}#{number}.`
+ =================== 
+`CPU: {brand} {model} (stepping {stepping})`
+ =================== 
+The template of `Enabling fast FPU save and restore... done.` is `Enabling fast FPU save and restore... done.`.
+ =================== 
+The template of `Enabling unmasked SIMD FPU exception support... done.` is `Enabling unmasked SIMD FPU exception support... {status}.`.
+ =================== 
+The template of the log message is `Checking '{instruction}' instruction... {status}.`
+ =================== 
+The template of the log message is `Initializing random number generator:  {status}`.
+ =================== 
+The template of `POSIX conformance testing by UNIFIX` is `{activity} testing by {organization}`.
+ =================== 
+`NET: Registered protocol family {family}`
+ =================== 
+`PCI: PCI BIOS revision {revision} entry at {address}, last bus={bus}`
+ =================== 
+`PCI: Using configuration type {config_type}`
+ =================== 
+The template of the log message is `mtrr: v{version} ({date})`.
+ =================== 
+The template of the log message is `ACPI: Subsystem revision {revision}`.
+ =================== 
+The template of `ACPI: Interpreter disabled.` is `{module}: {action}`.
+ =================== 
+`{os} Plug and Play Support v{version} (c) {author}`
+ =================== 
+`Starting pcmcia:  {status}`
+ =================== 
+`{module}: registered new driver {driver}`
+ =================== 
+`{module}: registered new driver {driver}`
+ =================== 
+The template of the log message is `ACPI: ACPI tables contain no PCI IRQ routing entries`.
+ =================== 
+The template of `PCI: Invalid ACPI-PCI IRQ routing table` is `{category}: {description}`.
+ =================== 
+The template of `PCI: Probing PCI hardware` is `{category}: Probing {subcategory} hardware`.
+ =================== 
+`PCI: Probing PCI hardware (bus {bus})`
+ =================== 
+`Transparent bridge - {location}`
+ =================== 
+The template of the log message is `PCI: Using IRQ router {router} [{vendor}/{device}] at {location}`.
+ =================== 
+The template of the log message is `apm: BIOS version {version} Flags {flags} (Driver version {driver_version})`.
+ =================== 
+The template of the log message is `audit: initializing netlink socket (disabled)`.
+ =================== 
+`kernel.core_uses_pid = {value}`
+ =================== 
+`HCI daemon ver {version} started`
+ =================== 
+The template of `hcid startup succeeded` is `{process} startup succeeded`.
+ =================== 
+`audit({timestamp}:{value}): initialized`
+ =================== 
+`Setting network parameters:  {status}`
+ =================== 
+The template of `sdpd startup succeeded` is `{service} startup succeeded`.
+ =================== 
+`{service} v{version} started`
+ =================== 
+`Total HugeTLB memory allocated, {memory_allocated}`
+ =================== 
+`Bringing up loopback interface:  {status}`
+ =================== 
+`VFS: Disk quotas {name}_{version}`
+ =================== 
+`Dquot-cache hash table entries: {entries} (order {order}, {bytes} bytes)`
+ =================== 
+The template of `SELinux:  Registering netfilter hooks` is `{module}:  Registering netfilter hooks`.
+ =================== 
+The template of `Initializing Cryptographic API` is `{action} Cryptographic API`.
+ =================== 
+`{module_name}: {action} {description} version: {version}`
+ =================== 
+`{module}: Scanning for PnP cards...`
+ =================== 
+`{module}: {message}`
+ =================== 
+`{module} v{version}`
+ =================== 
+The template of `Linux agpgart interface v0.100 (c) Dave Jones` is `Linux agpgart interface v{version} (c) {author}`.
+ =================== 

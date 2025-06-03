@@ -1,0 +1,288 @@
+,EventTemplate,Occurrences
+0,"10.11.10.1 ""GET /v2/{server_id}/servers/detail HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",322
+1,"
+{ip} ""{method} {path} {protocol}"" status: {status} len: {length} time: {response_time}
+",101
+2,"10.11.10.1 ""GET /v2/{id}/servers/detail HTTP/1.1"" status: {status} len: {length} time: {time}",123
+3,"{ip_address} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}""",4
+4,"10.11.10.1 ""GET /v2/{placeholder}/servers/detail HTTP/1.1"" status: {placeholder} len: {placeholder} time: {placeholder}",115
+5,[instance: {instance_id}] VM Started (Lifecycle Event),16
+6,[instance: {instance_id}] VM Paused (Lifecycle Event),19
+7,During sync_power_state the instance has a pending task ({task}). Skip.,40
+8,image {image_id} at ({file_path}): checking,82
+9,"image {image_id} at ({file_path}): in use: on this node {local_count} local, {other_count} on other nodes sharing this instance storage",80
+10,"
+Active base files: /var/lib/nova/instances/_base/{file_id}
+",15
+11,"{ip_address} ""{http_method} {endpoint} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}""",1
+12,Creating event network-vif-plugged:{vif_id} for instance {instance_id},20
+13,"{ip_address} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",26
+14,[instance: {instance_id}] VM Resumed (Lifecycle Event),37
+15,[instance: {instance_id}] Instance spawned successfully.,15
+16,"
+Log template: [instance: {instance_id}] Took {time} seconds to spawn the instance on the hypervisor.
+",1
+17,"
+[instance: {instance_id}] Took {time} seconds to build instance.
+",20
+18,Active base files: /var/lib/nova/instances/_base/{file_id},67
+19,"
+Auditing locally available compute resources for node {node_name}
+",9
+20,"Total usable vcpus: {total_usable_vcpus}, total allocated vcpus: {total_allocated_vcpus}",15
+21,"
+Final resource view: name={name} phys_ram={phys_ram} used_ram={used_ram} phys_disk={phys_disk} used_disk={used_disk} total_vcpus={total_vcpus} used_vcpus={used_vcpus} pci_stats={pci_stats}
+",15
+22,"
+Compute_service record updated for {server_name}
+",9
+23,"${ip_address},${server_ip} ""GET {url} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",22
+24,"${ip_address},${ip_address} ""GET {url} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",86
+25,"
+{client_ip},{server_ip} ""GET {request_url} HTTP/1.1"" status: {http_status} len: {response_length} time: {response_time}
+",4
+26,"10.11.10.1 ""DELETE /v2/{uuid}/servers/{server_id} HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",14
+27,"{client_ip},{server_ip} ""GET {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",3
+28,[instance: {instance_id}] Terminating instance,20
+29,[instance: {instance_id}] Instance destroyed successfully.,11
+30,"${ip_address},${ip_address} ""GET {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",2
+31,[instance: {instance_id}] Deleting instance files {file_path},6
+32,"
+Log template: [instance: {instance_id}] Deletion of {file_path}_del complete
+",1
+33,"
+[instance: {instance_id}] Took {time} seconds to destroy the instance on the hypervisor.
+",13
+34,"
+[instance: {instance_id}] Took {time} seconds to deallocate network for instance.
+",18
+35,"
+Unknown base file: /var/lib/nova/instances/_base/{file_id}
+",15
+36,Removable base files: /var/lib/nova/instances/_base/{file_id},10
+37,Removing base or swap file: /var/lib/nova/instances/_base/{file_id},21
+38,HTTP exception thrown: {error_message},21
+39,"{ip_address} ""{http_method} {endpoint} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",5
+40,"
+Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU
+",12
+41,"
+[instance: {instance_id}] Total memory: {total_memory} MB, used: {used_memory} MB
+",21
+42,"
+[instance: {instance_id}] memory limit: {memory_limit} MB, free: {memory_free} MB
+",17
+43,"
+[instance: {instance_id}] Total disk: {total_disk} GB, used: {used_disk} GB
+",18
+44,"
+[instance: {instance_id}] disk limit not specified, defaulting to unlimited
+",15
+45,"[instance: {instance_id}] Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",1
+46,"[instance: {instance_id}] vcpu limit not specified, defaulting to unlimited",10
+47,"
+[instance: {instance_id}] Claim successful
+",5
+48,"10.11.10.1 ""GET /v2/{id}/servers/{server_id} HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",2
+49,[instance: {instance_id}] Creating image,20
+50,[instance: {instance_id}] VM Stopped (Lifecycle Event),18
+51,"
+[instance: {instance_id}] VM Started (Lifecycle Event)
+",3
+52,"${ip} ""${http_method} ${url} HTTP/1.1"" status: ${status_code} len: ${response_length} time: ${response_time}",5
+53,"
+[instance: {instance_id}] Instance spawned successfully.
+",5
+54,"
+[instance: {instance_id}] Took {time} seconds to spawn the instance on the hypervisor.
+",16
+55,Successfully synced instances from host '{hostname}'.,2
+56,"${ip_address},${ip_address} ""GET {url} HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",21
+57,"${client_ip},${server_ip} ""GET {url} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",2
+58,"{client_ip},{server_ip} ""GET {request_url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",8
+59,"{client_ip},{server_ip} ""GET {url} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",5
+60,"
+[instance: {instance_id}] Terminating instance
+",2
+61,Running instance usage audit for host {hostname} from {start_time} to {end_time}. {num_instances} instances.,1
+62,"
+[instance: {instance_id}] Instance destroyed successfully.
+",8
+63,"
+[instance: {instance_id}] Deleting instance files {file_path}
+",11
+64,"
+[instance: {instance_id}] Deletion of /var/lib/nova/instances/{instance_id}_del complete
+",3
+65,"
+Unknown base file: /var/lib/nova/instances/_base/{base_file}
+",10
+66,"
+Removable base files: /var/lib/nova/instances/_base/{file_id}
+",20
+67,"10.11.10.1 ""POST /v2/{server_id}/servers HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",15
+68,"
+",24
+69,"[instance: {instance_id}] disk limit not specified, defaulting to unlimited",6
+70,"
+[instance: {instance_id}] Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU
+",20
+71,[instance: {instance_id}] Claim successful,15
+72,"10.11.10.1 ""GET /v2/{uuid}/servers/{uuid} HTTP/1.1"" status: {status} len: {length} time: {time}",2
+73,"10.11.10.1 ""POST /v2/{dynamic1}/os-server-external-events HTTP/1.1"" status: {dynamic2} len: {dynamic3} time: {dynamic4}",2
+74,"
+{client_ip},{server_ip} ""{http_method} {endpoint} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}
+",2
+75,"10.11.10.1 ""DELETE /v2/{uuid}/servers/{uuid} HTTP/1.1"" status: {status} len: {length} time: {time}",8
+76,"
+Base or swap file too young to remove: /var/lib/nova/instances/_base/{file_id}
+",9
+77,"
+[instance: {instance_id}] vcpu limit not specified, defaulting to unlimited
+",11
+78,"10.11.10.1 ""GET /v2/{id}/servers/{server_id} HTTP/1.1"" status: {status} len: {length} time: {time}",5
+79,Compute_service record updated for {server},3
+80,"
+Deletion of /var/lib/nova/instances/{instance}_del complete
+",12
+81,"
+[instance: {instance_id}] Took {time_taken} seconds to destroy the instance on the hypervisor.
+",4
+82,"10.11.10.1 ""GET /v2/{dynamic1}/servers/detail HTTP/1.1"" status: {dynamic2} len: {dynamic3} time: {dynamic4}",6
+83,"
+[instance: {instance_id}] Total disk: {total_disk}, used: {used_disk}
+",3
+84,"10.11.10.1 ""GET /v2/{uuid}/servers/{server_id} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",9
+85,"${ip} ""GET {url} HTTP/1.1"" status: {status} len: {length} time: {response_time}",4
+86,"
+[instance: {instance_id}] VM Paused (Lifecycle Event)
+",2
+87,"${ip} ""POST {url} HTTP/1.1"" status: {status} len: {length} time: {response_time}",1
+88,"
+{client_ip},{server_ip} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {response_length} time: {response_time}
+",1
+89,"{client_ip},{server_ip} ""GET {url} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}""",1
+90,"{client_ip},{server_ip} ""GET {request_url} HTTP/1.1"" status: {http_status} len: {response_length} time: {response_time}",2
+91,"${ip_address1},${ip_address2} ""GET {url} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",19
+92,"10.11.10.1 ""GET /v2/{dynamic1}/servers/{dynamic2} HTTP/1.1"" status: {dynamic3} len: {dynamic4} time: {dynamic5}",1
+93,"
+[instance: {instance_id}] Creating image
+",1
+94,"
+[instance: {instance_id}] VM Resumed (Lifecycle Event)
+",6
+95,"
+{ip} ""{http_method} {url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}
+",1
+96,"image {image_id} at ({file_path}): in use: on this node {local_count} local, {other_node_count} on other nodes sharing this instance storage",2
+97,Auditing locally available compute resources for node {node_name},6
+98,"
+Compute_service record updated for {server_name}:{server_name}
+",3
+99,"
+Log message: [instance: {instance_id}] Instance spawned successfully.
+",2
+100,"
+{client_ip},{server_ip} ""GET {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}
+",4
+101,"
+Took {time} seconds to destroy the instance on the hypervisor.
+",3
+102,"10.11.10.1 ""POST /v2/{placeholder}/os-server-external-events HTTP/1.1"" status: {placeholder} len: {placeholder} time: {placeholder}",9
+103,"
+Unknown base file: {file_path}
+",5
+104,"10.11.10.1 ""GET /v2/{uuid}/servers/detail?all_tenants=True&changes-since={timestamp} HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",1
+105,The instance sync for host '{hostname}' did not match. Re-created its InstanceList.,5
+106,"10.11.10.1 ""GET /v2/{id}/servers/detail HTTP/1.1"" status: {status} len: {length} time: {time}""",1
+107,"${ip} ""POST {endpoint} HTTP/1.1"" status: {status} len: {length} time: {response_time}",5
+108,"${ip_address},${ip_address} ""GET /latest/meta-data/block-device-mapping/ami HTTP/1.1"" status: ${status_code} len: ${length} time: ${response_time}",1
+109,"
+Log template: [instance: {instance_id}] Deletion of {file_path} complete
+",1
+110,"
+10.11.10.2 ""GET /v2/{id}/servers/detail?all_tenants={boolean}&changes-since={timestamp}&host={hostname} HTTP/1.1"" status: {int} len: {int} time: {float}
+",1
+111,"10.11.10.2 ""GET /v2/{dynamic1}/flavors/{dynamic2} HTTP/1.1"" status: {dynamic3} len: {dynamic4} time: {dynamic5}",1
+112,"
+[instance: {instanceId}] Claim successful
+",1
+113,"{ip_address} ""{http_method} {url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",2
+114,"${ip_address1},${ip_address2} ""GET {url} HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",3
+115,"
+{ip} ""{method} {path} HTTP/1.1"" status: {status} len: {length} time: {response_time}
+",2
+116,"
+Creating event network-vif-plugged:{vif_id} for instance {instance_id}
+",2
+117,"{client_ip},{server_ip} ""GET {url} HTTP/1.1"" status: {http_status} len: {response_length} time: {response_time}",1
+118,"{ip_address},{ip_address} ""GET {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+119,"{client_ip},{server_ip} ""{http_method} {endpoint} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+120,"
+[instance: {instance_id}] Deletion of {instance_path}/{instance_id}_del complete
+",1
+121,"
+Log template: [instance: {instance_id}] Took {time} seconds to deallocate network for instance.
+",1
+122,"
+[instance: {instance_id}] memory limit: {memory_limit} MB, free: {free_memory} MB
+",3
+123,"
+Took {time} seconds to spawn the instance on the hypervisor.
+",2
+124,"{client_ip},{server_ip} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {content_length} time: {response_time}",4
+125,"${ip_address},${ip_address} ""GET /latest/meta-data/reservation-id HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",3
+126,"{client_ip},{server_ip} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",2
+127,"
+{ip} ""{method} {url} {protocol}"" status: {status} len: {length} time: {response_time}
+",1
+128,"{ip_address},{ip_address} ""GET {url} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",1
+129,"
+Log message: [instance: {instance_id}] Instance destroyed successfully.
+",1
+130,"${ip_address},${ip_address} ""GET /latest/meta-data/block-device-mapping/ami HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",1
+131,"
+Log template: [instance: {instance_id}] Deletion of /var/lib/nova/instances/{instance_id}_del complete
+",1
+132,"10.11.10.1 ""POST /v2/{server_id}/servers HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",4
+133,"10.11.10.1 ""GET /v2/{uuid}/servers/{server_id} HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",2
+134,"
+[instance: {instance_id}] VM Stopped (Lifecycle Event)
+",1
+135,[instance: {instance_id}] Took {time} seconds to spawn the instance on the hypervisor.,1
+136,"${ip} ""${http_method} ${url} ${http_version}"" status: ${status_code} len: ${response_length} time: ${response_time}",1
+137,"10.11.10.1 ""POST /v2/{placeholder} HTTP/1.1"" status: {placeholder} len: {placeholder} time: {placeholder}",3
+138,"
+Deleting instance files /var/lib/nova/instances/{instance_id}_del
+",3
+139,"10.11.10.1 ""GET /v2/{server_id}/servers/detail HTTP/1.1"" status: {status_code} len: {length} time: {response_time}",2
+140,"While synchronizing instance power states, found {number_of_instances} instances in the database and {number_of_instances_on_hypervisor} instances on the hypervisor.",1
+141,"
+Took {time} seconds to build instance.
+",1
+142,"${ip_address},${server_ip} ""GET ${url} HTTP/1.1"" status: ${status_code} len: ${content_length} time: ${response_time}",3
+143,"
+Took {time} seconds to deallocate network for {instance}.
+",1
+144,"
+Log message: [instance: {instance_id}] VM Paused (Lifecycle Event)
+",1
+145,[instance: {instance_id}] Took {time} seconds to build instance.,1
+146,"
+{client_ip},{server_ip} ""GET {request_url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}
+",3
+147,"
+Log template: [instance: {instance_id}] Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU
+",1
+148,"
+Log template: [instance: {instance_id}] During sync_power_state the instance has a pending task ({task}). Skip.
+",2
+149,"
+Log template: [instance: {instance_id}] Took {time_taken} seconds to spawn the instance on the hypervisor.
+",1
+150,"
+{ip} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}
+",1
+151,"${ip_address},${ip_address} ""GET /latest/meta-data/block-device-mapping/ami HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",1
+152,"${client_ip},${server_ip} ""GET {request_url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+153,"${ip} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1

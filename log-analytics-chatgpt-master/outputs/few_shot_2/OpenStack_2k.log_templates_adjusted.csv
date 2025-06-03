@@ -1,0 +1,70 @@
+,EventTemplate,Occurrences
+0,"<*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",757
+1,"<*>,<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",90
+2,image <*> at (<*>): checking,82
+3,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+4,Active base files: <*>,82
+5,"<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",77
+6,[instance: <*>] VM Resumed (Lifecycle Event),42
+7,[instance: <*>] During sync_power_state the instance has a pending task (<*>). Skip.,36
+8,Unknown base file: <*>,30
+9,Removable base files: <*>,30
+10,"<*> ""<*>"" status: <*> len: <*> time: <*>",25
+11,"<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",23
+12,[instance: <*>] VM Paused (Lifecycle Event),22
+13,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.,22
+14,[instance: <*>] Took <*> seconds to build instance.,22
+15,[instance: <*>] VM Started (Lifecycle Event),21
+16,[instance: <*>] Instance destroyed successfully.,21
+17,[instance: <*>] Deleting instance files <*>,21
+18,[instance: <*>] Deletion of <*> complete,21
+19,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.,21
+20,[instance: <*>] Took <*> seconds to deallocate network for instance.,21
+21,Removing base or swap file: <*>,21
+22,HTTP exception thrown: <*>,21
+23,"[instance: <*>] Total memory: <*> MB, used: <*> MB",21
+24,"[instance: <*>] memory limit: <*> MB, free: <*> MB",21
+25,"[instance: <*>] Total disk: <*> GB, used: <*> GB",21
+26,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU",21
+27,"[instance: <*>] vcpu limit not specified, defaulting to unlimited",21
+28,[instance: <*>] Creating image,21
+29,[instance: <*>] Instance spawned successfully.,20
+30,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",20
+31,"[instance: <*>] disk limit not specified, defaulting to unlimited",20
+32,[instance: <*>] VM Stopped (Lifecycle Event),20
+33,"<*> ""<*> <*>/v2/<*>/servers/<*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",19
+34,[instance: <*>] Terminating instance,18
+35,[instance: <*>] Claim successful,18
+36,Auditing locally available compute resources for node <*>,15
+37,"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+38,Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=<*>,15
+39,Compute_service record updated for <*>,15
+40,"<*>, <*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>""",12
+41,Creating event <*> for instance <*>,10
+42,Base or swap file too young to remove: <*>,9
+43,Creating event <*>: <*> for instance <*>,7
+44,"<*> ""<*> <*>/v2/<*>/servers/<*> <*>"" status: <*> len: <*> time: <*>",6
+45,[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.,6
+46,The instance sync for host '<*>' did not match. Re-created its InstanceList.,5
+47,Creating event network-vif-plugged:<*> for instance <*>,4
+48,[<*>: <*> instance] <*>,3
+49,<*> Claim successful,3
+50,Successfully synced instances from host '<*>'.,2
+51,"<*> ""<*> <*>/<*>/servers/<*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",2
+52,<*> VM Resumed (Lifecycle Event),2
+53,<*> Instance spawned successfully.,2
+54,"<*>, <*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",2
+55,Creating event <*>: <*>,1
+56,Running instance usage audit for host <*> from <*> to <*>. <*> instances.,1
+57,<*> VM Started (Lifecycle Event),1
+58,[<*>: Terminating instance],1
+59,"Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1
+60,"<*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>""",1
+61,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+62,"<*> ""<*> <*>/servers/<*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",1
+63,"<*> ""<*> <*>/<*>/servers/<*> <*>"" status: <*> len: <*> time: <*>",1
+64,instance: <*> During sync_power_state the instance has a pending task (<*>). Skip.,1
+65,<*> Instance destroyed successfully.,1
+66,"[instance: <*>] disk limit not specified, defaulting to <*>",1
+67,<*> VM Stopped (Lifecycle Event),1
+68,"<*> ""DELETE <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",1

@@ -1,0 +1,4000 @@
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+check pass; user unknown
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+`check {status}; user {user}`
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+User {username} timed out after {timeout} seconds at {timestamp}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+{service} shutdown {status}
+ =================== 
+cupsd startup succeeded
+ =================== 
+restart.
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+`connection from <IP> () at <Date>`
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+Received SNMP packet(s) from {IP}
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+ =================== 
+check pass; user {user_status}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+`check {status}; user {user}`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+{service} shutdown {status}
+ =================== 
+cupsd startup succeeded
+ =================== 
+restart.
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {} by (uid={})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user {user_status}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+Authentication failed from <IP Address>: Permission denied in replay cache code
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from {IP_address}: Permission denied in replay cache code
+ =================== 
+{Message} authentication failed
+ =================== 
+Authentication failed from {IP}: Permission denied in replay cache code
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from {IP_address}: Permission denied in replay cache code
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from <IP Address>: Permission denied in replay cache code
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from {IP}: Permission denied in replay cache code
+ =================== 
+{Message} authentication failed
+ =================== 
+Authentication failed from <IP Address>: Permission denied in replay cache code
+ =================== 
+Authentication failed from <IP Address>: Permission denied in replay cache code
+ =================== 
+Authentication failed from {source_ip}: {error_message}
+ =================== 
+Kerberos authentication failed
+ =================== 
+{Message} authentication failed
+ =================== 
+{Message} authentication failed
+ =================== 
+Authentication failed from {IP_address}: {Reason}
+ =================== 
+{Message} authentication failed
+ =================== 
+Authentication failed from {sourceIP}: {errorMessage}
+ =================== 
+{Message} authentication failed
+ =================== 
+Authentication failed from {sourceIP} ({sourceIP}): {reason}
+ =================== 
+{Message} authentication failed
+ =================== 
+Authentication failed from {sourceIP} ({sourceIP}): {reason}
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from {source_ip}: {error_message}
+ =================== 
+{Message} authentication failed
+ =================== 
+Authentication failed from {sourceIP}: {errorMessage}
+ =================== 
+{Message} authentication failed
+ =================== 
+Authentication failed from {sourceIP}: {errorMessage}
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from {sourceIP}: {errorMessage}
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from {sourceIP}: {errorMessage}
+ =================== 
+Authentication failed from {sourceIP}: {errorMessage}
+ =================== 
+Authentication failed from {sourceIP} ({sourceIP}): {reason}
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from {sourceIP}: {errorMessage}
+ =================== 
+Kerberos authentication failed
+ =================== 
+Authentication failed from {source_ip} ({source_ip}): {reason}
+ =================== 
+Authentication failed from {sourceIP} ({sourceIP}): {reason}
+ =================== 
+{Message} authentication failed
+ =================== 
+Kerberos authentication failed
+ =================== 
+Kerberos authentication failed
+ =================== 
+{Message} authentication failed
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {} by (uid={})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+{service} shutdown {status}
+ =================== 
+cupsd startup succeeded
+ =================== 
+restart.
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+*** info [mice.c(1766)]:
+ =================== 
+imps2: Auto-detected intellimouse PS/2
+ =================== 
+session opened for user {username} by LOGIN(uid={uid})
+ =================== 
+`{USER} LOGIN ON {TTY}`
+ =================== 
+session closed for user {username}
+ =================== 
+removing device node '{device}'
+ =================== 
+removing device node '{device_node}'
+ =================== 
+creating device node '{device_node}'
+ =================== 
+creating device node '{device}'
+ =================== 
+removing device node '{device_node}'
+ =================== 
+removing device node '{device}'
+ =================== 
+creating device node '{device}'
+ =================== 
+creating device node '{device}'
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+check pass; user {user_status}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=
+ =================== 
+connection from <IP> () at <Date>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {} by (uid={})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+connection from [source_ip] ([source_host]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [source_ip] ([source_host]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHostname]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHostname]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+{service} shutdown {status}
+ =================== 
+cupsd startup succeeded
+ =================== 
+restart.
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+Couldn't authenticate user
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {} by (uid={})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip} () at {date}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {} by (uid={})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+{service} shutdown {status}
+ =================== 
+cupsd startup succeeded
+ =================== 
+restart.
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-220-159-99.hinet-ip.hinet.net  user=root
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from {IP} ({host}) at {timestamp}
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+`connection from <IP> (<host>) at <timestamp>`
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from [sourceIP] ([sourceHost]) at [timestamp]
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+connection from {sourceIP} ({sourceHost}) at {timestamp}
+ =================== 
+connection from {sourceIP} ({sourceHost}) at {timestamp}
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from [IP] ([hostname]) at [timestamp]
+ =================== 
+connection from {IP} ({host}) at {timestamp}
+ =================== 
+`connection from <source_ip> (<source_host>) at <timestamp>`
+ =================== 
+connection from {IP} ({host}) at {timestamp}
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_host>) at <timestamp>
+ =================== 
+`connection from <IP_ADDRESS> (<HOSTNAME>) at <DATE_TIME>`
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+`connection from <IP> (<hostname>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+`connection from <IP> (<hostname>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from {sourceIP} at {timestamp}
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_hostname>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_hostname>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_hostname>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_hostname>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+`connection from <source_ip> (<source_hostname>) at <timestamp>`
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> (<source_hostname>) at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+ =================== 
+check pass; user {user_status}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user unknown
+ =================== 
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+`{action} pass; user {user_status}`
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+check pass; user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {} by (uid={})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from {IP} () at {Date}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {ip_address} () at {timestamp}
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+ANONYMOUS FTP LOGIN FROM <IP_ADDRESS>,  (<USERNAME>)
+ =================== 
+ANONYMOUS FTP LOGIN FROM <IP_ADDRESS>,  (<USERNAME>)
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+`{service} shutdown {result}`
+ =================== 
+cupsd startup succeeded
+ =================== 
+restart.
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+`connection from <source_ip> () at <timestamp>`
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {section} contains no SOA
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {section} contains no SOA
+ =================== 
+notify {section} contains no SOA
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+notify {section} contains no SOA
+ =================== 
+notify {section} contains no SOA
+ =================== 
+notify {section} contains no SOA
+ =================== 
+notify {action} section contains no {type}
+ =================== 
+getpeername (ftpd): Transport endpoint is not connected
+ =================== 
+getpeername (ftpd): Transport endpoint is not connected
+ =================== 
+warning: can't get client address: Connection reset by peer
+ =================== 
+getpeername (ftpd): Transport endpoint is not connected
+ =================== 
+warning: can't get client address: Connection reset by peer
+ =================== 
+getpeername (ftpd): Transport endpoint is not connected
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+connection from {source_ip} () at {timestamp}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from <source_ip> () at <timestamp>
+ =================== 
+connection from {IP} () at {timestamp}
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+authentication failure; logname= uid= euid= tty= ruser= rhost= user=
+ =================== 
+session opened for user {username} by (uid={uid})
+ =================== 
+session closed for user {username}
+ =================== 
+ALERT exited abnormally with [1]
+ =================== 
+session opened for user {user} by (uid={uid})
+ =================== 
+session closed for user {user}
+ =================== 
+connection from {ip} () at {timestamp}
+ =================== 
+restart.
+ =================== 
+`{service} startup {status}`
+ =================== 
+klogd {version}, log source = {source} started.
+ =================== 
+Linux version {version} ({compiler}) (gcc version {gcc_version}) #{build_number} {timestamp}
+ =================== 
+`BIOS-provided physical RAM map:`
+ =================== 
+BIOS-e820: start_address - end_address (type)
+ =================== 
+`BIOS-e820: {start_address} - {end_address} ({type})`
+ =================== 
+BIOS-e820: start_address - end_address (type)
+ =================== 
+BIOS-e820: {start_address} - {end_address} ({type})
+ =================== 
+BIOS-e820: {start_address} - {end_address} ({type})
+ =================== 
+"{size} HIGHMEM available."
+ =================== 
+{MEMORY_SIZE} LOWMEM available.
+ =================== 
+zapping {level} mappings.
+ =================== 
+{klogd} {startup} {succeeded}
+ =================== 
+On node {node_number} totalpages: {total_pages}
+ =================== 
+DMA zone: <number> pages, LIFO batch:<number>
+ =================== 
+Normal zone: {pages} pages, LIFO batch:{batch}
+ =================== 
+{service} startup succeeded
+ =================== 
+HighMem zone: %d pages, LIFO batch:%d
+ =================== 
+DMI {version} present.
+ =================== 
+ACPI disabled because your bios is from {year} and too old
+ =================== 
+You can enable it with acpi=force
+ =================== 
+Built {number} zonelists
+ =================== 
+Kernel command line: ro root=LABEL=/ rhgb quiet
+ =================== 
+`mapped {} trampoline to {}.`
+ =================== 
+`Initializing CPU#{CPU_number}`
+ =================== 
+CPU {cpu_number} irqstacks, hard={hard_address} soft={soft_address}
+ =================== 
+{service} {action} {result}
+ =================== 
+PID hash table entries: %d (order %d: %d bytes)
+ =================== 
+Detected {processor_speed} MHz processor.
+ =================== 
+Version {version} Starting
+ =================== 
+Using tsc for {timesource}
+ =================== 
+rpc.statd startup {status}
+ =================== 
+Console: colour VGA+ 80x25
+ =================== 
+Memory: {total_memory}k/{available_memory}k available ({kernel_code}k kernel code, {reserved_memory}k reserved, {data_memory}k data, {init_memory}k init, {highmem_memory}k highmem)
+ =================== 
+Calibrating delay loop... [BogoMIPS]
+ =================== 
+Security Scaffold v{version} initialized
+ =================== 
+SELinux: Initializing.
+ =================== 
+SELinux:  Starting in permissive mode
+ =================== 
+There is already a {1} initialized, {2} failed.
+ =================== 
+Failure registering capabilities with the kernel
+ =================== 
+selinux_register_security:  Registering secondary module capability
+ =================== 
+`Capability {capability} initialized`
+ =================== 
+rpc.idmapd startup {status}
+ =================== 
+Dentry cache hash table entries: %d (order: %d, %d bytes)
+ =================== 
+Inode-cache hash table entries: %d (order: %d, %d bytes)
+ =================== 
+Mount-cache hash table entries: %d (order: %d, %d bytes)
+ =================== 
+CPU: L1 I cache: {}, L1 D cache: {}
+ =================== 
+CPU: L2 cache: {L2_cache}K
+ =================== 
+{Message} machine check architecture supported.
+ =================== 
+{Component} machine check reporting enabled on CPU#{CPU_number}.
+ =================== 
+CPU: {CPU_model} stepping {stepping}
+ =================== 
+Enabling fast FPU save and restore... done.
+ =================== 
+Enabling unmasked SIMD FPU exception support... done.
+ =================== 
+Checking '{instruction}' instruction... {status}.
+ =================== 
+Initializing random number generator: {status}
+ =================== 
+POSIX conformance testing by UNIFIX
+ =================== 
+NET: Registered protocol family {protocol_family}
+ =================== 
+PCI: PCI BIOS revision {revision} entry at {entry_address}, last bus={last_bus}
+ =================== 
+PCI: Using configuration type {config_type}
+ =================== 
+mtrr: v2.0 (20020519)
+ =================== 
+ACPI: Subsystem revision {revision}
+ =================== 
+ACPI: Interpreter disabled.
+ =================== 
+Linux Plug and Play Support v0.97 (c) Adam Belay
+ =================== 
+Starting pcmcia:  {status}
+ =================== 
+usbcore: registered new driver usbfs
+ =================== 
+usbcore: registered new driver hub
+ =================== 
+ACPI: ACPI tables contain no PCI IRQ routing entries
+ =================== 
+PCI: Invalid ACPI-PCI IRQ routing table
+ =================== 
+PCI: Probing PCI hardware
+ =================== 
+PCI: Probing PCI hardware (bus {bus_number})
+ =================== 
+Transparent bridge - [device]
+ =================== 
+PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0
+ =================== 
+apm: BIOS version {version} Flags {flags} (Driver version {driver_version})
+ =================== 
+audit: initializing netlink socket (disabled)
+ =================== 
+kernel.core_uses_pid = 1
+ =================== 
+HCI daemon ver {version} started
+ =================== 
+{service} startup {status}
+ =================== 
+audit(timestamp:sequence_number): message_text
+ =================== 
+Setting network parameters: {status}
+ =================== 
+{service} startup {status}
+ =================== 
+{service} v{version} {status}
+ =================== 
+Total HugeTLB memory allocated, {}
+ =================== 
+Bringing up loopback interface:  {status}
+ =================== 
+VFS: Disk quotas {dquot_version}
+ =================== 
+Dquot-cache hash table entries: <entries> (order <order>, <bytes> bytes)
+ =================== 
+SELinux:  Registering netfilter hooks
+ =================== 
+`{Message}`
+ =================== 
+pci_hotplug: PCI Hot Plug PCI Core version: {version}
+ =================== 
+isapnp: Scanning for PnP cards...
+ =================== 
+isapnp: No Plug & Play device found
+ =================== 
+Real Time Clock Driver v{version}
+ =================== 
+Linux agpgart interface v0.100 (c) Dave Jones
+ =================== 

@@ -1,0 +1,14 @@
+,EventTemplate,Occurrences
+0,<*>() Found child <*> in scoreboard slot <*>,541
+1,mod_jk <*> workerEnv in error state <*>,537
+2,function_name() Found child <*> in scoreboard slot <*>,295
+3,workerEnv.init() ok <*>,268
+4,<*>() <*> <*>,153
+5,<*>() ok <*>,96
+6,workerEnv.init() <*> <*>,52
+7,[client <*>] Directory index forbidden by rule: <*>,32
+8,mod_jk child init <*> <*>,12
+9,<*>() Can't find child <*> in <*>,9
+10,<*>() Can't find child <*> in scoreboard,3
+11,mod_jk <*> child workerEnv in error state <*>,1
+12,mod_jk <*> workerEnv in <*> state <*>,1

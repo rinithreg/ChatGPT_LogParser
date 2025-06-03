@@ -1,0 +1,51 @@
+,EventTemplate,Occurrences
+0,<*>,519
+1,<*> open through proxy <*> <*>,427
+2,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",259
+3,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",231
+4,"<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",118
+5,"<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",90
+6,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec}",64
+7,<*> error : <*>,33
+8,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec>",30
+9,"<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec",26
+10,"<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec>",23
+11,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,17
+12,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*> sec>",16
+13,"<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*> sec>",14
+14,"<*> error : <*> - Proxy server cannot establish a connection with the target, status code <*>",12
+15,<*> error : Could not connect to proxy <*> - Could not resolve proxy <*> error <*>,11
+16,"<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec",10
+17,<*> open through proxy <*> HTTPS,10
+18,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>",9
+19,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec",8
+20,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,8
+21,"<*> <*>, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",7
+22,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <1 sec",6
+23,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",5
+24,<*> client-channel.google.com:<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,5
+25,"<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*>",4
+26,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*> sec",3
+27,"<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec>",3
+28,-lb.dropbox.com:<*> open through proxy <*> <*>,3
+29,"-channel.<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",3
+30,"<*> close, <*> bytes sent, <*> bytes (<*>) received, lifetime <*>",3
+31,"<*> <*>, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",3
+32,"<*> <*>, <*> bytes sent, <*> bytes (<*>) received, lifetime <*>",2
+33,<*>---<*> open through proxy <*> <*>,2
+34,"<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec}",1
+35,<*> error : <*> - Proxy closed the connection unexpectedly.,1
+36,<*> client-channel.google.com:<*> open through proxy <*> <*>,1
+37,-cf.dropbox.com:<*> open through proxy <*> <*>,1
+38,<*>-<*> open through proxy <*> <*>,1
+39,"-channel.<*> close, <*> bytes sent, <*> bytes (<*>) received, lifetime <*> sec>",1
+40,"-channel.<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+41,"<*> <*>, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",1
+42,<*>: <*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+43,"<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*> sec}",1
+44,"<*>-<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*> sec}",1
+45,<*> <*> open through proxy <*> <*>,1
+46,":<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+47,"close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+48,<*> client-<*>.google.com:<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,1
+49,<*> client-<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,1

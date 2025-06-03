@@ -1,0 +1,127 @@
+,EventTemplate,Occurrences
+0,authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost},75
+1,{action} pass; user {status},44
+2,authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost},43
+3,authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user},233
+4,authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user},120
+5,authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user},19
+6,session opened for user {username} by (uid={uid}),122
+7,session closed for user {username},123
+8,ALERT exited abnormally with [{errorCode}],43
+9,check pass; user {status},73
+10,connection from {ip_address} ({hostname}) at {timestamp},199
+11,User {username} timed out after {timeout} seconds at {timestamp},1
+12,{service} shutdown {result},6
+13,{service},7
+14,{action}.,7
+15,connection from {ip_address} () at {timestamp},453
+16,Received SNMP packet(s) from {source_ip},1
+17,connection from {ip_address} () at {date_time},51
+18,connection from {ip_address} ({}) at {timestamp},19
+19,connection from {sourceIP} ({username}) at {timestamp},4
+20,connection from {sourceIP} () at {timestamp},10
+21,connection from {ip_address} ({username}) at {timestamp},25
+22,connection from {source_ip} ({username}) at {timestamp},28
+23,connection from {source_ip} () at {timestamp},23
+24,Authentication failed from {sourceIP} ({sourceIP}): {reason} in replay cache code,7
+25,{AuthenticationType},22
+26,Authentication failed from {sourceIP} ({sourceIP}): {reason},14
+27,Authentication failed from {sourceIP} ({sourceIP}): {errorMessage},2
+28,{AuthenticationMethod},1
+29,connection from {ip_address} ({host_name}) at {timestamp},91
+30,connection from {ip_address} () at {day_of_week} {month} {day} {hour}:{minute}:{second} {year},1
+31,*** info [{file}(1766)]:,1
+32,: Auto-detected {device} {interface},1
+33,session opened for user {username} by LOGIN(uid={uid}),1
+34,{username} LOGIN ON {terminal},1
+35,removing device node '{device_node}',4
+36,creating device node '{device_node}',4
+37,connection from {ip_address} ({host}) at {timestamp},3
+38,{Error},1
+39,connection from {ip_address} ({}) at {date_time},2
+40,"ANONYMOUS FTP LOGIN FROM {ip_address},  ({username})",2
+41,notify {entity} section contains no {record_type},16
+42,{function} ({service}): {error_message},2
+43,{action} (ftpd): {error_message},2
+44,warning: can't get {client} address: {error},2
+45,{program} startup {status},1
+46,"klogd {version}, log source = {source} started.",1
+47,Linux version {kernel_version} ({compiler_info}) (gcc version {gcc_version} {gcc_date} ({gcc_os_version})) #{build_number} {build_date},1
+48,{log_message},1
+49,BIOS-e820: {start_address} - {end_address} ({status}),2
+50,BIOS-e820: {start_address} - {end_address} ({type}),3
+51,{memory},2
+52,{action} low {object}.,1
+53,{process},1
+54,On node {node} totalpages: {totalpages},1
+55,"DMA zone: {pages} pages, LIFO batch:{batch}",1
+56,"{ZoneType} zone: {Pages} pages, LIFO batch:{Batch}",1
+57,{process_name} startup succeeded,1
+58,"{zone} zone: {pages} pages, LIFO batch:{batch}",1
+59,DMI {version} present.,1
+60,{reason} disabled because your bios is from {year} and too old,1
+61,You can enable it with {option},1
+62,Built {number} zonelists,1
+63,Kernel command line: ro root={ROOT_LABEL} rhgb quiet,1
+64,mapped {size}/{size} trampoline to {address}.,1
+65,Initializing CPU#{cpu_number},1
+66,"CPU {cpu_number} irqstacks, hard={hard_address} soft={soft_address}",1
+67,PID hash table entries: {entries} (order {order}: {bytes} bytes),1
+68,Detected {frequency} MHz processor.,1
+69,Version {version} Starting,1
+70,Using {tool} for {purpose},1
+71,rpc.statd {action} {result},1
+72,Console: colour {color} {interface} {resolution},1
+73,"Memory: {total_memory}k/{available_memory}k available ({kernel_code}k kernel code, {reserved_memory}k reserved, {data_memory}k data, {init_memory}k init, {highmem_memory}k highmem)",1
+74,Calibrating delay loop... {delay} BogoMIPS,1
+75,{Component} v{Version} initialized,1
+76,SELinux: {action}.,1
+77,SELinux:  Starting in {mode} mode,1
+78,"There is already a {security_framework} initialized, {action} failed.",1
+79,{Action},2
+80,{function_name}:  Registering {module_type} module capability,1
+81,{Capability} LSM initialized,1
+82,rpc.{service} startup {status},1
+83,"Dentry cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+84,"Inode-cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+85,"Mount-cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+86,"CPU: L1 I cache: {L1_I_cache}, L1 D cache: {L1_D_cache}",1
+87,CPU: L2 cache: {size},1
+88,{Vendor} machine check architecture supported.,1
+89,{Vendor},1
+90,CPU: {Brand} {Model} (Coppermine) stepping {Stepping},1
+91,Enabling {feature} save and restore... {status}.,1
+92,Enabling {feature} SIMD FPU exception support... {status}.,1
+93,Checking '{instruction}' instruction... {status}.,1
+94,Initializing random number generator: {status},1
+95,{TestingType} conformance testing by {Organization},1
+96,NET: Registered protocol family {protocol_family},1
+97,"PCI: PCI BIOS revision {revision} entry at {address}, last bus={bus}",1
+98,PCI: Using configuration type {config_type},1
+99,mtrr: v{version} ({date}),1
+100,ACPI: Subsystem revision {revision},1
+101,ACPI: {Interpreter} disabled.,1
+102,{OS},2
+103,Starting {service}:  {status},1
+104,: registered new driver {driver},2
+105,{subsystem},3
+106,PCI: {error_type} ACPI-PCI IRQ routing table,1
+107,PCI: Probing {hardware},1
+108,PCI: Probing PCI hardware (bus {bus_number}),1
+109,Transparent bridge - {device},1
+110,PCI: Using IRQ router {router} [{vendor}/{device}] at {location},1
+111,apm: BIOS version {version} Flags {flags} (Driver version {driver_version}),1
+112,audit: initializing {service} socket ({status}),1
+113,kernel.core_uses_pid = {value},1
+114,HCI daemon ver {version} started,1
+115,{service_name} startup {status},2
+116,audit({timestamp}:{value}): {action},1
+117,Setting network parameters: {status},1
+118,{service_name} v{version} {status},1
+119,"Total HugeTLB memory allocated, {memory}",1
+120,Bringing up {interface}: {status},1
+121,VFS: Disk quotas {dquot_version},1
+122,"Dquot-cache hash table entries: {entries} (order {order}, {bytes} bytes)",1
+123,SELinux:  Registering {module} hooks,1
+124,pci_hotplug: PCI Hot Plug {component} Core version: {version},1
+125,Real Time Clock Driver v{version},1

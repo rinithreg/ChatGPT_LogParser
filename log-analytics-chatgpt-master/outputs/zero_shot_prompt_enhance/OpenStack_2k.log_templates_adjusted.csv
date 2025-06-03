@@ -1,0 +1,79 @@
+,EventTemplate,Occurrences
+0,"<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",590
+1,"$<*>,$<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",161
+2,"<*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",105
+3,image <*> at (<*>): checking,82
+4,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+5,Active base files: <*>,82
+6,[instance: <*>] VM Resumed (Lifecycle Event),43
+7,During sync_power_state the instance has a pending task (<*>). Skip.,40
+8,"<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",34
+9,"<*> ""POST <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",33
+10,"<*>,<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",32
+11,Unknown base file: <*>,30
+12,Removable base files: <*>,30
+13,,24
+14,Creating event network-vif-plugged:<*> for instance <*>,22
+15,"<*> ""DELETE <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",22
+16,[instance: <*>] Terminating instance,22
+17,[instance: <*>] VM Paused (Lifecycle Event),21
+18,[instance: <*>] Took <*> seconds to build instance.,21
+19,Removing base or swap file: <*>,21
+20,HTTP exception thrown: <*>,21
+21,"[instance: <*>] Total memory: <*> MB, used: <*> MB",21
+22,"[instance: <*>] disk limit not specified, defaulting to unlimited",21
+23,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU",21
+24,"[instance: <*>] vcpu limit not specified, defaulting to unlimited",21
+25,[instance: <*>] Claim successful,21
+26,[instance: <*>] Creating image,21
+27,[instance: <*>] Instance spawned successfully.,20
+28,"[instance: <*>] memory limit: <*> MB, free: <*> MB",20
+29,[instance: <*>] VM Started (Lifecycle Event),19
+30,[instance: <*>] Instance destroyed successfully.,19
+31,[instance: <*>] VM Stopped (Lifecycle Event),19
+32,[instance: <*>] Took <*> seconds to deallocate network for instance.,18
+33,"[instance: <*>] Total disk: <*> GB, used: <*> GB",18
+34,[instance: <*>] Deleting instance files <*>,17
+35,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.,17
+36,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.,17
+37,Auditing locally available compute resources for node <*>,15
+38,"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+39,Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=<*>,15
+40,Compute_service record updated for <*>,15
+41,"Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",12
+42,Deletion of <*> complete,12
+43,Base or swap file too young to remove: <*>,9
+44,"<*>,<*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",7
+45,"$<*> ""POST <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",6
+46,"<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>""",5
+47,"$<*> ""$<*> $<*> HTTP/1.<*>"" status: $<*> len: $<*> time: $<*>",5
+48,The instance sync for host '<*>' did not match. Re-created its InstanceList.,5
+49,"$<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",4
+50,Log template: [instance: <*>] Deletion of <*> complete,3
+51,[instance: <*>] Deletion of <*> complete,3
+52,"<*>,<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",3
+53,"[instance: <*>] Total disk: <*>, used: <*>",3
+54,Took <*> seconds to destroy the instance on the hypervisor.,3
+55,Deleting instance files <*>,3
+56,"$<*>,$<*> ""GET $<*> HTTP/1.<*>"" status: $<*> len: $<*> time: $<*>",3
+57,Log template: [instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.,2
+58,Successfully synced instances from host '<*>'.,2
+59,Log message: [instance: <*>] Instance spawned successfully.,2
+60,Took <*> seconds to spawn the instance on the hypervisor.,2
+61,Log template: [instance: <*>] During sync_power_state the instance has a pending task (<*>). Skip.,2
+62,Running instance usage audit for host <*> from <*> to <*>. <*> instances.,1
+63,"<*>,<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>""",1
+64,"<*> ""GET <*>=<*>&changes-since=<*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",1
+65,"<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>""",1
+66,"$<*>,$<*> ""GET <*> HTTP/1.<*>"" status: $<*> len: $<*> time: $<*>",1
+67,"<*> ""GET <*>=<*>&changes-since=<*>&host=<*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",1
+68,[instance: <*>] Deletion of <*>/<*>_del complete,1
+69,Log template: [instance: <*>] Took <*> seconds to deallocate network for instance.,1
+70,Log message: [instance: <*>] Instance destroyed successfully.,1
+71,"$<*> ""$<*> $<*> $<*>"" status: $<*> len: $<*> time: $<*>",1
+72,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+73,Took <*> seconds to build instance.,1
+74,Took <*> seconds to deallocate network for <*>.,1
+75,Log message: [instance: <*>] VM Paused (Lifecycle Event),1
+76,"Log template: [instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1
+77,"$<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",1

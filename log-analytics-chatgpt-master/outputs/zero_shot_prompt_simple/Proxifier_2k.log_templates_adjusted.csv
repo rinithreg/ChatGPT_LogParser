@@ -1,0 +1,68 @@
+,EventTemplate,Occurrences
+0,<*> open through proxy <*> <*>,482
+1,<*>: <*> through proxy <*> <*>,245
+2,<*>: <*> through proxy <*>: <*>,211
+3,"<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*>",148
+4,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",136
+5,"<*> <*>, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",98
+6,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",86
+7,"<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*> sec}",75
+8,"<*> <*>, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",66
+9,"<*> <*>, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",53
+10,"<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",49
+11,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec}",35
+12,"<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>",33
+13,"<*> <*>, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec}",24
+14,<*> error : <*>,20
+15,"<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec}",17
+16,"<*> <*>, <*> bytes sent, <*> bytes (<*>) received, lifetime <*>",15
+17,"<*> close, <*> sent, <*> received, lifetime <*>",15
+18,<*> <*> : <*> - connection attempt failed with error <*>,15
+19,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*> sec}",14
+20,<*> <*> : <*> - <*>,14
+21,"<*> <*>, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*> sec}",11
+22,"<*> <*>, <*> sent, <*> received, lifetime <*>",10
+23,<*> <*> <*> : <*>,9
+24,<*> <*> : <*>,7
+25,"<*> close, <*> sent, <*> sent, <*> received, <*> received, lifetime <*>",7
+26,<*> <*> : <*> - <*> error <*>,7
+27,<*> <*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,7
+28,"<*> <*>, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec}",6
+29,"<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec>",6
+30,"<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec}",6
+31,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>",6
+32,<*> open through proxy <*> HTTPS,6
+33,"<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*> sec",6
+34,"<*> <*>, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec>",4
+35,<*>: <*> open through proxy <*> <*>,4
+36,"<*> error : <*> - Proxy server cannot establish a connection with the target, status code <*>",4
+37,<*>: <*> open through proxy <*>: <*> <*>,3
+38,"<*> <*>, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>",3
+39,<*> error : <*> - <*> error <*>,3
+40,"<*> <*>, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec",2
+41,"<*> <*> <*> (<*> KB) sent, <*> (<*> KB) received, lifetime <*>",2
+42,"<*>-<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*> sec",2
+43,"<*> <*> <*> sent, <*> received, lifetime <*>",2
+44,"<*> close, <*> bytes (<*> KB) sent, <*> received, lifetime <*>",2
+45,<*> error : <*> - Could not resolve proxy <*> error <*>,2
+46,<*> error : <*> - connection attempt failed with error <*>,2
+47,<*> error : <*> - Proxy closed the connection unexpectedly.,1
+48,"<*> <*>, <*> bytes sent, <*> bytes received, lifetime <*> sec>",1
+49,"<*>: <*> <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+50,proxy.cse.cuhk.edu.hk:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,1
+51,<*> <*> through proxy <*> <*>,1
+52,<*>.com:<*> open through proxy <*> <*>,1
+53,"<*> <*> <*>, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+54,api.<*> open through proxy <*> <*>,1
+55,"<*> <*>, <*> sent (<*> KB), <*> received (<*> KB), lifetime <*>",1
+56,c.trello.com:<*> open through proxy <*> HTTPS,1
+57,"c.trello.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+58,"c.trello.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>",1
+59,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+60,<*> error : <*> - Could not resolve <*> error <*>,1
+61,<*> error : Could not connect to proxy <*> - Could not resolve proxy <*> error <*>,1
+62,wpad:<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1
+63,"c.trello.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>",1
+64,"<*> <*> : <*> - Proxy server cannot establish a connection with the target, status code <*>",1
+65,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec>",1
+66,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,1

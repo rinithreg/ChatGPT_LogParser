@@ -1,0 +1,121 @@
+,EventTemplate,Occurrences
+0,connection from <*> () at <*>,580
+1,authentication failure; logname= <*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*> user=<*>,356
+2,connection from <*> (<*>) at <*>,329
+3,session closed for user <*>,123
+4,session opened for user <*> by (uid=<*>),122
+5,check pass; user <*>,117
+6,authentication failure; logname= <*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>,66
+7,authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>,51
+8,ALERT exited abnormally with <*>,43
+9,Kerberos authentication failed,22
+10,authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*> user=<*>,16
+11,Authentication failed from <*> (<*>): <*>,13
+12,notify <*> section contains no SOA,9
+13,<*>.,7
+14,notify <*> contains no SOA,7
+15,cupsd shutdown <*>,6
+16,Authentication failed from <*> (<*>): Permission denied in replay cache code,6
+17,<*> startup succeeded,5
+18,cupsd <*> succeeded,5
+19,removing device node '<*>',4
+20,creating device node '<*>',4
+21,getpeername (<*>): <*>,4
+22,BIOS-e820: <*> - <*> (reserved),3
+23,Authentication failed from <*>: Permission denied in replay cache code,2
+24,Authentication failed from <*>: Software caused connection abort,2
+25,"ANONYMOUS FTP LOGIN FROM <*>, (<*>)",2
+26,warning: can't get client address: <*>,2
+27,usbcore: registered new driver <*>,2
+28,User <*> timed out after <*> seconds at <*>,1
+29,Received SNMP packet(s) from <*>,1
+30,<*> authentication failed,1
+31,*** info [<*>(<*>)]:,1
+32,imps2: Auto-detected <*> <*>,1
+33,session opened for user <*> by LOGIN(uid=<*>),1
+34,<*> LOGIN ON <*>,1
+35,authentication failure; logname= <*> euid=<*> tty=<*> ruser=<*> rhost=<*>,1
+36,Couldn't authenticate <*>,1
+37,syslogd <*> succeeded,1
+38,"klogd <*>, log source = <*> started.",1
+39,Linux version <*> (<*>@<*>) (gcc version <*> <*> (<*> <*>-<*>)) #<*> <*>,1
+40,BIOS-provided physical RAM map:,1
+41,BIOS-e820: <*> - <*> (usable),1
+42,BIOS-e820: <*> - <*> (<*>),1
+43,<*> HIGHMEM available.,1
+44,<*> LOWMEM available.,1
+45,zapping <*> mappings.,1
+46,On node <*> totalpages: <*>,1
+47,"DMA zone: <*> pages, LIFO batch:<*>",1
+48,"Normal zone: <*> pages, LIFO batch:<*>",1
+49,"HighMem zone: <*> pages, LIFO batch:<*>",1
+50,DMI <*> present.,1
+51,ACPI disabled because your bios is from <*> and too old,1
+52,You can enable it with <*>,1
+53,Built <*> zonelists,1
+54,Kernel command line: ro <*>=<*> rhgb quiet,1
+55,mapped <*>/<*> trampoline to <*>.,1
+56,Initializing CPU#<*>,1
+57,"CPU <*> irqstacks, hard=<*> soft=<*>",1
+58,<*> startup <*>,1
+59,PID hash table entries: <*> (order <*>: <*> bytes),1
+60,Detected <*> MHz processor.,1
+61,Version <*> Starting,1
+62,Using <*> for <*>,1
+63,rpc.statd <*> succeeded,1
+64,Console: colour <*> <*>,1
+65,"Memory: <*>k/<*>k available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)",1
+66,Calibrating delay loop... <*> BogoMIPS,1
+67,Security Scaffold <*> initialized,1
+68,SELinux: <*> Initializing.,1
+69,SELinux: Starting in <*> mode,1
+70,"There is already a <*> initialized, <*> failed.",1
+71,Failure registering capabilities with the <*>,1
+72,selinux_register_security: Registering secondary module capability,1
+73,Capability <*> initialized,1
+74,rpc.<*> startup <*>,1
+75,"Dentry cache hash table entries: <*> (order: <*>, <*> bytes)",1
+76,"Inode-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+77,"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+78,"CPU: L1 I cache: <*>, L1 D cache: <*>",1
+79,CPU: L2 cache: <*>,1
+80,<*>,1
+81,Intel machine check reporting enabled on CPU#<*>.,1
+82,CPU: Intel <*> <*> (Coppermine) stepping <*>,1
+83,Enabling fast FPU save and restore... done.,1
+84,Enabling <*>... done.,1
+85,Checking '<*>' instruction... <*>.,1
+86,Initializing random number generator: <*>,1
+87,POSIX conformance testing by <*>,1
+88,NET: Registered protocol family <*>,1
+89,"PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>",1
+90,PCI: Using configuration type <*>,1
+91,mtrr: <*> (<*>),1
+92,ACPI: Subsystem revision <*>,1
+93,ACPI: <*> disabled.,1
+94,Linux Plug and Play Support <*> (c) <*>,1
+95,Starting pcmcia: <*>,1
+96,ACPI: ACPI tables contain no <*> IRQ routing entries,1
+97,PCI: <*>,1
+98,PCI: Probing <*>,1
+99,PCI: Probing PCI hardware (bus <*>),1
+100,Transparent bridge - <*>,1
+101,PCI: Using IRQ router <*> [<*>/<*>] at <*>,1
+102,apm: BIOS version <*> Flags <*> (Driver version <*>),1
+103,audit: initializing netlink socket (<*>),1
+104,kernel.core_uses_pid = <*>,1
+105,HCI daemon ver <*> started,1
+106,audit(<*>): <*>,1
+107,Setting network parameters: <*>,1
+108,sdpd <*> started,1
+109,"Total HugeTLB memory allocated, <*>",1
+110,Bringing up loopback interface: <*>,1
+111,VFS: Disk quotas <*>,1
+112,"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)",1
+113,SELinux: Registering netfilter hooks,1
+114,Initializing <*> API,1
+115,pci_hotplug: PCI Hot Plug PCI Core version: <*>,1
+116,isapnp: Scanning for PnP cards...,1
+117,isapnp: <*>,1
+118,Real Time Clock Driver <*>,1
+119,Linux agpgart interface <*> (c) <*>,1

@@ -1,0 +1,24 @@
+,EventTemplate,Occurrences
+0,{method}() {status} {file_path},153
+1,mod_jk {component} workerEnv in error state {error_state},311
+2,function_name() Found child {child_pid} in scoreboard slot {slot_number},108
+3,{function_name}() Found child {child_pid} in scoreboard slot {slot_number},368
+4,{method}() ok {file_path},92
+5,mod_jk {component} workerEnv in error state {state},198
+6,workerEnv.init() ok {file_path},268
+7,mod_jk {workerType} workerEnv in error state {errorCode},18
+8,function_name() Found child {child_id} in scoreboard slot {slot_number},187
+9,{function_name}() Found child {child_id} in scoreboard slot {slot_number},173
+10,workerEnv.init() {status} {file_path},48
+11,mod_jk {workerType} workerEnv in error state {errorState},2
+12,[client {client_ip}] Directory index forbidden by rule: {directory_path},32
+13,mod_jk {component} workerEnv in error state {error_code},8
+14,workerEnv.init() {status} {file},4
+15,{method}() ok {file},4
+16,mod_jk {workerType} child workerEnv in error state {errorCode},1
+17,mod_jk {component} workerEnv in {errorType} state {errorCode},1
+18,{function_name}() Can't find child {child_id} in {location},7
+19,mod_jk child init {child_id} {error_code},9
+20,mod_jk child init {child_number} {error_code},3
+21,{function_name}() Can't find child {child_id} in scoreboard,3
+22,{function_name}() Can't find child {child_id} in {source},2

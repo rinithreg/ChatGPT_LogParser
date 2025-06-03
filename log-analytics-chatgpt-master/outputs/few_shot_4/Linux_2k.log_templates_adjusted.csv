@@ -1,0 +1,115 @@
+,EventTemplate,Occurrences
+0,connection from <*> () at <*> <*> <*> <*> <*>,526
+1,authentication failure; logname= uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*> user=<*>,372
+2,connection from <*> (<*>) at <*> <*> <*> <*> <*>,190
+3,connection from <*> (<*>) at <*>,178
+4,session closed for user <*>,123
+5,session opened for user <*> by (uid=<*>),122
+6,check pass; user <*>,117
+7,authentication failure; logname= uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>,107
+8,ALERT exited abnormally with [<*>],43
+9,<*>,25
+10,notify question section contains no SOA,16
+11,Authentication failed from <*> (<*>): <*>,15
+12,connection from <*> () at <*>,14
+13,<*> startup succeeded,13
+14,authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>,11
+15,Authentication failed from <*> (<*>): Permission denied in replay cache code,8
+16,<*> shutdown succeeded,6
+17,<*>.,4
+18,removing device node '<*>',4
+19,creating device node '<*>',4
+20,getpeername (<*>): <*>,4
+21,BIOS-e820: <*> - <*> (reserved),3
+22,"ANONYMOUS FTP LOGIN FROM <*>, (<*>)",2
+23,warning: can't get client address: <*>,2
+24,<*>: registered new driver <*>,2
+25,User <*> timed out after <*> seconds at <*> <*> <*> <*>,1
+26,Received SNMP packet(s) from <*>,1
+27,<*> authentication failed,1
+28,*** info [<*>(<*>)]:,1
+29,<*>: <*>,1
+30,session opened for user <*> by LOGIN(uid=<*>),1
+31,<*> LOGIN ON <*>,1
+32,connection from <*> (<*>) at <*> <*> <*>,1
+33,Couldn't authenticate user,1
+34,syslogd startup succeeded,1
+35,"klogd <*>, log source = <*> started.",1
+36,Linux version <*> (<*>@<*>) (gcc version <*> (<*> <*>-<*>)) #<*> <*>,1
+37,BIOS-provided physical RAM map:,1
+38,BIOS-e820: <*> - <*> (<*>),1
+39,BIOS-e820: <*> - <*> (usable),1
+40,<*> HIGHMEM available.,1
+41,<*> LOWMEM available.,1
+42,zapping low mappings.,1
+43,On node <*> totalpages: <*>,1
+44,"DMA zone: <*> pages, LIFO batch:<*>",1
+45,"Normal zone: <*> pages, LIFO batch:<*>",1
+46,"HighMem zone: <*> pages, LIFO batch:<*>",1
+47,DMI <*> present.,1
+48,ACPI disabled because your bios is from <*> and too old,1
+49,You can enable it with <*>,1
+50,Built <*> zonelists,1
+51,Kernel command line: <*> <*>=<*> rhgb quiet,1
+52,mapped <*> trampoline to <*>.,1
+53,Initializing CPU#<*>,1
+54,"CPU <*> irqstacks, hard=<*> soft=<*>",1
+55,PID hash table entries: <*> (order <*>: <*> bytes),1
+56,Detected <*> MHz processor.,1
+57,Version <*> Starting,1
+58,Using <*> for high-res timesource,1
+59,Console: colour <*> <*>,1
+60,"Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)",1
+61,Calibrating delay loop... <*> BogoMIPS,1
+62,Security Scaffold <*> initialized,1
+63,SELinux: <*>.,1
+64,SELinux: Starting in <*> mode,1
+65,"There is already a security framework initialized, register_security failed.",1
+66,Failure registering capabilities with the kernel,1
+67,selinux_register_security: Registering secondary module capability,1
+68,Capability LSM initialized,1
+69,"Dentry cache hash table entries: <*> (order: <*>, <*> bytes)",1
+70,"Inode-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+71,"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+72,"CPU: L1 I cache: <*>, L1 D cache: <*>",1
+73,CPU: L2 cache: <*>,1
+74,<*> machine check architecture supported.,1
+75,Intel machine check reporting enabled on CPU#<*>.,1
+76,CPU: <*> <*> stepping <*>,1
+77,Enabling fast FPU save and restore... <*>.,1
+78,Enabling unmasked SIMD FPU exception support... <*>.,1
+79,Checking '<*>' instruction... <*>.,1
+80,Initializing random number generator: <*>,1
+81,POSIX conformance testing by <*>,1
+82,NET: Registered protocol family <*>,1
+83,"PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>",1
+84,PCI: Using configuration type <*>,1
+85,mtrr: <*> (<*>),1
+86,ACPI: Subsystem revision <*>,1
+87,ACPI: <*> disabled.,1
+88,Linux Plug and Play Support <*> (c) <*>,1
+89,Starting pcmcia: <*>,1
+90,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+91,PCI: <*>,1
+92,<*>: Probing <*>,1
+93,PCI: Probing PCI hardware (bus <*>),1
+94,Transparent bridge - <*>,1
+95,PCI: Using IRQ router <*> [<*>/<*>] at <*>,1
+96,apm: BIOS version <*> Flags <*> (Driver version <*>),1
+97,audit: initializing netlink socket (<*>),1
+98,kernel.core_uses_pid = <*>,1
+99,HCI daemon ver <*> started,1
+100,audit(<*>): initialized,1
+101,Setting network parameters: <*>,1
+102,<*> <*> started,1
+103,"Total HugeTLB memory allocated, <*>",1
+104,Bringing up loopback interface: <*>,1
+105,VFS: Disk quotas <*>,1
+106,"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)",1
+107,SELinux: Registering netfilter hooks,1
+108,Initializing Cryptographic API,1
+109,pci_hotplug: PCI Hot Plug PCI Core version: <*>,1
+110,isapnp: <*> for PnP cards...,1
+111,isapnp: <*>,1
+112,Real Time Clock Driver <*>,1
+113,Linux agpgart interface <*> (c) <*>,1

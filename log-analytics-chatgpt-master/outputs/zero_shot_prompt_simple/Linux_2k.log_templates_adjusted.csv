@@ -1,0 +1,146 @@
+,EventTemplate,Occurrences
+0,authentication failure; logname= uid= euid= tty= ruser= rhost= user=,332
+1,connection from <source_ip> () at <timestamp>,332
+2,connection from <*> () at <*>,283
+3,connection from <source_ip> (<source_hostname>) at <timestamp>,219
+4,session closed for user <*>,123
+5,session opened for user <*> by (uid=<*>),122
+6,authentication failure; logname= uid= euid= tty= ruser= rhost=,76
+7,check pass; user <*>,56
+8,check pass; user unknown,46
+9,ALERT exited abnormally with [<*>],43
+10,connection from <source_ip> (<source_host>) at <timestamp>,37
+11,connection from [sourceIP] ([sourceHost]) at [timestamp],21
+12,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost= user=<*>,16
+13,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=,15
+14,<*> pass; user <*>,13
+15,Kerberos authentication failed,12
+16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=n219076184117.netvigator.com user=<*>,11
+17,<*> authentication failed,11
+18,Authentication failed from <*>: <*>,10
+19,notify <*> section contains no <*>,10
+20,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=zummit.com,9
+21,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost= user=,8
+22,restart.,7
+23,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=ip-<*>-<*>-<*>-<*>.ip.secureserver.net,7
+24,<*> shutdown <*>,6
+25,cupsd startup succeeded,6
+26,notify <*> contains no SOA,6
+27,Authentication failed from <*> (<*>): <*>,5
+28,connection from <*> (<*>) at <*>,5
+29,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>-<*>-<*>-<*>.ebix.net.tw,5
+30,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,4
+31,Authentication failed from <IP Address>: Permission denied in replay cache code,4
+32,Authentication failed from <*>: Permission denied in replay cache code,4
+33,removing device node '<*>',4
+34,creating device node '<*>',4
+35,getpeername (ftpd): Transport endpoint is not connected,4
+36,<*> startup <*>,3
+37,BIOS-e820: <*> - <*> (<*>),3
+38,<*> <*> <*>,3
+39,check <*>; user <*>,2
+40,connection from <IP> () at <Date>,2
+41,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=p15105218.pureserver.info user=<*>,2
+42,connection from [source_ip] ([source_host]) at [timestamp],2
+43,connection from [sourceIP] ([sourceHostname]) at [timestamp],2
+44,connection from <IP> (<hostname>) at <timestamp>,2
+45,"ANONYMOUS FTP LOGIN FROM <IP_ADDRESS>, (<USERNAME>)",2
+46,warning: can't get client address: Connection reset by peer,2
+47,BIOS-e820: start_address - end_address (type),2
+48,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>.ctinets.com,1
+49,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=d211-<*>-<*>-<*>.rev.krline.net,1
+50,User <*> timed out after <*> seconds at <*>,1
+51,Received SNMP packet(s) from <*>,1
+52,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,1
+53,*** info [mice.c(<*>)]:,1
+54,imps2: Auto-detected intellimouse PS/2,1
+55,session opened for user <*> by LOGIN(uid=<*>),1
+56,<*> LOGIN ON <*>,1
+57,Couldn't authenticate user,1
+58,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>-<*>-<*>-<*>.adsl.ttn.net user=<*>,1
+59,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>-<*>-<*>-<*>.hinet-ip.hinet.net user=<*>,1
+60,connection from <IP> (<host>) at <timestamp>,1
+61,connection from [IP] ([hostname]) at [timestamp],1
+62,connection from <IP_ADDRESS> (<HOSTNAME>) at <DATE_TIME>,1
+63,connection from <*> at <*>,1
+64,"klogd <*>, log source = <*> started.",1
+65,Linux version <*> (<*>) (gcc version <*>) #<*> <*>,1
+66,BIOS-provided physical RAM map:,1
+67,"""<*> HIGHMEM available.""",1
+68,<*> LOWMEM available.,1
+69,zapping <*> mappings.,1
+70,On node <*> totalpages: <*>,1
+71,"DMA zone: <number> pages, LIFO batch:<number>",1
+72,"Normal zone: <*> pages, LIFO batch:<*>",1
+73,<*> startup succeeded,1
+74,"HighMem zone: %d pages, LIFO batch:%d",1
+75,DMI <*> present.,1
+76,ACPI disabled because your bios is from <*> and too old,1
+77,You can enable it with acpi=force,1
+78,Built <*> zonelists,1
+79,Kernel command line: ro <*>=LABEL=/ rhgb quiet,1
+80,mapped <*> trampoline to <*>.,1
+81,Initializing CPU#<*>,1
+82,"CPU <*> irqstacks, hard=<*> soft=<*>",1
+83,PID hash table entries: %d (order %d: %d bytes),1
+84,Detected <*> MHz processor.,1
+85,Version <*> Starting,1
+86,Using tsc for <*>,1
+87,rpc.statd startup <*>,1
+88,Console: colour VGA+ 80x25,1
+89,"Memory: <*>k/<*>k available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)",1
+90,Calibrating delay loop... [BogoMIPS],1
+91,Security Scaffold <*> initialized,1
+92,SELinux: Initializing.,1
+93,SELinux: Starting in permissive mode,1
+94,"There is already a <*> initialized, <*> failed.",1
+95,Failure registering capabilities with the kernel,1
+96,selinux_register_security: Registering secondary module capability,1
+97,Capability <*> initialized,1
+98,rpc.idmapd startup <*>,1
+99,"Dentry cache hash table entries: %d (order: %d, %d bytes)",1
+100,"Inode-cache hash table entries: %d (order: %d, %d bytes)",1
+101,"Mount-cache hash table entries: %d (order: %d, %d bytes)",1
+102,"CPU: L1 I cache: <*>, L1 D cache: <*>",1
+103,CPU: L2 cache: <*>,1
+104,<*> machine check architecture supported.,1
+105,<*> machine check reporting enabled on CPU#<*>.,1
+106,CPU: <*> stepping <*>,1
+107,Enabling fast FPU save and restore... done.,1
+108,Enabling unmasked SIMD FPU exception support... done.,1
+109,Checking '<*>' instruction... <*>.,1
+110,Initializing random number generator: <*>,1
+111,POSIX conformance testing by UNIFIX,1
+112,NET: Registered protocol family <*>,1
+113,"PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>",1
+114,PCI: Using configuration type <*>,1
+115,mtrr: v2.<*> (<*>),1
+116,ACPI: Subsystem revision <*>,1
+117,ACPI: Interpreter disabled.,1
+118,Linux Plug and Play Support v0.<*> (c) Adam Belay,1
+119,Starting pcmcia: <*>,1
+120,usbcore: registered new driver usbfs,1
+121,usbcore: registered new driver hub,1
+122,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+123,PCI: Invalid ACPI-PCI IRQ routing table,1
+124,PCI: Probing PCI hardware,1
+125,PCI: Probing PCI hardware (bus <*>),1
+126,Transparent bridge - [device],1
+127,PCI: Using IRQ router PIIX/ICH [8086/2410] at <*>:1f.<*>,1
+128,apm: BIOS version <*> Flags <*> (Driver version <*>),1
+129,audit: initializing netlink socket (disabled),1
+130,kernel.core_uses_pid = <*>,1
+131,HCI daemon ver <*> started,1
+132,audit(timestamp:sequence_number): message_text,1
+133,Setting network parameters: <*>,1
+134,"Total HugeTLB memory allocated, <*>",1
+135,Bringing up loopback interface: <*>,1
+136,VFS: Disk quotas <*>,1
+137,"Dquot-cache hash table entries: <entries> (order <order>, <bytes> bytes)",1
+138,SELinux: Registering netfilter hooks,1
+139,<*>,1
+140,pci_hotplug: PCI Hot Plug PCI Core version: <*>,1
+141,isapnp: Scanning for PnP cards...,1
+142,isapnp: No Plug & Play device found,1
+143,Real Time Clock Driver <*>,1
+144,Linux agpgart interface v0.<*> (c) Dave Jones,1

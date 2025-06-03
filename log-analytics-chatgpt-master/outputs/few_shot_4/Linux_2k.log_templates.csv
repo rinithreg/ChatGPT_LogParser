@@ -1,0 +1,139 @@
+,EventTemplate,Occurrences
+0,authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost},107
+1,check pass; user {status},115
+2,authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user},141
+3,authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={username},223
+4,session opened for user {username} by (uid={uid}),122
+5,session closed for user {username},123
+6,ALERT exited abnormally with [{code}],43
+7,authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost},11
+8,connection from {ip} ({hostname}) at {day} {month} {date} {time} {year},135
+9,connection from {ip} ({hostname}) at {timestamp},126
+10,User {status} timed out after {timeout} seconds at {day} {date} {time} {year},1
+11,{service} shutdown succeeded,6
+12,{service} startup succeeded,10
+13,{message},7
+14,connection from {ip} () at {day} {month} {date} {time} {year},506
+15,Received SNMP packet(s) from {source_ip},1
+16,connection from {ip} ({username}) at {day} {month} {date} {time} {year},47
+17,connection from {ip_address} () at {timestamp},3
+18,connection from {ip_address} () at {day} {month} {date} {time} {year},20
+19,connection from {ip} () at {timestamp},10
+20,connection from {ip} () at {date},1
+21,connection from {ip} ({username}) at {timestamp},22
+22,{action}.,4
+23,authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={username},1
+24,check pass; user {user_status},1
+25,check pass; user {user},1
+26,Authentication failed from {source_ip} ({source_ip}): Permission denied in replay cache code,4
+27,{event},18
+28,Authentication failed from {ip} ({ip}): Permission denied in replay cache code,4
+29,Authentication failed from {source_ip} ({source_ip}): {reason},12
+30,{authentication_method} authentication failed,1
+31,Authentication failed from {ip} ({ip}): {reason},3
+32,connection from {ip_address} ({hostname}) at {timestamp},25
+33,connection from {ip_address} ({hostname}) at {day} {month} {date} {time} {year},6
+34,*** info [{file}({line})]:,1
+35,{device}: {description},1
+36,session opened for user {username} by LOGIN(uid={uid}),1
+37,ROOT LOGIN ON {terminal},1
+38,removing device node '{device}',4
+39,creating device node '{device}',4
+40,connection from {ip} ({}) at {day} {month} {date} {time} {year},1
+41,connection from {ip} ({username}) at {day} {time} {year},1
+42,Couldn't authenticate user,1
+43,authentication failure; logname= uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user},7
+44,connection from {ip_address} ({username}) at {timestamp},2
+45,connection from {ip} ({info}) at {timestamp},2
+46,connection from {ip} ({details}) at {timestamp},1
+47,connection from {ip} ({info}) at {day} {month} {date} {time} {year},1
+48,"ANONYMOUS FTP LOGIN FROM {ip},  ({username})",2
+49,notify question section contains no SOA,16
+50,getpeername ({process}): {error},2
+51,getpeername ({process}): {message},1
+52,warning: can't get client address: {error},1
+53,warning: can't get client address: {reason},1
+54,getpeername ({process}): {error_message},1
+55,syslogd startup succeeded,1
+56,"klogd {version}, log source = {source} started.",1
+57,Linux version {version} ({user}@{host}) (gcc version {gcc_version} ({os} {os_version}-{gcc_version_number})) #{build_number} {timestamp},1
+58,BIOS-provided physical RAM map:,1
+59,BIOS-e820: {start_address} - {end_address} ({status}),1
+60,BIOS-e820: {start_address} - {end_address} (reserved),3
+61,BIOS-e820: {start_address} - {end_address} (usable),1
+62,{size} HIGHMEM available.,1
+63,{size} LOWMEM available.,1
+64,zapping low mappings.,1
+65,{process} startup succeeded,3
+66,On node {node} totalpages: {totalpages},1
+67,"DMA zone: {pages} pages, LIFO batch:{batch}",1
+68,"Normal zone: {pages} pages, LIFO batch:{batch}",1
+69,"HighMem zone: {pages} pages, LIFO batch:{batch}",1
+70,DMI {version} present.,1
+71,ACPI disabled because your bios is from {year} and too old,1
+72,You can enable it with {option},1
+73,Built {number} zonelists,1
+74,Kernel command line: {option1} root={option2} rhgb quiet,1
+75,mapped {size} trampoline to {address}.,1
+76,Initializing CPU#{cpu},1
+77,"CPU {cpu} irqstacks, hard={address} soft={address}",1
+78,PID hash table entries: {entries} (order {order}: {bytes} bytes),1
+79,Detected {frequency} MHz processor.,1
+80,Version {major}.{minor}.{patch} Starting,1
+81,Using {source} for high-res timesource,1
+82,Console: colour {type} {resolution},1
+83,"Memory: {available_memory} available ({kernel_code} kernel code, {reserved_memory} reserved, {data_memory} data, {init_memory} init, {highmem_memory} highmem)",1
+84,Calibrating delay loop... {bogomips} BogoMIPS,1
+85,Security Scaffold v{version} initialized,1
+86,SELinux:  {action}.,1
+87,SELinux:  Starting in {mode} mode,1
+88,"There is already a security framework initialized, register_security failed.",1
+89,Failure registering capabilities with the kernel,1
+90,selinux_register_security:  Registering secondary module capability,1
+91,Capability LSM initialized,1
+92,"Dentry cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+93,"Inode-cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+94,"Mount-cache hash table entries: {entries} (order: {order}, {bytes} bytes)",1
+95,"CPU: L1 I cache: {size}, L1 D cache: {size}",1
+96,CPU: L2 cache: {size},1
+97,{vendor} machine check architecture supported.,1
+98,Intel machine check reporting enabled on CPU#{cpu}.,1
+99,CPU: {brand} {model} stepping {stepping},1
+100,Enabling fast FPU save and restore... {status}.,1
+101,Enabling unmasked SIMD FPU exception support... {status}.,1
+102,Checking '{instruction}' instruction... {result}.,1
+103,Initializing random number generator:  {status},1
+104,POSIX conformance testing by {tester},1
+105,NET: Registered protocol family {number},1
+106,"PCI: PCI BIOS revision {revision} entry at {address}, last bus={bus}",1
+107,PCI: Using configuration type {type},1
+108,mtrr: v{version} ({date}),1
+109,ACPI: Subsystem revision {revision},1
+110,ACPI: {action} disabled.,1
+111,Linux Plug and Play Support v{version} (c) {author},1
+112,Starting pcmcia:  {status},1
+113,{module}: registered new driver {driver},2
+114,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+115,PCI: {error},1
+116,{subsystem}: Probing {hardware},1
+117,PCI: Probing PCI hardware (bus {bus}),1
+118,Transparent bridge - {location},1
+119,PCI: Using IRQ router {router} [{vendor}/{device}] at {address},1
+120,apm: BIOS version {version} Flags {flags} (Driver version {driver_version}),1
+121,audit: initializing netlink socket ({status}),1
+122,kernel.core_uses_pid = {value},1
+123,HCI daemon ver {version} started,1
+124,audit({timestamp}:{value}): initialized,1
+125,Setting network parameters:  {status},1
+126,{process} v{version} started,1
+127,"Total HugeTLB memory allocated, {memory_allocated}",1
+128,Bringing up loopback interface:  {status},1
+129,VFS: Disk quotas {name}_{version},1
+130,"Dquot-cache hash table entries: {entries} (order {order}, {bytes} bytes)",1
+131,SELinux:  Registering netfilter hooks,1
+132,Initializing Cryptographic API,1
+133,pci_hotplug: PCI Hot Plug PCI Core version: {version},1
+134,isapnp: {action} for PnP cards...,1
+135,isapnp: {message},1
+136,Real Time Clock Driver v{version},1
+137,Linux agpgart interface v{version} (c) {author},1

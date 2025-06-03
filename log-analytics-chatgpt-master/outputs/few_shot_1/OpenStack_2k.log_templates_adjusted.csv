@@ -1,0 +1,64 @@
+,EventTemplate,Occurrences
+0,"<*> ""GET <*>"" status: <*> len: <*> time: <*>",931
+1,[instance: <*>] <*>,89
+2,image <*> at (<*>): <*>,82
+3,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+4,Active base files: <*>,82
+5,"<*> ""POST <*>"" status: <*> len: <*> time: <*>",64
+6,[instance: <*>] During sync_power_state the instance has a pending task (<*>). Skip.,37
+7,Unknown base file: <*>,30
+8,[instance: <*>] VM <*> (Lifecycle Event),25
+9,[instance: <*>] VM Resumed (Lifecycle Event),24
+10,[instance: <*>] VM <*> (<*>),24
+11,[instance: <*>] Instance spawned successfully.,22
+12,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.,22
+13,[instance: <*>] Took <*> seconds to build instance.,22
+14,"<*> ""DELETE <*>"" status: <*> len: <*> time: <*>",22
+15,[instance: <*>] Deleting instance files <*>,21
+16,[instance: <*>] Deletion of <*> complete,21
+17,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.,21
+18,[instance: <*>] Took <*> seconds to deallocate network for instance.,21
+19,Removing base or swap file: <*>,21
+20,<*> thrown: <*>,21
+21,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU",21
+22,"[instance: <*>] Total memory: <*> MB, used: <*> MB",20
+23,Creating event <*> for instance <*>,19
+24,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",19
+25,Removable base files: <*>,19
+26,"[instance: <*>] Total disk: <*> GB, used: <*> GB",18
+27,"[instance: <*>] memory limit: <*> MB, free: <*> MB",16
+28,"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+29,Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=<*>,15
+30,Compute_service record updated for <*>,15
+31,[instance: <*>] Instance destroyed successfully.,15
+32,<*> locally available compute resources for node <*>,14
+33,<*>: <*>,12
+34,"<*> vcpu limit not specified, defaulting to unlimited",9
+35,[instance: <*>] Terminating instance,8
+36,"<*> disk limit not specified, defaulting to unlimited",8
+37,Base or swap file too young to remove: <*>,8
+38,[instance: <*>] VM Started (Lifecycle Event),7
+39,"[instance: <*>] disk limit not specified, defaulting to <*>",7
+40,[instance: <*>] Claim successful,6
+41,[instance: <*>] VM Stopped (Lifecycle Event),5
+42,The instance sync for host '<*>' did not match. Re-created its InstanceList.,5
+43,"<*> memory limit: <*> MB, free: <*> MB",4
+44,Creating event <*>: <*> for instance <*>,3
+45,"<*> Total disk: <*> GB, used: <*> GB",3
+46,"[instance: <*>] disk limit not specified, defaulting to unlimited",3
+47,[instance: <*>] VM Paused (Lifecycle Event),2
+48,Successfully synced instances from host '<*>'.,2
+49,"[instance: <*>] vcpu limit not specified, defaulting to unlimited",2
+50,"<*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",2
+51,<*> VM <*> (Lifecycle Event),2
+52,[instance: <*>] During <*> the instance has a pending task (<*>). <*>.,2
+53,Auditing locally available compute resources for node <*>,1
+54,Running instance usage audit for host <*> from <*> to <*>. <*> instances.,1
+55,"[instance: <*>] vcpu limit not specified, defaulting to <*>",1
+56,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+57,[instance: <*>] VM Resumed (<*>),1
+58,[instance: <*>] During sync_power_state the instance has a pending task (<*>). <*>.,1
+59,"{instance: <*>] memory limit: <*> MB, free: <*> MB",1
+60,<*> During sync_power_state the instance has a pending task (<*>). Skip.,1
+61,"<*> Total memory: <*> MB, used: <*> MB",1
+62,<*> Terminating instance,1

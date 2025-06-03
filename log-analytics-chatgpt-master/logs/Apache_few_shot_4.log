@@ -1,0 +1,4000 @@
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 9` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 9` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of `jk2_init() Can't find child 1567 in scoreboard` is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 9` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child init 1 -2` is `mod_jk child init {state1} {state2}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child init 1 -2` is `mod_jk child init {state1} {state2}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of `jk2_init() Found child 1851 in scoreboard slot 6` is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of `mod_jk child workerEnv in error state 10` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child init 1 -2` is `mod_jk child init {state1} {state2}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 9` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of `jk2_init() Can't find child 2085 in scoreboard` is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child init 1 -2` is `mod_jk child init {state1} {state2}`.
+ =================== 
+The template of the log message is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child init {state} {value}`.
+ =================== 
+The template of the log message is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child init 1 -2` is `mod_jk child init {state1} {state2}`.
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+The template of `jk2_init() Can't find child 5054 in scoreboard` is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child init {param1} {param2}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child init 1 -2` is `mod_jk child init {state1} {state2}`.
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child init 1 -2` is `mod_jk child init {state1} {state2}`.
+ =================== 
+The template of `jk2_init() Can't find child 5620 in scoreboard` is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child init {state} {value}`.
+ =================== 
+The template of the log message is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child init 1 -2` is `mod_jk child init {state1} {state2}`.
+ =================== 
+The template of `jk2_init() Can't find child 5622 in scoreboard` is `jk2_init() Can't find child {child} in scoreboard`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child init {value1} {value2}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+The template of the log message is `[client {address}] Directory index forbidden by rule: {path}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+The template of the log message is `jk2_init() Found child {child} in scoreboard slot {slot}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`mod_jk child workerEnv in error state {state}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`[client {address}] Directory index forbidden by rule: {path}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of the log message is `mod_jk child workerEnv in error state {state}`.
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`jk2_init() Found child {child} in scoreboard slot {slot}`
+ =================== 
+`workerEnv.init() ok {path}`
+ =================== 
+The template of `mod_jk child workerEnv in error state 6` is `mod_jk child workerEnv in error state {state}`.
+ =================== 

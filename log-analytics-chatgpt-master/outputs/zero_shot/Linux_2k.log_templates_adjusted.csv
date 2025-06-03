@@ -1,0 +1,102 @@
+,EventTemplate,Occurrences
+0,connection from <*> () at <*>,537
+1,connection from <*> (<*>) at <*>,371
+2,authentication failure; logname= <*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*> user=<*>,353
+3,session closed for user <*>,123
+4,session opened for user <*> by (uid=<*>),122
+5,authentication failure; logname= <*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>,75
+6,check pass; user <*>,73
+7,<*> pass; user <*>,44
+8,authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*>,43
+9,ALERT exited abnormally with [<*>],43
+10,<*>,43
+11,authentication failure; logname=<*> uid=<*> euid=<*> tty=<*> ruser=<*> rhost=<*> user=<*>,19
+12,Authentication failed from <*> (<*>): <*>,16
+13,notify <*> section contains no <*>,16
+14,<*>.,7
+15,Authentication failed from <*> (<*>): <*> in replay cache code,7
+16,<*> shutdown <*>,6
+17,BIOS-e820: <*> - <*> (<*>),5
+18,removing device node '<*>',4
+19,creating device node '<*>',4
+20,<*> startup <*>,3
+21,"ANONYMOUS FTP LOGIN FROM <*>, (<*>)",2
+22,<*> (<*>): <*>,2
+23,<*> (ftpd): <*>,2
+24,warning: can't get <*> address: <*>,2
+25,"<*> zone: <*> pages, LIFO batch:<*>",2
+26,: registered new driver <*>,2
+27,User <*> timed out after <*> seconds at <*>,1
+28,Received SNMP packet(s) from <*>,1
+29,connection from <*> () at <*> <*> <*> <*> <*>,1
+30,*** info [<*>(<*>)]:,1
+31,: Auto-detected <*> <*>,1
+32,session opened for user <*> by LOGIN(uid=<*>),1
+33,<*> LOGIN ON <*>,1
+34,"klogd <*>, log source = <*> started.",1
+35,Linux version <*> (<*>) (gcc version <*> <*> (<*>)) #<*> <*>,1
+36,<*> low <*>.,1
+37,On node <*> totalpages: <*>,1
+38,"DMA zone: <*> pages, LIFO batch:<*>",1
+39,<*> startup succeeded,1
+40,DMI <*> present.,1
+41,<*> disabled because your bios is from <*> and too old,1
+42,You can enable it with <*>,1
+43,Built <*> zonelists,1
+44,Kernel command line: ro <*>=<*> rhgb quiet,1
+45,mapped <*>/<*> trampoline to <*>.,1
+46,Initializing CPU#<*>,1
+47,"CPU <*> irqstacks, hard=<*> soft=<*>",1
+48,PID hash table entries: <*> (order <*>: <*> bytes),1
+49,Detected <*> MHz processor.,1
+50,Version <*> Starting,1
+51,Using <*> for <*>,1
+52,rpc.statd <*> <*>,1
+53,Console: colour <*> <*> <*>,1
+54,"Memory: <*>k/<*>k available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)",1
+55,Calibrating delay loop... <*> BogoMIPS,1
+56,<*> <*> initialized,1
+57,SELinux: <*>.,1
+58,SELinux: Starting in <*> mode,1
+59,"There is already a <*> initialized, <*> failed.",1
+60,<*>: Registering <*> module capability,1
+61,<*> LSM initialized,1
+62,rpc.<*> startup <*>,1
+63,"Dentry cache hash table entries: <*> (order: <*>, <*> bytes)",1
+64,"Inode-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+65,"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)",1
+66,"CPU: L1 I cache: <*>, L1 D cache: <*>",1
+67,CPU: L2 cache: <*>,1
+68,<*> machine check architecture supported.,1
+69,CPU: <*> <*> (Coppermine) stepping <*>,1
+70,Enabling <*> save and restore... <*>.,1
+71,Enabling <*> SIMD FPU exception support... <*>.,1
+72,Checking '<*>' instruction... <*>.,1
+73,Initializing random number generator: <*>,1
+74,<*> conformance testing by <*>,1
+75,NET: Registered protocol family <*>,1
+76,"PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>",1
+77,PCI: Using configuration type <*>,1
+78,mtrr: <*> (<*>),1
+79,ACPI: Subsystem revision <*>,1
+80,ACPI: <*> disabled.,1
+81,Starting <*>: <*>,1
+82,PCI: <*> ACPI-PCI IRQ routing table,1
+83,PCI: Probing <*>,1
+84,PCI: Probing PCI hardware (bus <*>),1
+85,Transparent bridge - <*>,1
+86,PCI: Using IRQ router <*> [<*>/<*>] at <*>,1
+87,apm: BIOS version <*> Flags <*> (Driver version <*>),1
+88,audit: initializing <*> socket (<*>),1
+89,kernel.core_uses_pid = <*>,1
+90,HCI daemon ver <*> started,1
+91,audit(<*>): <*>,1
+92,Setting network parameters: <*>,1
+93,<*> <*> <*>,1
+94,"Total HugeTLB memory allocated, <*>",1
+95,Bringing up <*>: <*>,1
+96,VFS: Disk quotas <*>,1
+97,"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)",1
+98,SELinux: Registering <*> hooks,1
+99,pci_hotplug: PCI Hot Plug <*> Core version: <*>,1
+100,Real Time Clock Driver <*>,1

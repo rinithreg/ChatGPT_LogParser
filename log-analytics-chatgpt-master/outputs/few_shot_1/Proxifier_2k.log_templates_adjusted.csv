@@ -1,0 +1,26 @@
+,EventTemplate,Occurrences
+0,"<*> close, <*> sent, <*> received, lifetime <*>",765
+1,<*> open through proxy <*> <*>,535
+2,<*> open through proxy <*> <*> <*>,391
+3,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",179
+4,<*> error : <*>,35
+5,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,25
+6,"<*> error : <*> - Proxy server cannot establish a connection with the target, status code <*>",17
+7,<*> open through proxy <*> HTTPS,15
+8,<*> error : Could not connect to proxy <*> - <*>,6
+9,<*> open through proxy <*>,4
+10,<*> open through proxy proxy.<*> <*>,4
+11,<*> error : <*> - Could not resolve <*> error <*>,4
+12,t12.baidu.com:<*> open through proxy <*> HTTPS,3
+13,<*> error : <*> - <*> error <*>,3
+14,<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS,2
+15,trello.com:<*> open through proxy <*> HTTPS,2
+16,<*> error : <*> - <*> <*> <*>,2
+17,error : <*>,1
+18,"s1.img4399.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",1
+19,"t12.baidu.com:<*> close, <*> sent, <*> received, lifetime <*>",1
+20,<*> error : <*> - <*>,1
+21,<*> error : <*> - <*> <*>,1
+22,"trello.com:<*> close, <*> sent, <*> received, lifetime <*>",1
+23,<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.,1
+24,<*> error : <*> - connection attempt failed with error <*>,1

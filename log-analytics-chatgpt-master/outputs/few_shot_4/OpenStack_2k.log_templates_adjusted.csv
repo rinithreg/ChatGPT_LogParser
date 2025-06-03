@@ -1,0 +1,99 @@
+,EventTemplate,Occurrences
+0,"<*> ""GET <*>"" status: <*> len: <*> time: <*>",792
+1,"<*>,<*> ""GET <*>"" status: <*> len: <*> time: <*>",115
+2,image <*> at (<*>): checking,82
+3,"image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+4,Active base files: <*>,82
+5,"<*> ""POST <*>"" status: <*> len: <*> time: <*>",53
+6,[instance: <*>] During sync_power_state the instance has a pending task (<*>). Skip.,32
+7,Unknown base file: <*>,30
+8,Removable base files: <*>,30
+9,"<*> ""DELETE <*>"" status: <*> len: <*> time: <*>",22
+10,[instance: <*>] Deleting instance files <*>,21
+11,[instance: <*>] Deletion of <*> complete,21
+12,Removing base or swap file: <*>,21
+13,HTTP exception thrown: <*>,21
+14,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",19
+15,<*>: VM Resumed (Lifecycle Event),18
+16,"[instance: <*>] Total memory: <*> MB, used: <*> MB",18
+17,<*>: Terminating instance,17
+18,"[instance: <*>] Total disk: <*> GB, used: <*> GB",17
+19,[instance: <*>] Took <*> seconds to deallocate network for instance.,17
+20,<*>: <*> (<*>),16
+21,Auditing locally available compute resources for node <*>,15
+22,"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+23,Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=<*>,15
+24,Creating event <*> for instance <*>,14
+25,Compute_service record updated for <*>,13
+26,[instance: <*>] Creating image,13
+27,[instance: <*>] VM Resumed (Lifecycle Event),13
+28,[instance: <*>] Claim successful,13
+29,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.,12
+30,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU",12
+31,<*> Instance destroyed successfully.,12
+32,"<*>: vcpu limit not specified, defaulting to unlimited",12
+33,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.,12
+34,"<*> memory limit: <*> MB, free: <*> MB",12
+35,<*>: Took <*> seconds to build instance.,11
+36,<*> Instance spawned successfully.,11
+37,[instance: <*>] Took <*> seconds to build instance.,11
+38,"<*> ""POST <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",11
+39,<*> VM Resumed (Lifecycle Event),10
+40,"[instance: <*>] memory limit: <*> MB, free: <*> MB",9
+41,"[instance: <*>] disk limit not specified, defaulting to unlimited",9
+42,[instance: <*>] VM Stopped (Lifecycle Event),9
+43,Base or swap file too young to remove: <*>,9
+44,<*>: Took <*> seconds to spawn the instance on the hypervisor.,8
+45,"<*> ""<*> <*> <*>"" status: <*> len: <*> time: <*>",8
+46,<*>: During sync_power_state the instance has a pending task (<*>). Skip.,8
+47,Creating event <*>: <*> for instance <*>,8
+48,<*>: Creating image,7
+49,<*> VM Paused (Lifecycle Event),7
+50,"<*>: disk limit not specified, defaulting to unlimited",7
+51,"<*> Total vcpu: <*> VCPU, used: <*> VCPU",7
+52,<*>: VM Started (Lifecycle Event),6
+53,<*>: Instance spawned successfully.,6
+54,<*>: Claim successful,6
+55,[instance: <*>] VM Paused (Lifecycle Event),6
+56,"<*>,<*> ""GET /latest/meta-data/ HTTP/1.<*>"" status: <*> len: <*> time: <*>",6
+57,[instance: <*>] VM Started (Lifecycle Event),6
+58,<*>: Instance destroyed successfully.,5
+59,<*> VM Started (Lifecycle Event),5
+60,<*>: Took <*> seconds to destroy the instance on the hypervisor.,5
+61,[instance: <*>] Instance spawned successfully.,5
+62,[instance: <*>] Instance destroyed successfully.,5
+63,"[instance: <*>] vcpu limit not specified, defaulting to unlimited",5
+64,The instance sync for host '<*>' did not match. Re-created its InstanceList.,5
+65,"<*> vcpu limit not specified, defaulting to unlimited",4
+66,<*>: VM Stopped (Lifecycle Event),4
+67,[instance: <*>] Terminating instance,4
+68,<*> Took <*> seconds to destroy the instance on the hypervisor.,4
+69,<*>: <*>,3
+70,<*> VM Stopped (Lifecycle Event),3
+71,"<*> disk limit not specified, defaulting to unlimited",3
+72,<*> During sync_power_state the instance has a pending task (<*>). Skip.,3
+73,<*>: Took <*> seconds to deallocate network for instance.,2
+74,"""<*> ""GET <*>"" status: <*> len: <*> time: <*>""",2
+75,Successfully synced instances from host '<*>'.,2
+76,"<*>: Total disk: <*> GB, used: <*> GB",2
+77,"<*>: Total vcpu: <*> VCPU, used: <*> VCPU",2
+78,<*> VM Stopped (<*>),2
+79,"""<*> ""<*> <*>"" status: <*> len: <*> time: <*>""",2
+80,Compute_service record updated for <*>: <*>,2
+81,<*>: VM Paused (Lifecycle Event),2
+82,"<*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",2
+83,"<*> Total disk: <*> GB, used: <*> GB",2
+84,"""<*> ""<*> <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>""",2
+85,"<*>,<*> ""GET <*> HTTP/1.<*>"" status: <*> len: <*> time: <*>",2
+86,<*> Took <*> seconds to spawn the instance on the hypervisor.,2
+87,<*> Took <*> seconds to deallocate network for instance.,2
+88,"<*>,<*> ""GET /latest/meta-data/block-device-mapping/ HTTP/1.<*>"" status: <*> len: <*> time: <*>",2
+89,"<*>: Total memory: <*> MB, used: <*> MB",2
+90,Running instance usage audit for host <*> from <*> to <*>. <*> instances.,1
+91,<*> VM Started (<*>),1
+92,[instance: <*>] <*>,1
+93,<*> Creating image,1
+94,instance: <*> Claim successful,1
+95,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+96,"<*> Total memory: <*> MB, used: <*> MB",1
+97,instance: <*> VM Stopped (Lifecycle Event),1

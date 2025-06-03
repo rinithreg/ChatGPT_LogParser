@@ -1,0 +1,92 @@
+,EventTemplate,Occurrences
+0,{ip_address},776
+1,[instance: {instance_id}] VM Started (Lifecycle Event),22
+2,[instance: {instance_id}] VM Paused (Lifecycle Event),22
+3,[instance: {instance_id}] During sync_power_state the instance has a pending task ({task}). Skip.,32
+4,image {image_id} at ({file_path}): checking,82
+5,"image {image_id} at ({file_path}): in use: on this node {local_count} local, {other_node_count} on other nodes sharing this instance storage",64
+6,Active base files: /var/lib/nova/instances/_base/{file_id},60
+7,Creating event {event_type}:{event_id} for instance {instance_id},14
+8,[instance: {instance_id}] VM Resumed (Lifecycle Event),44
+9,[instance: {instance_id}] Instance spawned successfully.,20
+10,[instance: {instance_id}] Took {time} seconds to spawn the instance on the hypervisor.,22
+11,"image {image_id} at ({file_path}): in use: on this node {local_count} local, {other_nodes_count} on other nodes sharing this instance storage",16
+12,[instance: {instance_id}] Took {time} seconds to build instance.,22
+13,Active base files: {base_file_path},22
+14,"{ip_address} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",13
+15,Auditing locally available compute resources for node {node_name},15
+16,"Total usable vcpus: {total_usable_vcpus}, total allocated vcpus: {total_allocated_vcpus}",15
+17,Final resource view: name={name} phys_ram={phys_ram} used_ram={used_ram} phys_disk={phys_disk} used_disk={used_disk} total_vcpus={total_vcpus} used_vcpus={used_vcpus} pci_stats={pci_stats},15
+18,Compute_service record updated for {old_record}:{new_record},13
+19,"{client_ip},{server_ip} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",34
+20,"{client_ip},{server_ip} ""{http_method} {url} {http_protocol}"" status: {status_code} len: {content_length} time: {response_time}",7
+21,"{client_ip},{server_ip} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {content_length} time: {response_time}",68
+22,"{client_ip},{server_ip} ""GET {request_url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",36
+23,"{client_ip},{server_ip} ""GET {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+24,[instance: {instance_id}] {action} instance,15
+25,[instance: {instance_id}] Instance destroyed successfully.,22
+26,[instance: {instance_id}] Deleting instance files {file_path},21
+27,[instance: {instance_id}] Deletion of {instance_path}_del complete,6
+28,[instance: {instance_id}] Took {time} seconds to destroy the instance on the hypervisor.,21
+29,[instance: {instance_id}] Took {time} seconds to deallocate network for instance.,21
+30,"
+Unknown base file: {file_path}
+",14
+31,Removable base files: {file_path},10
+32,Removing base or swap file: {file_path},17
+33,HTTP exception thrown: {error_message},21
+34,"[instance: {instance_id}] Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU",8
+35,"[instance: {instance_id}] Total memory: {total_memory} MB, used: {used_memory} MB",21
+36,"[instance: {instance_id}] memory limit: {memory_limit} MB, free: {free_memory} MB",11
+37,"[instance: {instance_id}] Total disk: {total_disk} GB, used: {used_disk} GB",16
+38,"[instance: {instance_id}] disk limit not specified, defaulting to unlimited",21
+39,"[instance: {instance_id}] Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",19
+40,"[instance: {instance_id}] vcpu limit not specified, defaulting to unlimited",21
+41,[instance: {instance_id}] Claim successful,9
+42,[instance: {instance_id}] {action},26
+43,[instance: {instance_id}] VM Stopped (Lifecycle Event),21
+44,Successfully synced instances from host '{hostname}'.,2
+45,"{client_ip},{server_ip} ""{http_method} {url} {protocol}"" status: {status_code} len: {content_length} time: {response_time}",10
+46,"{client_ip},{server_ip} ""GET {url} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",24
+47,"{client_ip},{server_ip} ""{http_method} {endpoint} {http_protocol}"" status: {status_code} len: {response_length} time: {response_time}",9
+48," ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",12
+49,"{client_ip},{server_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {content_length} time: {response_time}",7
+50,Running instance usage audit for host {host} from {start_time} to {end_time}. {num_instances} instances.,1
+51,[instance: {instance_id}] Deletion of {instance_path}/{instance_id}_del complete,15
+52,Unknown base file: {file_path},16
+53,Removable base files: /var/lib/nova/instances/_base/{file_id},20
+54,"
+[instance: {instance_id}] Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU
+",13
+55,"[instance: {instance_id}] memory limit: {memory_limit} MB, free: {memory_free} MB",3
+56,During {action} the instance has a pending task ({task}). Skip.,5
+57,"{ip_address} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}""",4
+58,Base or swap file too young to remove: {file_path},9
+59," ""{http_method} {url} {protocol}"" status: {status_code} len: {content_length} time: {response_time}",2
+60,"instance: {instance_id} memory limit: {memory_limit} MB, free: {free_memory} MB",7
+61,[instance: {instance_id}] {message},13
+62,Creating event network-vif-plugged:{vif_id} for instance {instance_id},5
+63,Removing base or swap file: /var/lib/nova/instances/_base/{file_id},4
+64,[instance: {instance_id}] {claim_status},1
+65,Creating event {event_name}:{event_id} for instance {instance_id},3
+66,"{client_ip},{server_ip} ""{http_method} {url} {http_protocol}"" status: {status_code} len: {response_length} time: {response_time}",3
+67,Compute_service record updated for {old_record}: {new_record},2
+68,The instance sync for host '{hostname}' did not match. Re-created its InstanceList.,5
+69,"{client_ip} ""{http_method} {endpoint} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+70,"{client_ip},{server_ip} ""{http_method} {path} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+71,"{client_ip},{server_ip} ""{http_method} {endpoint} HTTP/1.1"" status: {status_code} len: {content_length} time: {response_time}",1
+72,"[instance: {instance_id}] Total disk: {total_disk}, used: {used_disk}",3
+73,"instance: {instance_id} Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",2
+74,"image {image_id} at ({file_path}): in use: on this node {local_count} local, {other_count} on other nodes sharing this instance storage",2
+75,"{client_ip},{server_ip} ""{http_method} {endpoint} {http_protocol}"" status: {status_code} len: {content_length} time: {response_time}",2
+76,[instance: {instance_id}] Creating image,2
+77,"{client_ip},{server_ip} ""{request_method} {request_url} {request_protocol}"" status: {status_code} len: {response_length} time: {response_time}",1
+78,"{client_ip},{server_ip} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {response_length} time: {response_time}""",2
+79,"instance: {instance_id} Total disk: {total_disk}, used: {used_disk}",1
+80,"While synchronizing instance power states, found {number} instances in the database and {number} instances on the hypervisor.",1
+81,During sync_power_state the instance has a pending task ({task}). Skip.,3
+82,During {action} the {resource_type} has a pending task ({task}). Skip.,3
+83,"instance: {instance_id} Total disk: {total_disk} GB, used: {used_disk} GB",1
+84," ""{http_method} {url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",1
+85,"{client_ip},{server_ip} ""{http_method} {endpoint} {http_protocol}"" status: {status_code} len: {content_length} time: {response_time}""",1
+86,"{client_ip},{server_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",1

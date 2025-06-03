@@ -1,0 +1,328 @@
+,EventTemplate,Occurrences
+0,"{ip_address} ""{http_method} {endpoint} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",148
+1,"""{ip} ""{method} {path} {protocol}"" status: {status} len: {length} time: {response_time}""",182
+2,"{ip} ""{method} {path} {protocol}"" status: {status} len: {length} time: {response_time}",218
+3,"""{ip} ""{method} {path} HTTP/{http_version}"" status: {status_code} len: {content_length} time: {response_time}""",3
+4,[instance: {instance_id}] {event_type} (Lifecycle Event),44
+5,[instance: {instance_id}] {event_description},17
+6,[instance: {instance_id}] During sync_power_state the instance has a pending task ({task}). Skip.,30
+7,image {image_id} at ({file_path}): {action},82
+8,"image {image_id} at ({file_path}): in use: on this node {local_count} local, {other_count} on other nodes sharing this instance storage",3
+9,Active base files: {base_file_path},61
+10,"""{ip} ""{method} {path} HTTP/1.1"" status: {status} len: {length} time: {response_time}""",46
+11,Creating event network-vif-plugged:{instance_id} for instance {event_id},19
+12,"""{ip_address} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {response_length} time: {response_time}""",24
+13,[instance: {instance_id}] {message},101
+14,[instance: {instance_id}] Took {time} seconds to spawn the instance on the hypervisor.,22
+15,"image {image_id} at ({file_path}): in use: on this node {local_count} local, {other_nodes_count} on other nodes sharing this instance storage",41
+16,[instance: {instance_id}] Took {time} seconds to build instance.,22
+17,"""{ip} ""{method} {path} HTTP/{http_version}"" status: {status_code} len: {response_length} time: {response_time}""",18
+18,Auditing locally available compute resources for node {node_name},15
+19,"Total usable vcpus: {usable_vcpus}, total allocated vcpus: {allocated_vcpus}",15
+20,Final resource view: name={name} phys_ram={phys_ram}MB used_ram={used_ram}MB phys_disk={phys_disk}GB used_disk={used_disk}GB total_vcpus={total_vcpus} used_vcpus={used_vcpus} pci_stats={pci_stats},9
+21,Compute_service record updated for {compute_instance}:{compute_instance},4
+22,"image {image_id} at ({file_path}): in use: on this node {local_count} local, {other_node_count} on other nodes sharing this instance storage",38
+23,"{client_ip},{server_ip} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",7
+24,"""{client_ip} {server_ip} \""{request_method} {request_url} {http_version}\"" status: {status_code} len: {response_length} time: {response_time}""",1
+25,"{client_ip},{server_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",30
+26,"<client_ip>,<server_ip> ""<request_method> <request_uri> <request_protocol>"" status: <status_code> len: <response_length> time: <response_time>",3
+27,"""{client_ip} {server_ip} \""{method} {path} {protocol}\"" status: {status_code} len: {content_length} time: {response_time}""",25
+28,"""{client_ip} {server_ip} \""{request_method} {request_uri} {http_version}\"" status: {status_code} len: {response_length} time: {response_time}""",3
+29,[instance: {instance_id}] Deleting instance files {file_path},17
+30,[instance: {instance_id}] Deletion of {file_path} complete,15
+31,[instance: {instance_id}] Took {time} seconds to destroy the instance on the hypervisor.,21
+32,[instance: {instance_id}] Took {time} seconds to deallocate network for instance.,21
+33,Unknown base file: {base_file_path},30
+34,Removable base files: /var/lib/nova/instances/_base/{file_id},9
+35,Removing base or swap file: /var/lib/nova/instances/_base/{file_id},20
+36,HTTP exception thrown: {error_message},21
+37,"""{ip_address} ""{http_method} {url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}""",2
+38,"[instance: {instance_id}] Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU",19
+39,"[instance: {instance_id}] Total memory: {total_memory} MB, used: {used_memory} MB",21
+40,"[instance: {instance_id}] memory limit: {memory_limit} MB, free: {free_memory} MB",21
+41,"[instance: {instance_id}] Total disk: {total_disk} GB, used: {used_disk} GB",21
+42,"[instance: {instance_id}] Total vcpu: {total_vcpu} VCPU, used: {used_vcpu} VCPU",21
+43,"[instance: {instance_id}] vcpu limit not specified, defaulting to unlimited",11
+44,"{ip} ""{method} {path} HTTP/1.1"" status: {status} len: {length} time: {response_time}",3
+45,[instance: {instance_id}] {action},21
+46,"""{ip_address} ""{http_method} {endpoint} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}""",76
+47,"{ip} ""{method} {path} {protocol}"" status: {status_code} len: {length} time: {response_time}",8
+48,[instance: {instance_id}] {event_type} ({event_description}),14
+49,Creating event network-vif-plugged:$vif_id for instance $instance_id,1
+50,[instance: <instance_id>] <message>,10
+51,[instance: <instance_id>] During sync_power_state the instance has a pending task (<task>). Skip.,8
+52,Successfully synced instances from host '{host}'.,2
+53,"{client_ip},{server_ip} ""{request_method} {request_url} {request_protocol}"" status: {status_code} len: {response_length} time: {response_time}",8
+54,"{client_ip},{server_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {content_length} time: {response_time}",3
+55,"IP: %s, %s ""GET %s HTTP/1.1"" status: %d len: %d time: %f",2
+56,"IP: {client_ip}, {server_ip} ""{request_method} {request_path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",1
+57,"""{client_ip} {server_ip} \""{http_method} {path} {protocol}\"" status: {status_code} len: {content_length} time: {response_time}""",6
+58,"""{client_ip} {remote_ip} \""{method} {path} {protocol}\"" status: {status_code} len: {content_length} time: {response_time}""",5
+59,"""{client_ip},{server_ip} \""{request}\"" status: {status} len: {length} time: {response_time}""",1
+60,"IP: %s, %s ""%s %s %s"" status: %d len: %d time: %f",2
+61,"{client_ip} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",8
+62,"""{ip} ""{method} {path} {protocol}"" status: {status_code} len: {length} time: {response_time}""",14
+63,Running instance usage audit for host {host} from {start_time} to {end_time}. {num_instances} instances.,1
+64,Removable base files: {file_path},21
+65,"{ip_address} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",3
+66,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1575
+Time: 0.1955159",1
+67,[instance: {instance_id}] VM {event} (Lifecycle Event),12
+68,"{ip_address} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",4
+69,0.2706490,1
+70,Active base files: /var/lib/nova/instances/_base/{file_id},9
+71,[instance: {instance_id}] VM Resumed (Lifecycle Event),10
+72,"""{client_ip} {server_ip} \""{http_method} {path} {protocol}\"" status: {status_code} len: {response_length} time: {response_time}""",6
+73,0.0007789,1
+74,"{client_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",16
+75,0.2326000,1
+76,Base or swap file too young to remove: {file_path},3
+77,Removing base or swap file: {file_path},1
+78,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1583
+Time: 0.2041020",1
+79,"[instance: {instance_id}] disk limit not specified, defaulting to unlimited",4
+80,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1575
+Time: 0.1767941",1
+81,"""{ip} ""{method} {path} HTTP/{http_version}"" status: {status} len: {length} time: {response_time}""",5
+82,[instance: {instance_id}] VM Started (Lifecycle Event),3
+83,[instance: {instance_id}] VM Paused (Lifecycle Event),3
+84,Active base files: {file_path},12
+85,"""{ip_address} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}""",1
+86,[instance: {instance_id}] During sync_power_state the instance has a pending task ({task}). {message},5
+87,Compute_service record updated for {compute_instance},8
+88,"""{client_ip} {backend_ip} \""{http_method} {path} {protocol}\"" status: {status_code} len: {response_length} time: {response_time}""",1
+89,[instance: <instance_id>] Deletion of <file_path> complete,6
+90,Base or swap file too young to remove: /var/lib/nova/instances/_base/{file_id},6
+91,"""{ip} ""{method} {path} {protocol}"" status: {status_code} len: {content_length} time: {response_time}""",1
+92,"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: {status} len: {len} time: {time}",4
+93,"{client_ip} {server_ip} ""{request_method} {request_uri} {http_version}"" status: {status_code} len: {response_length} time: {response_time}",2
+94,"{client_ip},{server_ip} ""{request_method} {request_url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",2
+95,"{client_ip} {server_ip} ""{http_method} {url} HTTP/{http_version}"" status: {status_code} len: {response_length} time: {response_time}",1
+96,[instance: <instance_id>] Deleting instance files <file_path>,4
+97,Final resource view: name={name} phys_ram={phys_ram} used_ram={used_ram} phys_disk={phys_disk} used_disk={used_disk} total_vcpus={total_vcpus} used_vcpus={used_vcpus} pci_stats={pci_stats},6
+98,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1583
+Time: 0.1848371",1
+99,"""{client_ip} {backend_ip} \""{http_method} {request_url} {http_protocol}\"" status: {status_code} len: {response_length} time: {response_time}""",2
+100,"IP: {client_ip}, {server_ip} ""{request_method} {request_url} {http_version}"" status: {status_code} len: {response_length} time: {response_time}",1
+101,"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/af5f7392-f7d4-4298-b647-c98924c64aa1 HTTP/1.1"" status: {status} len: {len} time: {time}",1
+102,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1893
+Time: 0.2689090",1
+103,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1893
+Time: 0.2795429",1
+104,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1893
+Time: 0.3798852",1
+105,Compute_service record updated for {compute_service_name},1
+106,"""{client_ip} {server_ip} \""{request}\"" status: {status_code} len: {response_length} time: {response_time}""",1
+107,"IP: {client_ip}, {server_ip} ""{request_method} {request_url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",1
+108,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1893
+Time: 0.2679729",1
+109,"""{ip_address} ""{request_method} {request_url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}""",1
+110,The instance sync for host '{hostname}' did not match. Re-created its InstanceList.,2
+111,0.2732208,1
+112,"{client_ip},{server_ip} ""{request}"" status: {status_code} len: {response_length} time: {response_time}",3
+113,"{client_ip} {server_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",14
+114,"{client_ip} ""{http_method} {endpoint} {http_version}"" status: {status_code} len: {response_length} time: {response_time}",1
+115,"""{client_ip} {server_ip} \""{request_method} {request_path} {protocol}\"" status: {status_code} len: {response_length} time: {response_time}""",1
+116,"{client_ip} {server_ip} ""{request_method} {request_url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",1
+117,"""{client_ip} ""{request_method} {request_url} HTTP/{http_version}"" status: {status_code} len: {response_length} time: {response_time}""",1
+118,Compute_service record updated for {source}:{destination},1
+119,[instance: {instance_id}] VM {status} ({event_type}),2
+120,0.3834350,1
+121,"<IP> ""<METHOD> <PATH> <PROTOCOL>"" status: <STATUS> len: <LENGTH> time: <TIME>",2
+122,"""{client_ip},{server_ip} \""{http_method} {path} {protocol}\"" status: {status_code} len: {content_length} time: {response_time}""",2
+123,"""{client_ip} {server_ip} \""{method} {path} {protocol}\"" status: {status_code} len: {response_length} time: {response_time}""",3
+124,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1583
+Time: 0.1911871",1
+125,"Attempting claim: memory {memory} MB, disk {disk} GB, vcpus {vcpus} CPU",2
+126,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1583
+Time: 0.1919560",1
+127,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/fecdd5a9-3ca0-4c82-9336-63b7774f738e HTTP/1.1
+Status: 200
+Length: 1708
+Time: 0.1929550",1
+128,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1893
+Time: 0.2728651",1
+129,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1893
+Time: 0.2600241",1
+130,"{client_ip},{server_ip} ""{http_method} {path} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+131,"IP: {IP1},{IP2} ""GET {URL} HTTP/1.1"" status: {status} len: {length} time: {time}",1
+132,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/fecdd5a9-3ca0-4c82-9336-63b7774f738e HTTP/1.1"" status: 204 len: 203 time: 0.2630820",1
+133,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1893
+Time: 0.2583311",1
+134,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1893
+Time: 0.2615430",1
+135,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1893
+Time: 0.2519629",1
+136,"{ip} ""{method} {path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",1
+137,The instance sync for host '{host}' did not match. Re-created its InstanceList.,3
+138,"{client_ip},{server_ip} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+139,"{client_ip},{server_ip} ""{http_method} {url} {http_version}"" status: {status_code} len: {response_length} time: {response_time}",5
+140,"{client_ip} {server_ip} ""{http_method} {url} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",1
+141,"{client_ip} ""{http_method} {endpoint} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",3
+142,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1874
+Time: 0.1995878",1
+143,0.2449338,1
+144,0.2878940,1
+145,"{client_ip} {server_ip} ""{request_method} {request_url} {http_version}"" status: {status_code} len: {response_length} time: {response_time}",1
+146,"""{client_ip} {server_ip} \""{method} {path} {protocol}\"" status: {status_code} len: {length} time: {response_time}""",1
+147,"""{client_ip} {remote_ip} ""{request_method} {request_url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}""",1
+148,[instance: {instance_id}] {action} instance,2
+149,0.2420769,1
+150,[instance: {instance_id}] {event_description} (Lifecycle Event),1
+151,0.2717261,1
+152,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1910
+Time: 0.2577920",1
+153,"{client_ip} {server_ip} ""{request_method} {request_uri} {request_protocol}"" status: {status_code} len: {response_length} time: {response_time}",1
+154,"IP: 10.11.21.134,10.11.10.1
+Request: ""GET /openstack/2013-10-17 HTTP/1.1""
+Status: 200
+Length: 157
+Time: 0.2231328",1
+155,[instance: {instance_id}] Terminating instance,2
+156,"""{client_ip} {server_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}""",1
+157,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1893
+Time: 0.2769639",1
+158,Creating event network-vif-plugged:{uuid} for instance {instance_id},1
+159,"""{client_ip} {server_ip} \""{request_method} {request_url} {protocol}\"" status: {status_code} len: {response_length} time: {response_time}""",1
+160,"{client_ip} ""{http_method} {path} HTTP/1.1"" status: {status_code} len: {response_length} time: {response_time}",2
+161,0.0009499,1
+162,"While synchronizing instance power states, found {database_instances} instances in the database and {hypervisor_instances} instances on the hypervisor.",1
+163,"""{client_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}""",2
+164,"{client_ip} ""{request_method} {request_url} {http_version}"" status: {status_code} len: {response_length} time: {response_time}",3
+165,"{client_ip},{server_ip} ""{request_method} {request_url} {http_version}"" status: {status_code} len: {response_length} time: {response_time}",3
+166,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/be793e89-2cc3-4f99-9884-9c6a624a84bc HTTP/1.1"" status: {status} len: {len} time: {time}",1
+167,[instance: {instance_id}] VM {action} ({event_type}),1
+168,0.3769510,1
+169,0.4303629,1
+170,Compute_service record updated for {compute_node}:@{compute_node},1
+171,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1893
+Time: 0.2627749",1
+172,Creating event network-vif-plugged:$instance_id for instance $instance_id,1
+173,"{client_ip} {server_ip} ""{http_method} {url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",2
+174,"""{client_ip} {server_ip} \""{http_method} {endpoint} {protocol}\"" status: {status_code} len: {content_length} time: {response_time}""",1
+175,"{client_ip} ""{http_method} {url} HTTP/{http_version}"" status: {status_code} len: {response_length} time: {response_time}",1
+176,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d96a117b-0193-4549-bdcc-63b917273d1d HTTP/1.1"" status: {status} len: {len} time: {time}",1
+177,0.1962459,1
+178,"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d6b7bd36-2943-4363-9235-fffdd89ea40e HTTP/1.1"" status: {status} len: {len} time: {time}",1
+179,"
+IP: 10.11.10.1
+Request: ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1""
+Status: 200
+Length: 1893
+Time: 0.2747040",1
+180,0.2672610,1
+181,0.2591708,1
+182,"<client_ip> ""<request_method> <request_url> <request_protocol>"" status: <status_code> len: <response_length> time: <response_time>",1
+183,"IP: 10.11.21.140,10.11.10.1
+Request: ""GET /openstack/2013-10-17/user_data HTTP/1.1""
+Status: 404
+Length: 176
+Time: 0.0012619",1
+184,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d6b7bd36-2943-4363-9235-fffdd89ea40e HTTP/1.1"" status: {status} len: {len} time: {time}",1
+185,0.1959360,1
+186,"{ip} ""{method} {url} {protocol}"" status: {status} len: {length} time: {response_time}",1
+187,[instance: <instance_id>] <event_description>,1
+188,"{client_ip}, {server_ip} ""{http_method} {path} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",2
+189,"{client_ip}, {server_ip} ""{request}"" status: {status_code} len: {response_length} time: {response_time}",1
+190,"{client_ip} ""{http_method} {url} {protocol}"" status: {status_code} len: {response_length} time: {response_time}",1
+191,"IP: 10.11.21.142,10.11.10.1
+Request: ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1""
+Status: 200
+Length: 124
+Time: 0.2247450",1
+192,"IP: 10.11.21.142,10.11.10.1
+Request: ""GET /openstack/2013-10-17/meta_data.json HTTP/1.1""
+Status: 200
+Length: 967
+Time: 0.2257652",1
+193,0.1864619,1
+194,"
+IP: 10.11.10.1
+Request: GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1
+Status: 200
+Length: 1759
+Time: 0.2745810",1
+195,0.2697551,1
+196,"IP: 10.11.21.143,10.11.10.1
+Request: ""GET /latest/meta-data/ HTTP/1.1""
+Status: 200
+Length: 328
+Time: 0.2230601",1

@@ -1,0 +1,4000 @@
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+`check pass; user {status}`
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``User {username} timed out after {timeout} seconds at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{service} shutdown {result}``
+ =================== 
+``{service}` startup succeeded``
+ =================== 
+``{action}.``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``Received SNMP packet(s) from {source_ip}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+`check pass; user {status}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+`check pass; user {status}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {sourceIP} ({username}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {date_time}``
+ =================== 
+``connection from {sourceIP} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {sourceIP} ({username}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {sourceIP} () at {timestamp}`
+ =================== 
+`connection from {sourceIP} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{service} shutdown {result}```
+ =================== 
+``{service}` startup succeeded``
+ =================== 
+``{action}.``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`connection from {sourceIP} () at {timestamp}`
+ =================== 
+`connection from {sourceIP} () at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+`connection from {source_ip} () at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {sourceIP} ({username}) at {timestamp}`
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+`connection from {source_ip} () at {timestamp}`
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+`connection from {sourceIP} () at {timestamp}`
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+`connection from {source_ip} () at {timestamp}`
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason} in replay cache code``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason} in replay cache code``
+ =================== 
+`{AuthenticationType}` authentication failed
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason} in replay cache code``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason} in replay cache code``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason} in replay cache code``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason} in replay cache code``
+ =================== 
+`Authentication failed from {sourceIP} ({sourceIP}): {reason} in replay cache code`
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {errorMessage}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+`Authentication failed from {sourceIP} ({sourceIP}): {errorMessage}`
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+`Authentication failed from {sourceIP} ({sourceIP}): {reason}`
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationMethod}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+`Authentication failed from {sourceIP} ({sourceIP}): {reason}`
+ =================== 
+``Authentication failed from {sourceIP} ({sourceIP}): {reason}``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``{AuthenticationType}` authentication failed``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+`session closed for user {username}`
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+`session closed for user {username}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {date_time}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+`session closed for user {username}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+`session closed for user {username}`
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{service} shutdown {result}```
+ =================== 
+``{service}` startup succeeded``
+ =================== 
+``{action}.``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {day_of_week} {month} {day} {hour}:{minute}:{second} {year}``
+ =================== 
+``connection from {ip_address} () at {date_time}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {date_time}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+`session closed for user {username}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+``*** info [{file}(1766)]:``
+ =================== 
+``{component}``: Auto-detected {device} {interface}``
+ =================== 
+``session opened for user {username} by LOGIN(uid={uid})``
+ =================== 
+``{username} LOGIN ON {terminal}```
+ =================== 
+``session closed for user {username}``
+ =================== 
+`removing device node '{device_node}'`
+ =================== 
+`removing device node '{device_node}'`
+ =================== 
+``creating device node '{device_node}'``
+ =================== 
+``creating device node '{device_node}'``
+ =================== 
+``removing device node '{device_node}'``
+ =================== 
+`removing device node '{device_node}'`
+ =================== 
+`creating device node '{device_node}'`
+ =================== 
+``creating device node '{device_node}'``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} ({username}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} ({username}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} ({username}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{service} shutdown {result}``
+ =================== 
+``{service}` startup succeeded``
+ =================== 
+``{action}.``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{Error}`` Couldn't authenticate user
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+`session closed for user {username}`
+ =================== 
+`session closed for user {username}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{service} shutdown {result}```
+ =================== 
+``{service}` startup succeeded``
+ =================== 
+`{action}.`
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {source_ip} ({username}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({host_name}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({host_name}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} ({hostname}) at {timestamp}`
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname={logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{action} pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``check pass; user {status}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {date_time}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {date_time}``
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {date_time}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({}) at {date_time}`
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+`connection from {ip_address} ({}) at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {date_time}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({hostname}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} ({}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``ANONYMOUS FTP LOGIN FROM {ip_address},  ({username})``
+ =================== 
+``ANONYMOUS FTP LOGIN FROM {ip_address},  ({username})``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``{service} shutdown {result}``
+ =================== 
+``{service}` startup succeeded``
+ =================== 
+``{action}.``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {sourceIP} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {sourceIP} () at {timestamp}`
+ =================== 
+`connection from {sourceIP} () at {timestamp}`
+ =================== 
+``connection from {sourceIP} ({username}) at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {sourceIP} () at {timestamp}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``notify {entity} section contains no {record_type}``
+ =================== 
+``{function} ({service}): {error_message}``
+ =================== 
+`{action} (ftpd): {error_message}`
+ =================== 
+``warning: can't get {client} address: {error}``
+ =================== 
+``{action} (ftpd): {error_message}``
+ =================== 
+``warning: can't get {client} address: {error}``
+ =================== 
+``{function} ({service}): {error_message}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``connection from {source_ip} ({username}) at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {date_time}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} ({}) at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+``connection from {ip_address} () at {timestamp}``
+ =================== 
+`connection from {ip_address} () at {timestamp}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+`authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}`
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost}  user={user}``
+ =================== 
+``authentication failure; logname= {logname} uid={uid} euid={euid} tty={tty} ruser={ruser} rhost={rhost} user={user}``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``ALERT exited abnormally with [{errorCode}]``
+ =================== 
+``session opened for user {username} by (uid={uid})``
+ =================== 
+``session closed for user {username}``
+ =================== 
+``connection from {source_ip} () at {timestamp}``
+ =================== 
+``{action}.``
+ =================== 
+``{program} startup {status}``
+ =================== 
+``klogd {version}, log source = {source} started.``
+ =================== 
+`Linux version {kernel_version} ({compiler_info}) (gcc version {gcc_version} {gcc_date} ({gcc_os_version})) #{build_number} {build_date}`
+ =================== 
+``{log_message}``
+ =================== 
+``BIOS-e820: {start_address} - {end_address} ({status})``
+ =================== 
+``BIOS-e820: {start_address} - {end_address} ({type})``
+ =================== 
+``BIOS-e820: {start_address} - {end_address} ({status})``
+ =================== 
+``BIOS-e820: {start_address} - {end_address} ({type})``
+ =================== 
+``BIOS-e820: {start_address} - {end_address} ({type})``
+ =================== 
+``{memory}` HIGHMEM available.``
+ =================== 
+``{memory}` LOWMEM available.``
+ =================== 
+``{action} low {object}.``
+ =================== 
+``{process}`` startup succeeded
+ =================== 
+``On node {node} totalpages: {totalpages}``
+ =================== 
+``DMA zone: {pages} pages, LIFO batch:{batch}``
+ =================== 
+``{ZoneType} zone: {Pages} pages, LIFO batch:{Batch}``
+ =================== 
+``{process_name} startup succeeded``
+ =================== 
+``{zone} zone: {pages} pages, LIFO batch:{batch}``
+ =================== 
+``DMI {version} present.``
+ =================== 
+``{reason} disabled because your bios is from {year} and too old``
+ =================== 
+``You can enable it with {option}``
+ =================== 
+``Built {number} zonelists``
+ =================== 
+``Kernel command line: ro root={ROOT_LABEL} rhgb quiet``
+ =================== 
+``mapped {size}/{size} trampoline to {address}.``
+ =================== 
+``Initializing CPU#{cpu_number}``
+ =================== 
+``CPU {cpu_number} irqstacks, hard={hard_address} soft={soft_address}``
+ =================== 
+``{service}`` startup succeeded
+ =================== 
+``PID hash table entries: {entries} (order {order}: {bytes} bytes)``
+ =================== 
+``Detected {frequency} MHz processor.``
+ =================== 
+``Version {version} Starting``
+ =================== 
+``Using {tool} for {purpose}``
+ =================== 
+``rpc.statd {action} {result}``
+ =================== 
+``Console: colour {color} {interface} {resolution}``
+ =================== 
+``Memory: {total_memory}k/{available_memory}k available ({kernel_code}k kernel code, {reserved_memory}k reserved, {data_memory}k data, {init_memory}k init, {highmem_memory}k highmem)``
+ =================== 
+``Calibrating delay loop... {delay} BogoMIPS``
+ =================== 
+``{Component} v{Version} initialized``
+ =================== 
+``SELinux: {action}.``
+ =================== 
+``SELinux:  Starting in {mode} mode``
+ =================== 
+``There is already a {security_framework} initialized, {action} failed.``
+ =================== 
+``{Action}` registering capabilities with the {Target}`
+ =================== 
+``{function_name}:  Registering {module_type} module capability``
+ =================== 
+`{Capability} LSM initialized`
+ =================== 
+``rpc.{service} startup {status}``
+ =================== 
+``Dentry cache hash table entries: {entries} (order: {order}, {bytes} bytes)``
+ =================== 
+``Inode-cache hash table entries: {entries} (order: {order}, {bytes} bytes)``
+ =================== 
+``Mount-cache hash table entries: {entries} (order: {order}, {bytes} bytes)``
+ =================== 
+``CPU: L1 I cache: {L1_I_cache}, L1 D cache: {L1_D_cache}``
+ =================== 
+``CPU: L2 cache: {size}``
+ =================== 
+`{Vendor} machine check architecture supported.`
+ =================== 
+``{Vendor}` machine check reporting enabled on CPU#{CPU_number}.``
+ =================== 
+``CPU: {Brand} {Model} (Coppermine) stepping {Stepping}```
+ =================== 
+``Enabling {feature} save and restore... {status}.``
+ =================== 
+``Enabling {feature} SIMD FPU exception support... {status}.``
+ =================== 
+``Checking '{instruction}' instruction... {status}.``
+ =================== 
+``Initializing random number generator: {status}``
+ =================== 
+``{TestingType} conformance testing by {Organization}``
+ =================== 
+``NET: Registered protocol family {protocol_family}``
+ =================== 
+`PCI: PCI BIOS revision {revision} entry at {address}, last bus={bus}`
+ =================== 
+``PCI: Using configuration type {config_type}``
+ =================== 
+``mtrr: v{version} ({date})``
+ =================== 
+``ACPI: Subsystem revision {revision}``
+ =================== 
+``ACPI: {Interpreter} disabled.``
+ =================== 
+``{OS}` Plug and Play Support v{version} (c) {author}`
+ =================== 
+``Starting {service}:  {status}```
+ =================== 
+``{module}``: registered new driver {driver}``
+ =================== 
+``{module}``: registered new driver {driver}``
+ =================== 
+``{subsystem}`: {error_message}`
+ =================== 
+``PCI: {error_type} ACPI-PCI IRQ routing table``
+ =================== 
+``PCI: Probing {hardware}``
+ =================== 
+``PCI: Probing PCI hardware (bus {bus_number})``
+ =================== 
+``Transparent bridge - {device}```
+ =================== 
+``PCI: Using IRQ router {router} [{vendor}/{device}] at {location}``
+ =================== 
+``apm: BIOS version {version} Flags {flags} (Driver version {driver_version})``
+ =================== 
+``audit: initializing {service} socket ({status})``
+ =================== 
+``kernel.core_uses_pid = {value}``
+ =================== 
+``HCI daemon ver {version} started``
+ =================== 
+``{service_name} startup {status}``
+ =================== 
+``audit({timestamp}:{value}): {action}``
+ =================== 
+``Setting network parameters: {status}``
+ =================== 
+``{service_name} startup {status}```
+ =================== 
+``{service_name} v{version} {status}``
+ =================== 
+``Total HugeTLB memory allocated, {memory}``
+ =================== 
+``Bringing up {interface}: {status}``
+ =================== 
+``VFS: Disk quotas {dquot_version}``
+ =================== 
+``Dquot-cache hash table entries: {entries} (order {order}, {bytes} bytes)``
+ =================== 
+``SELinux:  Registering {module} hooks``
+ =================== 
+``{Action}` Cryptographic API``
+ =================== 
+``pci_hotplug: PCI Hot Plug {component} Core version: {version}``
+ =================== 
+`{subsystem}`: Scanning for PnP cards...
+ =================== 
+``{subsystem}`: No {status} device found``
+ =================== 
+``Real Time Clock Driver v{version}``
+ =================== 
+``{OS}` agpgart interface v{version} (c) {author}`
+ =================== 
